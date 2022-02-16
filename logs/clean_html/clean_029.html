@@ -70,7 +70,7 @@ Motion type - the type of motion (joint, circular, or linear);
 Termination type - the type of termination at the point expressed as a percentage (0 indicates stop at the point, 100 indicates move through or near the point without stopping);
 Velocity - percentage of the maximum velocity to use when moving towards the GP;
 Acceleration - percentage of the maximum acceleration to use when moving towards the GP;
-P>Wait time - time for the robot to wait (be stationary) after reaching the GP;
+PWait time - time for the robot to wait (be stationary) after reaching the GP;
 Routine to call - the name of a routine which is to be called once the GP is reached;
 Signal - the type of signal ling to do once the GP is reached - options are No signal, EnterInterferenceZone (wait for a signal from another robot saying that the other robot has left a zone of interference, then once it is received send a signal to the other robot saying that it has entered the zone of intereference), LeaveInterferenceZone (send a signal to another robot saying that it has left a zone of interference). Note that interference zones in this context do not need to have their physical bounds described but are defined by when on the GP path the signals are sent;
 Tool action - the tool action to be performed after the robot reaches the GP. Possible values are defined by the application (see GP path application) but examples are ArcOn and ArcOff (for arc welding) and PaintSprayOn and PaintSprayOff (for paint spraying). Different tool graphics are displayed during a simulation of the robot following the GP path as each action is executed.

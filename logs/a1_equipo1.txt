@@ -1,511 +1,511 @@
 Prueba: Abrir y cerrar archivos.
 
-  1. resources\Files\002.html                                                                            0.01433277
-  2. resources\Files\003.html                                                                            0.04155922
-  3. resources\Files\004.html                                                                            0.01740646
-  4. resources\Files\005.html                                                                            0.01556325
-  5. resources\Files\006.html                                                                            0.07402301
-  6. resources\Files\007.html                                                                            0.04452085
-  7. resources\Files\008.html                                                                            0.03332806
-  8. resources\Files\009.html                                                                            0.03799438
-  9. resources\Files\010.html                                                                            0.03341341
- 10. resources\Files\011.html                                                                            0.03597832
- 11. resources\Files\012.html                                                                            0.04497385
- 12. resources\Files\013.html                                                                            0.07095981
- 13. resources\Files\014.html                                                                            0.05596805
- 14. resources\Files\015.html                                                                            0.02598476
- 15. resources\Files\016.html                                                                            0.06196547
- 16. resources\Files\017.html                                                                            0.03797793
- 17. resources\Files\018.html                                                                            0.08495069
- 18. resources\Files\019.html                                                                            0.04597521
- 19. resources\Files\020.html                                                                            0.11370182
- 20. resources\Files\021.html                                                                            0.04897285
- 21. resources\Files\022.html                                                                            0.06596470
- 22. resources\Files\023.html                                                                            0.03705430
- 23. resources\Files\024.html                                                                            0.07762766
- 24. resources\Files\025.html                                                                            0.11393428
- 25. resources\Files\026.html                                                                            0.08497953
- 26. resources\Files\027.html                                                                            0.05097008
- 27. resources\Files\028.html                                                                            0.05996490
- 28. resources\Files\029.html                                                                            0.03697991
- 29. resources\Files\030.html                                                                            0.01998687
- 30. resources\Files\031.html                                                                            0.07723069
- 31. resources\Files\032.html                                                                            0.07104325
- 32. resources\Files\033.html                                                                            0.38467598
- 33. resources\Files\034.html                                                                            0.24099636
- 34. resources\Files\035.html                                                                            0.00999784
- 35. resources\Files\036.html                                                                            0.14421010
- 36. resources\Files\037.html                                                                            0.10186458
- 37. resources\Files\038.html                                                                            0.15202117
- 38. resources\Files\039.html                                                                            0.20499182
- 39. resources\Files\040.html                                                                            0.26682210
- 40. resources\Files\041.html                                                                            0.08762622
- 41. resources\Files\042.html                                                                            0.38832855
- 42. resources\Files\043.html                                                                            0.57231426
- 43. resources\Files\044.html                                                                            0.16634440
- 44. resources\Files\045.html                                                                            0.01550245
- 45. resources\Files\046.html                                                                            0.10781574
- 46. resources\Files\047.html                                                                            0.28536344
- 47. resources\Files\048.html                                                                            0.24976015
- 48. resources\Files\049.html                                                                            0.13692236
- 49. resources\Files\050.html                                                                            0.08295274
- 50. resources\Files\051.html                                                                            0.11891913
- 51. resources\Files\052.html                                                                            0.06999040
- 52. resources\Files\053.html                                                                            0.41974854
- 53. resources\Files\054.html                                                                            0.08794856
- 54. resources\Files\055.html                                                                            0.23479080
- 55. resources\Files\056.html                                                                            0.01498795
- 56. resources\Files\057.html                                                                            0.29437685
- 57. resources\Files\058.html                                                                            0.14850569
- 58. resources\Files\059.html                                                                            0.08777571
- 59. resources\Files\060.html                                                                            0.13161588
- 60. resources\Files\061.html                                                                            0.01118875
- 61. resources\Files\062.html                                                                            0.22552347
- 62. resources\Files\063.html                                                                            0.01963687
- 63. resources\Files\064.html                                                                            0.00600958
- 64. resources\Files\065.html                                                                            0.07454610
- 65. resources\Files\066.html                                                                            0.10549045
- 66. resources\Files\067.html                                                                            0.07503939
- 67. resources\Files\068.html                                                                            0.14791512
- 68. resources\Files\069.html                                                                            0.03200340
- 69. resources\Files\070.html                                                                            0.01596951
- 70. resources\Files\071.html                                                                            0.01599169
- 71. resources\Files\072.html                                                                            0.03997850
- 72. resources\Files\073.html                                                                            0.01544642
- 73. resources\Files\074.html                                                                            0.23771167
- 74. resources\Files\075.html                                                                            0.04897141
- 75. resources\Files\076.html                                                                            0.02812290
- 76. resources\Files\077.html                                                                            0.20208883
- 77. resources\Files\078.html                                                                            0.00602007
- 78. resources\Files\079.html                                                                            0.13068247
- 79. resources\Files\080.html                                                                            0.11084795
- 80. resources\Files\081.html                                                                            0.00643325
- 81. resources\Files\082.html                                                                            0.05997181
- 82. resources\Files\083.html                                                                            0.01909804
- 83. resources\Files\084.html                                                                            0.03242445
- 84. resources\Files\085.html                                                                            0.12259507
- 85. resources\Files\086.html                                                                            0.02997804
- 86. resources\Files\087.html                                                                            0.03670144
- 87. resources\Files\088.html                                                                            0.08827019
- 88. resources\Files\089.html                                                                            0.03797984
- 89. resources\Files\090.html                                                                            0.00799584
- 90. resources\Files\091.html                                                                            0.07188630
- 91. resources\Files\092.html                                                                            0.09894395
- 92. resources\Files\093.html                                                                            0.10341787
- 93. resources\Files\094.html                                                                            0.12093186
- 94. resources\Files\095.html                                                                            0.03230929
- 95. resources\Files\096.html                                                                            0.01462984
- 96. resources\Files\097.html                                                                            0.00899577
- 97. resources\Files\098.html                                                                            0.01299191
- 98. resources\Files\099.html                                                                            0.08295321
- 99. resources\Files\100.html                                                                            0.13798308
-100. resources\Files\101.html                                                                            0.15658426
-101. resources\Files\102.html                                                                            0.00699639
-102. resources\Files\103.html                                                                            0.19010186
-103. resources\Files\104.html                                                                            0.06950474
-104. resources\Files\105.html                                                                            0.18425679
-105. resources\Files\106.html                                                                            0.04197598
-106. resources\Files\107.html                                                                            0.11493993
-107. resources\Files\108.html                                                                            0.09315705
-108. resources\Files\109.html                                                                            0.16594267
-109. resources\Files\110.html                                                                            0.12490726
-110. resources\Files\111.html                                                                            0.05597639
-111. resources\Files\112.html                                                                            0.17246985
-112. resources\Files\113.html                                                                            0.11781979
-113. resources\Files\114.html                                                                            3.04466033
-114. resources\Files\115.html                                                                            0.08910108
-115. resources\Files\116.html                                                                            0.07495928
-116. resources\Files\117.html                                                                            0.05796409
-117. resources\Files\118.html                                                                            0.11293650
-118. resources\Files\119.html                                                                            0.09294653
-119. resources\Files\120.html                                                                            0.03797770
-120. resources\Files\121.html                                                                            0.02498555
-121. resources\Files\122.html                                                                            0.02198768
-122. resources\Files\123.html                                                                            0.09694529
-123. resources\Files\124.html                                                                            0.02598524
-124. resources\Files\125.html                                                                            0.03098345
-125. resources\Files\126.html                                                                            0.01599169
-126. resources\Files\127.html                                                                            0.13592052
-127. resources\Files\128.html                                                                            0.08095431
-128. resources\Files\129.html                                                                            0.05625820
-129. resources\Files\130.html                                                                            0.00099730
-130. resources\Files\131.html                                                                            0.01299214
-131. resources\Files\132.html                                                                            0.14049220
-132. resources\Files\133.html                                                                            0.04793596
-133. resources\Files\134.html                                                                            0.14736629
-134. resources\Files\135.html                                                                            0.03124976
-135. resources\Files\136.html                                                                            0.06522155
-136. resources\Files\137.html                                                                            0.21719337
-137. resources\Files\138.html                                                                            0.07341146
-138. resources\Files\139.html                                                                            0.00000000
-139. resources\Files\140.html                                                                            0.04847240
-140. resources\Files\141.html                                                                            0.03298187
-141. resources\Files\142.html                                                                            0.05896759
-142. resources\Files\143.html                                                                            0.03297949
-143. resources\Files\144.html                                                                            0.06296396
-144. resources\Files\145.html                                                                            0.01344538
-145. resources\Files\146.html                                                                            0.01562381
-146. resources\Files\147.html                                                                            0.04334807
-147. resources\Files\148.html                                                                            0.02398586
-148. resources\Files\149.html                                                                            0.01705432
-149. resources\Files\150.html                                                                            0.01562476
-150. resources\Files\151.html                                                                            0.01562405
-151. resources\Files\152.html                                                                            0.05321646
-152. resources\Files\153.html                                                                            0.02300096
-153. resources\Files\154.html                                                                            0.05295134
-154. resources\Files\155.html                                                                            0.03897762
-155. resources\Files\156.html                                                                            0.01499152
-156. resources\Files\157.html                                                                            0.03897786
-157. resources\Files\158.html                                                                            0.05497074
-158. resources\Files\159.html                                                                            0.04797029
-159. resources\Files\160.html                                                                            0.02998281
-160. resources\Files\161.html                                                                            0.04197669
-161. resources\Files\162.html                                                                            0.05696702
-162. resources\Files\163.html                                                                            0.04997182
-163. resources\Files\164.html                                                                            0.04097748
-164. resources\Files\165.html                                                                            0.06996083
-165. resources\Files\166.html                                                                            0.15491128
-166. resources\Files\167.html                                                                            0.02298689
-167. resources\Files\168.html                                                                            0.09294581
-168. resources\Files\169.html                                                                            0.21703267
-169. resources\Files\170.html                                                                            0.02398610
-170. resources\Files\171.html                                                                            0.12992573
-171. resources\Files\172.html                                                                            0.15591121
-172. resources\Files\173.html                                                                            0.36708140
-173. resources\Files\174.html                                                                            0.11415768
-174. resources\Files\175.html                                                                            0.46467090
-175. resources\Files\176.html                                                                            0.20413494
-176. resources\Files\177.html                                                                            0.33976984
-177. resources\Files\178.html                                                                            0.04687095
-178. resources\Files\179.html                                                                            0.14600444
-179. resources\Files\180.html                                                                            0.07626820
-180. resources\Files\181.html                                                                            0.03124928
-181. resources\Files\182.html                                                                            0.09376216
-182. resources\Files\183.html                                                                            0.06247759
-183. resources\Files\184.html                                                                            0.09200644
-184. resources\Files\185.html                                                                            0.04851413
-185. resources\Files\186.html                                                                            0.01562524
-186. resources\Files\187.html                                                                            0.04687047
-187. resources\Files\188.html                                                                            0.09568048
-188. resources\Files\189.html                                                                            0.03125024
-189. resources\Files\190.html                                                                            0.04687142
-190. resources\Files\191.html                                                                            0.04687142
-191. resources\Files\192.html                                                                            0.03124666
-192. resources\Files\193.html                                                                            0.09374428
-193. resources\Files\194.html                                                                            0.09374332
-194. resources\Files\195.html                                                                            0.04687405
-195. resources\Files\196.html                                                                            0.03124619
-196. resources\Files\197.html                                                                            0.11085343
-197. resources\Files\198.html                                                                            0.01562190
-198. resources\Files\199.html                                                                            0.14063478
-199. resources\Files\200.html                                                                            0.12975931
-200. resources\Files\201.html                                                                            0.06199288
-201. resources\Files\202.html                                                                            0.03124714
-202. resources\Files\203.html                                                                            0.07812047
-203. resources\Files\204.html                                                                            0.07460451
-204. resources\Files\205.html                                                                            0.03124738
-205. resources\Files\206.html                                                                            0.06595802
-206. resources\Files\207.html                                                                            0.06984401
-207. resources\Files\208.html                                                                            0.03265166
-208. resources\Files\209.html                                                                            0.03124905
-209. resources\Files\210.html                                                                            0.05596304
-210. resources\Files\211.html                                                                            0.03003001
-211. resources\Files\212.html                                                                            0.03708100
-212. resources\Files\213.html                                                                            0.02882767
-213. resources\Files\214.html                                                                            0.17186785
-214. resources\Files\215.html                                                                            0.03124833
-215. resources\Files\216.html                                                                            0.18020964
-216. resources\Files\217.html                                                                            0.03124762
-217. resources\Files\218.html                                                                            0.06792426
-218. resources\Files\219.html                                                                            0.13592267
-219. resources\Files\220.html                                                                            0.18143201
-220. resources\Files\221.html                                                                            0.03124881
-221. resources\Files\222.html                                                                            0.23881435
-222. resources\Files\223.html                                                                            0.04275918
-223. resources\Files\224.html                                                                            0.10139179
-224. resources\Files\225.html                                                                            0.04928923
-225. resources\Files\226.html                                                                            0.06249547
-226. resources\Files\227.html                                                                            0.07270336
-227. resources\Files\228.html                                                                            0.04687333
-228. resources\Files\229.html                                                                            0.06249475
-229. resources\Files\230.html                                                                            0.04476142
-230. resources\Files\231.html                                                                            0.06368661
-231. resources\Files\232.html                                                                            0.03166819
-232. resources\Files\233.html                                                                            0.05259442
-233. resources\Files\234.html                                                                            0.01593876
-234. resources\Files\235.html                                                                            0.01562047
-235. resources\Files\236.html                                                                            0.04561710
-236. resources\Files\237.html                                                                            0.12830901
-237. resources\Files\238.html                                                                            0.05665374
-238. resources\Files\239.html                                                                            0.01562405
-239. resources\Files\240.html                                                                            0.03125000
-240. resources\Files\241.html                                                                            0.04571295
-241. resources\Files\242.html                                                                            0.02098846
-242. resources\Files\243.html                                                                            0.05128646
-243. resources\Files\244.html                                                                            0.04689002
-244. resources\Files\245.html                                                                            0.30673170
-245. resources\Files\246.html                                                                            0.03034616
-246. resources\Files\247.html                                                                            0.19457817
-247. resources\Files\248.html                                                                            0.15623808
-248. resources\Files\249.html                                                                            0.03124690
-249. resources\Files\250.html                                                                            0.03124714
-250. resources\Files\251.html                                                                            0.06249666
-251. resources\Files\252.html                                                                            0.04687119
-252. resources\Files\253.html                                                                            0.17498493
-253. resources\Files\254.html                                                                            0.09373140
-254. resources\Files\255.html                                                                            0.12499070
-255. resources\Files\256.html                                                                            0.03124642
-256. resources\Files\257.html                                                                            0.15624142
-257. resources\Files\258.html                                                                            0.06305265
-258. resources\Files\259.html                                                                            0.09688807
-259. resources\Files\260.html                                                                            0.22935796
-260. resources\Files\261.html                                                                            0.05954409
-261. resources\Files\262.html                                                                            0.15358973
-262. resources\Files\263.html                                                                            0.02568674
-263. resources\Files\264.html                                                                            0.06249738
-264. resources\Files\265.html                                                                            0.07811856
-265. resources\Files\266.html                                                                            0.04687166
-266. resources\Files\267.html                                                                            0.06251335
-267. resources\Files\268.html                                                                            2.91436982
-268. resources\Files\269.html                                                                            0.31248212
-269. resources\Files\270.html                                                                            0.06254673
-270. resources\Files\271.html                                                                            0.06243634
-271. resources\Files\272.html                                                                            0.06407571
-272. resources\Files\273.html                                                                            0.07813549
-273. resources\Files\274.html                                                                            0.07810688
-274. resources\Files\275.html                                                                            0.06249380
-275. resources\Files\276.html                                                                            0.03124833
-276. resources\Files\277.html                                                                            0.03124666
-277. resources\Files\278.html                                                                            0.01564550
-278. resources\Files\279.html                                                                            0.14059496
-279. resources\Files\280.html                                                                            0.03124666
-280. resources\Files\281.html                                                                            0.05195045
-281. resources\Files\282.html                                                                            0.07453609
-282. resources\Files\283.html                                                                            0.01562381
-283. resources\Files\284.html                                                                            0.04687238
-284. resources\Files\285.html                                                                            0.04687071
-285. resources\Files\286.html                                                                            0.06249547
-286. resources\Files\287.html                                                                            0.07817602
-287. resources\Files\288.html                                                                            0.14055824
-288. resources\Files\289.html                                                                            0.04165363
-289. resources\Files\290.html                                                                            0.02298713
-290. resources\Files\291.html                                                                            0.01504254
-291. resources\Files\292.html                                                                            0.03125262
-292. resources\Files\293.html                                                                            0.03124595
-293. resources\Files\294.html                                                                            0.15623689
-294. resources\Files\295.html                                                                            0.03124857
-295. resources\Files\296.html                                                                            0.03124905
-296. resources\Files\297.html                                                                            0.07812715
-297. resources\Files\298.html                                                                            0.16596270
-298. resources\Files\299.html                                                                            0.04062414
-299. resources\Files\300.html                                                                            0.10938001
-300. resources\Files\301.html                                                                            0.03123522
-301. resources\Files\302.html                                                                            0.07812071
-302. resources\Files\303.html                                                                            0.04687095
-303. resources\Files\304.html                                                                            0.10936809
-304. resources\Files\305.html                                                                            0.01562381
-305. resources\Files\306.html                                                                            0.08929920
-306. resources\Files\307.html                                                                            0.20614815
-307. resources\Files\308.html                                                                            0.03125906
-308. resources\Files\309.html                                                                            0.03123546
-309. resources\Files\310.html                                                                            0.01562643
-310. resources\Files\311.html                                                                            0.03124952
-311. resources\Files\312.html                                                                            0.01561975
-312. resources\Files\313.html                                                                            0.06254125
-313. resources\Files\314.html                                                                            0.06250739
-314. resources\Files\315.html                                                                            0.12635493
-315. resources\Files\316.html                                                                            0.05984831
-316. resources\Files\317.html                                                                            0.14059711
-317. resources\Files\318.html                                                                            0.03124785
-318. resources\Files\319.html                                                                            0.04717326
-319. resources\Files\320.html                                                                            0.04702425
-320. resources\Files\321.html                                                                            0.04797220
-321. resources\Files\322.html                                                                            0.04306483
-322. resources\Files\323.html                                                                            0.05167174
-323. resources\Files\324.html                                                                            0.03265595
-324. resources\Files\325.html                                                                            0.04687285
-325. resources\Files\326.html                                                                            0.01562262
-326. resources\Files\327.html                                                                            0.04687333
-327. resources\Files\328.html                                                                            0.03124738
-328. resources\Files\329.html                                                                            0.03124666
-329. resources\Files\330.html                                                                            0.03124857
-330. resources\Files\331.html                                                                            0.01562285
-331. resources\Files\332.html                                                                            0.01562548
-332. resources\Files\333.html                                                                            0.01562476
-333. resources\Files\334.html                                                                            0.01562309
-334. resources\Files\335.html                                                                            0.01562238
-335. resources\Files\336.html                                                                            0.01562548
-336. resources\Files\337.html                                                                            0.01562524
-337. resources\Files\338.html                                                                            0.03124499
-338. resources\Files\339.html                                                                            0.03124785
-339. resources\Files\340.html                                                                            0.03124738
-340. resources\Files\341.html                                                                            0.01562691
-341. resources\Files\342.html                                                                            0.03126597
-342. resources\Files\343.html                                                                            0.14271331
-343. resources\Files\344.html                                                                            0.12494373
-344. resources\Files\345.html                                                                            0.17185545
-345. resources\Files\346.html                                                                            0.04188466
-346. resources\Files\347.html                                                                            0.11793232
-347. resources\Files\348.html                                                                            0.11593366
-348. resources\Files\349.html                                                                            0.01404786
-349. resources\Files\350.html                                                                            0.01562476
-350. resources\Files\351.html                                                                            0.04098082
-351. resources\Files\352.html                                                                            0.02198720
-352. resources\Files\353.html                                                                            0.03298116
-353. resources\Files\354.html                                                                            0.02598500
-354. resources\Files\355.html                                                                            0.02598977
-355. resources\Files\356.html                                                                            0.02598238
-356. resources\Files\357.html                                                                            0.02898216
-357. resources\Files\358.html                                                                            0.03697896
-358. resources\Files\359.html                                                                            0.02098727
-359. resources\Files\360.html                                                                            0.01599050
-360. resources\Files\361.html                                                                            0.01399231
-361. resources\Files\362.html                                                                            0.01599073
-362. resources\Files\363.html                                                                            0.01299214
-363. resources\Files\364.html                                                                            0.07825637
-364. resources\Files\365.html                                                                            0.06424785
-365. resources\Files\366.html                                                                            0.04687214
-366. resources\Files\367.html                                                                            0.03124475
-367. resources\Files\368.html                                                                            0.04687309
-368. resources\Files\369.html                                                                            0.03124642
-369. resources\Files\370.html                                                                            0.05594540
-370. resources\Files\371.html                                                                            0.03498173
-371. resources\Files\372.html                                                                            0.02098680
-372. resources\Files\373.html                                                                            0.05596781
-373. resources\Files\374.html                                                                            0.02960038
-374. resources\Files\375.html                                                                            0.03597951
-375. resources\Files\376.html                                                                            0.02498555
-376. resources\Files\377.html                                                                            0.03198361
-377. resources\Files\378.html                                                                            0.02298617
-378. resources\Files\379.html                                                                            0.01599097
-379. resources\Files\380.html                                                                            0.01998782
-380. resources\Files\381.html                                                                            0.04797292
-381. resources\Files\382.html                                                                            0.02098727
-382. resources\Files\383.html                                                                            0.08959031
-383. resources\Files\384.html                                                                            0.05910659
-384. resources\Files\385.html                                                                            0.09940863
-385. resources\Files\386.html                                                                            0.06086326
-386. resources\Files\387.html                                                                            0.08268833
-387. resources\Files\388.html                                                                            0.15624070
-388. resources\Files\389.html                                                                            0.03124475
-389. resources\Files\390.html                                                                            0.03833914
-390. resources\Files\391.html                                                                            0.02098918
-391. resources\Files\392.html                                                                            0.02359223
-392. resources\Files\393.html                                                                            0.02998281
-393. resources\Files\394.html                                                                            0.04004288
-394. resources\Files\395.html                                                                            0.03897905
-395. resources\Files\396.html                                                                            0.05014062
-396. resources\Files\397.html                                                                            0.31861544
-397. resources\Files\398.html                                                                            0.14061141
-398. resources\Files\399.html                                                                            0.03124833
-399. resources\Files\400.html                                                                            0.03124762
-400. resources\Files\401.html                                                                            0.01562357
-401. resources\Files\402.html                                                                            0.05441332
-402. resources\Files\403.html                                                                            0.01904702
-403. resources\Files\404.html                                                                            0.02307510
-404. resources\Files\405.html                                                                            0.01566935
-405. resources\Files\406.html                                                                            0.01563907
-406. resources\Files\407.html                                                                            0.01562142
-407. resources\Files\408.html                                                                            0.03119206
-408. resources\Files\409.html                                                                            0.01568174
-409. resources\Files\410.html                                                                            0.01562381
-410. resources\Files\411.html                                                                            0.01562071
-411. resources\Files\412.html                                                                            0.01562786
-412. resources\Files\413.html                                                                            0.06243563
-413. resources\Files\414.html                                                                            0.04687309
-414. resources\Files\415.html                                                                            0.03124857
-415. resources\Files\416.html                                                                            0.15623975
-416. resources\Files\417.html                                                                            0.03124642
-417. resources\Files\418.html                                                                            0.22397494
-418. resources\Files\419.html                                                                            0.24995422
-419. resources\Files\420.html                                                                            0.16998696
-420. resources\Files\421.html                                                                            0.09374952
-421. resources\Files\422.html                                                                            0.14055586
-422. resources\Files\423.html                                                                            0.04686880
-423. resources\Files\424.html                                                                            0.03124809
-424. resources\Files\425.html                                                                            0.01567841
-425. resources\Files\426.html                                                                            0.01562476
-426. resources\Files\427.html                                                                            0.01556969
-427. resources\Files\428.html                                                                            0.01565981
-428. resources\Files\429.html                                                                            0.03120852
-429. resources\Files\430.html                                                                            0.03295279
-430. resources\Files\431.html                                                                            0.03003311
-431. resources\Files\432.html                                                                            0.01563072
-432. resources\Files\433.html                                                                            0.04686904
-433. resources\Files\434.html                                                                            0.04686904
-434. resources\Files\435.html                                                                            0.03124928
-435. resources\Files\436.html                                                                            0.04688096
-436. resources\Files\437.html                                                                            0.03123999
-437. resources\Files\438.html                                                                            0.03125143
-438. resources\Files\439.html                                                                            0.03126502
-439. resources\Files\440.html                                                                            0.01562428
-440. resources\Files\441.html                                                                            0.01560163
-441. resources\Files\442.html                                                                            0.03125024
-442. resources\Files\443.html                                                                            0.01567721
-443. resources\Files\444.html                                                                            0.01562524
-444. resources\Files\445.html                                                                            0.01562405
-445. resources\Files\446.html                                                                            0.01562190
-446. resources\Files\447.html                                                                            0.01562548
-447. resources\Files\448.html                                                                            0.03118873
-448. resources\Files\449.html                                                                            0.01568246
-449. resources\Files\450.html                                                                            0.03503323
-450. resources\Files\451.html                                                                            0.02850842
-451. resources\Files\452.html                                                                            0.03128338
-452. resources\Files\453.html                                                                            0.03121281
-453. resources\Files\454.html                                                                            0.04687095
-454. resources\Files\455.html                                                                            0.03124690
-455. resources\Files\456.html                                                                            0.01567888
-456. resources\Files\457.html                                                                            0.03124809
-457. resources\Files\458.html                                                                            0.04681802
-458. resources\Files\459.html                                                                            0.04686975
-459. resources\Files\460.html                                                                            0.01568985
-460. resources\Files\461.html                                                                            0.03118372
-461. resources\Files\462.html                                                                            0.01567817
-462. resources\Files\463.html                                                                            0.10935044
-463. resources\Files\464.html                                                                            0.07988286
-464. resources\Files\465.html                                                                            0.01563573
-465. resources\Files\466.html                                                                            0.07810712
-466. resources\Files\467.html                                                                            0.03125978
-467. resources\Files\468.html                                                                            0.03127027
-468. resources\Files\469.html                                                                            0.03122497
-469. resources\Files\470.html                                                                            0.01563287
-470. resources\Files\471.html                                                                            0.01565695
-471. resources\Files\472.html                                                                            0.01557183
-472. resources\Files\473.html                                                                            0.03124237
-473. resources\Files\474.html                                                                            0.01562643
-474. resources\Files\475.html                                                                            0.01567793
-475. resources\Files\476.html                                                                            0.01557159
-476. resources\Files\477.html                                                                            0.06250787
-477. resources\Files\478.html                                                                            0.03129721
-478. resources\Files\479.html                                                                            0.01562428
-479. resources\Files\480.html                                                                            0.01562309
-480. resources\Files\481.html                                                                            0.01562381
-481. resources\Files\482.html                                                                            0.01593494
-482. resources\Files\483.html                                                                            0.02888179
-483. resources\Files\484.html                                                                            0.01814461
-484. resources\Files\485.html                                                                            0.04687834
-485. resources\Files\486.html                                                                            0.03129983
-486. resources\Files\487.html                                                                            0.01560450
-487. resources\Files\488.html                                                                            0.01564264
-488. resources\Files\489.html                                                                            0.01562905
-489. resources\Files\490.html                                                                            0.01556635
-490. resources\Files\491.html                                                                            0.01567912
-491. resources\Files\492.html                                                                            0.01562190
-492. resources\Files\493.html                                                                            0.01562428
-493. resources\Files\494.html                                                                            0.03119993
+  1. resources\Files\002.html                                                                            0.00000000
+  2. resources\Files\003.html                                                                            0.00000000
+  3. resources\Files\004.html                                                                            0.00000000
+  4. resources\Files\005.html                                                                            0.00000000
+  5. resources\Files\006.html                                                                            0.00000000
+  6. resources\Files\007.html                                                                            0.00000000
+  7. resources\Files\008.html                                                                            0.00000000
+  8. resources\Files\009.html                                                                            0.00000000
+  9. resources\Files\010.html                                                                            0.00000000
+ 10. resources\Files\011.html                                                                            0.00000000
+ 11. resources\Files\012.html                                                                            0.00000000
+ 12. resources\Files\013.html                                                                            0.00000000
+ 13. resources\Files\014.html                                                                            0.00000000
+ 14. resources\Files\015.html                                                                            0.00000000
+ 15. resources\Files\016.html                                                                            0.00000000
+ 16. resources\Files\017.html                                                                            0.00000000
+ 17. resources\Files\018.html                                                                            0.00000000
+ 18. resources\Files\019.html                                                                            0.00000000
+ 19. resources\Files\020.html                                                                            0.00000000
+ 20. resources\Files\021.html                                                                            0.00000000
+ 21. resources\Files\022.html                                                                            0.00000000
+ 22. resources\Files\023.html                                                                            0.00000000
+ 23. resources\Files\024.html                                                                            0.00000000
+ 24. resources\Files\025.html                                                                            0.00099945
+ 25. resources\Files\026.html                                                                            0.00000000
+ 26. resources\Files\027.html                                                                            0.00000000
+ 27. resources\Files\028.html                                                                            0.00099945
+ 28. resources\Files\029.html                                                                            0.00000000
+ 29. resources\Files\030.html                                                                            0.00000000
+ 30. resources\Files\031.html                                                                            0.00000000
+ 31. resources\Files\032.html                                                                            0.00000000
+ 32. resources\Files\033.html                                                                            0.00099897
+ 33. resources\Files\034.html                                                                            0.00000000
+ 34. resources\Files\035.html                                                                            0.00000000
+ 35. resources\Files\036.html                                                                            0.00100088
+ 36. resources\Files\037.html                                                                            0.00000000
+ 37. resources\Files\038.html                                                                            0.00000000
+ 38. resources\Files\039.html                                                                            0.00000000
+ 39. resources\Files\040.html                                                                            0.00000000
+ 40. resources\Files\041.html                                                                            0.00000000
+ 41. resources\Files\042.html                                                                            0.00000000
+ 42. resources\Files\043.html                                                                            0.00000000
+ 43. resources\Files\044.html                                                                            0.00000000
+ 44. resources\Files\045.html                                                                            0.00000000
+ 45. resources\Files\046.html                                                                            0.00099874
+ 46. resources\Files\047.html                                                                            0.00000000
+ 47. resources\Files\048.html                                                                            0.00000000
+ 48. resources\Files\049.html                                                                            0.00000000
+ 49. resources\Files\050.html                                                                            0.00000000
+ 50. resources\Files\051.html                                                                            0.00099921
+ 51. resources\Files\052.html                                                                            0.00000000
+ 52. resources\Files\053.html                                                                            0.00000000
+ 53. resources\Files\054.html                                                                            0.00000000
+ 54. resources\Files\055.html                                                                            0.00000000
+ 55. resources\Files\056.html                                                                            0.00099874
+ 56. resources\Files\057.html                                                                            0.00000000
+ 57. resources\Files\058.html                                                                            0.00000000
+ 58. resources\Files\059.html                                                                            0.00000000
+ 59. resources\Files\060.html                                                                            0.00000000
+ 60. resources\Files\061.html                                                                            0.00000000
+ 61. resources\Files\062.html                                                                            0.00000000
+ 62. resources\Files\063.html                                                                            0.00000000
+ 63. resources\Files\064.html                                                                            0.00100327
+ 64. resources\Files\065.html                                                                            0.00000000
+ 65. resources\Files\066.html                                                                            0.00000000
+ 66. resources\Files\067.html                                                                            0.00099373
+ 67. resources\Files\068.html                                                                            0.00000000
+ 68. resources\Files\069.html                                                                            0.00100636
+ 69. resources\Files\070.html                                                                            0.00000000
+ 70. resources\Files\071.html                                                                            0.00000000
+ 71. resources\Files\072.html                                                                            0.00099325
+ 72. resources\Files\073.html                                                                            0.00000000
+ 73. resources\Files\074.html                                                                            0.00000000
+ 74. resources\Files\075.html                                                                            0.00000000
+ 75. resources\Files\076.html                                                                            0.00000000
+ 76. resources\Files\077.html                                                                            0.00000000
+ 77. resources\Files\078.html                                                                            0.00099874
+ 78. resources\Files\079.html                                                                            0.00000000
+ 79. resources\Files\080.html                                                                            0.00000000
+ 80. resources\Files\081.html                                                                            0.00000000
+ 81. resources\Files\082.html                                                                            0.00000000
+ 82. resources\Files\083.html                                                                            0.00099850
+ 83. resources\Files\084.html                                                                            0.00000000
+ 84. resources\Files\085.html                                                                            0.00000000
+ 85. resources\Files\086.html                                                                            0.00102019
+ 86. resources\Files\087.html                                                                            0.00000000
+ 87. resources\Files\088.html                                                                            0.00000000
+ 88. resources\Files\089.html                                                                            0.00099921
+ 89. resources\Files\090.html                                                                            0.00000000
+ 90. resources\Files\091.html                                                                            0.00000000
+ 91. resources\Files\092.html                                                                            0.00099921
+ 92. resources\Files\093.html                                                                            0.00000000
+ 93. resources\Files\094.html                                                                            0.00000000
+ 94. resources\Files\095.html                                                                            0.00097966
+ 95. resources\Files\096.html                                                                            0.00000000
+ 96. resources\Files\097.html                                                                            0.00000000
+ 97. resources\Files\098.html                                                                            0.00000000
+ 98. resources\Files\099.html                                                                            0.00000000
+ 99. resources\Files\100.html                                                                            0.00000000
+100. resources\Files\101.html                                                                            0.00000000
+101. resources\Files\102.html                                                                            0.00098729
+102. resources\Files\103.html                                                                            0.00000000
+103. resources\Files\104.html                                                                            0.00000000
+104. resources\Files\105.html                                                                            0.00000000
+105. resources\Files\106.html                                                                            0.00000000
+106. resources\Files\107.html                                                                            0.00099874
+107. resources\Files\108.html                                                                            0.00000000
+108. resources\Files\109.html                                                                            0.00000000
+109. resources\Files\110.html                                                                            0.00000000
+110. resources\Files\111.html                                                                            0.00099850
+111. resources\Files\112.html                                                                            0.00000000
+112. resources\Files\113.html                                                                            0.00000000
+113. resources\Files\114.html                                                                            0.00000000
+114. resources\Files\115.html                                                                            0.00000000
+115. resources\Files\116.html                                                                            0.00000000
+116. resources\Files\117.html                                                                            0.00000000
+117. resources\Files\118.html                                                                            0.00000000
+118. resources\Files\119.html                                                                            0.00000000
+119. resources\Files\120.html                                                                            0.00099850
+120. resources\Files\121.html                                                                            0.00000000
+121. resources\Files\122.html                                                                            0.00000000
+122. resources\Files\123.html                                                                            0.00100875
+123. resources\Files\124.html                                                                            0.00000000
+124. resources\Files\125.html                                                                            0.00099325
+125. resources\Files\126.html                                                                            0.00000000
+126. resources\Files\127.html                                                                            0.00000000
+127. resources\Files\128.html                                                                            0.00099659
+128. resources\Files\129.html                                                                            0.00000000
+129. resources\Files\130.html                                                                            0.00000000
+130. resources\Files\131.html                                                                            0.00099969
+131. resources\Files\132.html                                                                            0.00000000
+132. resources\Files\133.html                                                                            0.00000000
+133. resources\Files\134.html                                                                            0.00100613
+134. resources\Files\135.html                                                                            0.00000000
+135. resources\Files\136.html                                                                            0.00000000
+136. resources\Files\137.html                                                                            0.00100684
+137. resources\Files\138.html                                                                            0.00000000
+138. resources\Files\139.html                                                                            0.00098467
+139. resources\Files\140.html                                                                            0.00000000
+140. resources\Files\141.html                                                                            0.00100040
+141. resources\Files\142.html                                                                            0.00000000
+142. resources\Files\143.html                                                                            0.00000000
+143. resources\Files\144.html                                                                            0.00000000
+144. resources\Files\145.html                                                                            0.00000000
+145. resources\Files\146.html                                                                            0.00000000
+146. resources\Files\147.html                                                                            0.00099874
+147. resources\Files\148.html                                                                            0.00000000
+148. resources\Files\149.html                                                                            0.00000000
+149. resources\Files\150.html                                                                            0.00099874
+150. resources\Files\151.html                                                                            0.00000000
+151. resources\Files\152.html                                                                            0.00000000
+152. resources\Files\153.html                                                                            0.00000000
+153. resources\Files\154.html                                                                            0.00000000
+154. resources\Files\155.html                                                                            0.00000000
+155. resources\Files\156.html                                                                            0.00000000
+156. resources\Files\157.html                                                                            0.00000000
+157. resources\Files\158.html                                                                            0.00000000
+158. resources\Files\159.html                                                                            0.00000000
+159. resources\Files\160.html                                                                            0.00000000
+160. resources\Files\161.html                                                                            0.00000000
+161. resources\Files\162.html                                                                            0.00099969
+162. resources\Files\163.html                                                                            0.00000000
+163. resources\Files\164.html                                                                            0.00000000
+164. resources\Files\165.html                                                                            0.00099945
+165. resources\Files\166.html                                                                            0.00000000
+166. resources\Files\167.html                                                                            0.00000000
+167. resources\Files\168.html                                                                            0.00099897
+168. resources\Files\169.html                                                                            0.00000000
+169. resources\Files\170.html                                                                            0.00000000
+170. resources\Files\171.html                                                                            0.00100017
+171. resources\Files\172.html                                                                            0.00000000
+172. resources\Files\173.html                                                                            0.00000000
+173. resources\Files\174.html                                                                            0.00099993
+174. resources\Files\175.html                                                                            0.00000000
+175. resources\Files\176.html                                                                            0.00000000
+176. resources\Files\177.html                                                                            0.00099897
+177. resources\Files\178.html                                                                            0.00000000
+178. resources\Files\179.html                                                                            0.00000000
+179. resources\Files\180.html                                                                            0.00099921
+180. resources\Files\181.html                                                                            0.00000000
+181. resources\Files\182.html                                                                            0.00000000
+182. resources\Files\183.html                                                                            0.00100136
+183. resources\Files\184.html                                                                            0.00000000
+184. resources\Files\185.html                                                                            0.00000000
+185. resources\Files\186.html                                                                            0.00099707
+186. resources\Files\187.html                                                                            0.00000000
+187. resources\Files\188.html                                                                            0.00000000
+188. resources\Files\189.html                                                                            0.00000000
+189. resources\Files\190.html                                                                            0.00000000
+190. resources\Files\191.html                                                                            0.00099874
+191. resources\Files\192.html                                                                            0.00000000
+192. resources\Files\193.html                                                                            0.00000000
+193. resources\Files\194.html                                                                            0.00000000
+194. resources\Files\195.html                                                                            0.00000000
+195. resources\Files\196.html                                                                            0.00099969
+196. resources\Files\197.html                                                                            0.00000000
+197. resources\Files\198.html                                                                            0.00000000
+198. resources\Files\199.html                                                                            0.00102067
+199. resources\Files\200.html                                                                            0.00000000
+200. resources\Files\201.html                                                                            0.00000000
+201. resources\Files\202.html                                                                            0.00000000
+202. resources\Files\203.html                                                                            0.00000000
+203. resources\Files\204.html                                                                            0.00000000
+204. resources\Files\205.html                                                                            0.00100112
+205. resources\Files\206.html                                                                            0.00000000
+206. resources\Files\207.html                                                                            0.00000000
+207. resources\Files\208.html                                                                            0.00101638
+208. resources\Files\209.html                                                                            0.00000000
+209. resources\Files\210.html                                                                            0.00000000
+210. resources\Files\211.html                                                                            0.00000000
+211. resources\Files\212.html                                                                            0.00000000
+212. resources\Files\213.html                                                                            0.00101519
+213. resources\Files\214.html                                                                            0.00000000
+214. resources\Files\215.html                                                                            0.00000000
+215. resources\Files\216.html                                                                            0.00099921
+216. resources\Files\217.html                                                                            0.00000000
+217. resources\Files\218.html                                                                            0.00000000
+218. resources\Files\219.html                                                                            0.00098491
+219. resources\Files\220.html                                                                            0.00000000
+220. resources\Files\221.html                                                                            0.00000000
+221. resources\Files\222.html                                                                            0.00099897
+222. resources\Files\223.html                                                                            0.00000000
+223. resources\Files\224.html                                                                            0.00000000
+224. resources\Files\225.html                                                                            0.00099993
+225. resources\Files\226.html                                                                            0.00000000
+226. resources\Files\227.html                                                                            0.00000000
+227. resources\Files\228.html                                                                            0.00000000
+228. resources\Files\229.html                                                                            0.00000000
+229. resources\Files\230.html                                                                            0.00000000
+230. resources\Files\231.html                                                                            0.00099969
+231. resources\Files\232.html                                                                            0.00000000
+232. resources\Files\233.html                                                                            0.00000000
+233. resources\Files\234.html                                                                            0.00000000
+234. resources\Files\235.html                                                                            0.00099826
+235. resources\Files\236.html                                                                            0.00000000
+236. resources\Files\237.html                                                                            0.00100303
+237. resources\Files\238.html                                                                            0.00000000
+238. resources\Files\239.html                                                                            0.00000000
+239. resources\Files\240.html                                                                            0.00101638
+240. resources\Files\241.html                                                                            0.00000000
+241. resources\Files\242.html                                                                            0.00000000
+242. resources\Files\243.html                                                                            0.00099778
+243. resources\Files\244.html                                                                            0.00000000
+244. resources\Files\245.html                                                                            0.00000000
+245. resources\Files\246.html                                                                            0.00100088
+246. resources\Files\247.html                                                                            0.00000000
+247. resources\Files\248.html                                                                            0.00000000
+248. resources\Files\249.html                                                                            0.00098038
+249. resources\Files\250.html                                                                            0.00000000
+250. resources\Files\251.html                                                                            0.00000000
+251. resources\Files\252.html                                                                            0.00099921
+252. resources\Files\253.html                                                                            0.00000000
+253. resources\Files\254.html                                                                            0.00000000
+254. resources\Files\255.html                                                                            0.00099897
+255. resources\Files\256.html                                                                            0.00000000
+256. resources\Files\257.html                                                                            0.00000000
+257. resources\Files\258.html                                                                            0.00100017
+258. resources\Files\259.html                                                                            0.00000000
+259. resources\Files\260.html                                                                            0.00000000
+260. resources\Files\261.html                                                                            0.00000000
+261. resources\Files\262.html                                                                            0.00000000
+262. resources\Files\263.html                                                                            0.00000000
+263. resources\Files\264.html                                                                            0.00000000
+264. resources\Files\265.html                                                                            0.00099850
+265. resources\Files\266.html                                                                            0.00000000
+266. resources\Files\267.html                                                                            0.00000000
+267. resources\Files\268.html                                                                            0.00000000
+268. resources\Files\269.html                                                                            0.00000000
+269. resources\Files\270.html                                                                            0.00000000
+270. resources\Files\271.html                                                                            0.00000000
+271. resources\Files\272.html                                                                            0.00000000
+272. resources\Files\273.html                                                                            0.00000000
+273. resources\Files\274.html                                                                            0.00099921
+274. resources\Files\275.html                                                                            0.00000000
+275. resources\Files\276.html                                                                            0.00000000
+276. resources\Files\277.html                                                                            0.00000000
+277. resources\Files\278.html                                                                            0.00000000
+278. resources\Files\279.html                                                                            0.00099945
+279. resources\Files\280.html                                                                            0.00000000
+280. resources\Files\281.html                                                                            0.00000000
+281. resources\Files\282.html                                                                            0.00000000
+282. resources\Files\283.html                                                                            0.00000000
+283. resources\Files\284.html                                                                            0.00099945
+284. resources\Files\285.html                                                                            0.00000000
+285. resources\Files\286.html                                                                            0.00000000
+286. resources\Files\287.html                                                                            0.00000000
+287. resources\Files\288.html                                                                            0.00000000
+288. resources\Files\289.html                                                                            0.00000000
+289. resources\Files\290.html                                                                            0.00000000
+290. resources\Files\291.html                                                                            0.00000000
+291. resources\Files\292.html                                                                            0.00000000
+292. resources\Files\293.html                                                                            0.00000000
+293. resources\Files\294.html                                                                            0.00099969
+294. resources\Files\295.html                                                                            0.00000000
+295. resources\Files\296.html                                                                            0.00000000
+296. resources\Files\297.html                                                                            0.00000000
+297. resources\Files\298.html                                                                            0.00099802
+298. resources\Files\299.html                                                                            0.00000000
+299. resources\Files\300.html                                                                            0.00000000
+300. resources\Files\301.html                                                                            0.00000000
+301. resources\Files\302.html                                                                            0.00000000
+302. resources\Files\303.html                                                                            0.00000000
+303. resources\Files\304.html                                                                            0.00000000
+304. resources\Files\305.html                                                                            0.00000000
+305. resources\Files\306.html                                                                            0.00000000
+306. resources\Files\307.html                                                                            0.00000000
+307. resources\Files\308.html                                                                            0.00099945
+308. resources\Files\309.html                                                                            0.00000000
+309. resources\Files\310.html                                                                            0.00000000
+310. resources\Files\311.html                                                                            0.00100040
+311. resources\Files\312.html                                                                            0.00000000
+312. resources\Files\313.html                                                                            0.00000000
+313. resources\Files\314.html                                                                            0.00000000
+314. resources\Files\315.html                                                                            0.00099897
+315. resources\Files\316.html                                                                            0.00000000
+316. resources\Files\317.html                                                                            0.00000000
+317. resources\Files\318.html                                                                            0.00000000
+318. resources\Files\319.html                                                                            0.00000000
+319. resources\Files\320.html                                                                            0.00099921
+320. resources\Files\321.html                                                                            0.00000000
+321. resources\Files\322.html                                                                            0.00000000
+322. resources\Files\323.html                                                                            0.00000000
+323. resources\Files\324.html                                                                            0.00000000
+324. resources\Files\325.html                                                                            0.00099897
+325. resources\Files\326.html                                                                            0.00000000
+326. resources\Files\327.html                                                                            0.00000000
+327. resources\Files\328.html                                                                            0.00000000
+328. resources\Files\329.html                                                                            0.00000000
+329. resources\Files\330.html                                                                            0.00099921
+330. resources\Files\331.html                                                                            0.00000000
+331. resources\Files\332.html                                                                            0.00000000
+332. resources\Files\333.html                                                                            0.00000000
+333. resources\Files\334.html                                                                            0.00000000
+334. resources\Files\335.html                                                                            0.00000000
+335. resources\Files\336.html                                                                            0.00000000
+336. resources\Files\337.html                                                                            0.00000000
+337. resources\Files\338.html                                                                            0.00000000
+338. resources\Files\339.html                                                                            0.00100112
+339. resources\Files\340.html                                                                            0.00000000
+340. resources\Files\341.html                                                                            0.00000000
+341. resources\Files\342.html                                                                            0.00000000
+342. resources\Files\343.html                                                                            0.00000000
+343. resources\Files\344.html                                                                            0.00099897
+344. resources\Files\345.html                                                                            0.00000000
+345. resources\Files\346.html                                                                            0.00000000
+346. resources\Files\347.html                                                                            0.00000000
+347. resources\Files\348.html                                                                            0.00000000
+348. resources\Files\349.html                                                                            0.00099993
+349. resources\Files\350.html                                                                            0.00000000
+350. resources\Files\351.html                                                                            0.00000000
+351. resources\Files\352.html                                                                            0.00000000
+352. resources\Files\353.html                                                                            0.00000000
+353. resources\Files\354.html                                                                            0.00199962
+354. resources\Files\355.html                                                                            0.00000000
+355. resources\Files\356.html                                                                            0.00099730
+356. resources\Files\357.html                                                                            0.00000000
+357. resources\Files\358.html                                                                            0.00000000
+358. resources\Files\359.html                                                                            0.00000000
+359. resources\Files\360.html                                                                            0.00099874
+360. resources\Files\361.html                                                                            0.00000000
+361. resources\Files\362.html                                                                            0.00000000
+362. resources\Files\363.html                                                                            0.00000000
+363. resources\Files\364.html                                                                            0.00000000
+364. resources\Files\365.html                                                                            0.00000000
+365. resources\Files\366.html                                                                            0.00000000
+366. resources\Files\367.html                                                                            0.00000000
+367. resources\Files\368.html                                                                            0.00000000
+368. resources\Files\369.html                                                                            0.00000000
+369. resources\Files\370.html                                                                            0.00098038
+370. resources\Files\371.html                                                                            0.00000000
+371. resources\Files\372.html                                                                            0.00000000
+372. resources\Files\373.html                                                                            0.00000000
+373. resources\Files\374.html                                                                            0.00101328
+374. resources\Files\375.html                                                                            0.00000000
+375. resources\Files\376.html                                                                            0.00000000
+376. resources\Files\377.html                                                                            0.00000000
+377. resources\Files\378.html                                                                            0.00000000
+378. resources\Files\379.html                                                                            0.00000000
+379. resources\Files\380.html                                                                            0.00000000
+380. resources\Files\381.html                                                                            0.00000000
+381. resources\Files\382.html                                                                            0.00000000
+382. resources\Files\383.html                                                                            0.00000000
+383. resources\Files\384.html                                                                            0.00000000
+384. resources\Files\385.html                                                                            0.00000000
+385. resources\Files\386.html                                                                            0.00000000
+386. resources\Files\387.html                                                                            0.00000000
+387. resources\Files\388.html                                                                            0.00000000
+388. resources\Files\389.html                                                                            0.00000000
+389. resources\Files\390.html                                                                            0.00000000
+390. resources\Files\391.html                                                                            0.00000000
+391. resources\Files\392.html                                                                            0.00101376
+392. resources\Files\393.html                                                                            0.00000000
+393. resources\Files\394.html                                                                            0.00000000
+394. resources\Files\395.html                                                                            0.00099921
+395. resources\Files\396.html                                                                            0.00000000
+396. resources\Files\397.html                                                                            0.00000000
+397. resources\Files\398.html                                                                            0.00098372
+398. resources\Files\399.html                                                                            0.00000000
+399. resources\Files\400.html                                                                            0.00000000
+400. resources\Files\401.html                                                                            0.00000000
+401. resources\Files\402.html                                                                            0.00000000
+402. resources\Files\403.html                                                                            0.00000000
+403. resources\Files\404.html                                                                            0.00100064
+404. resources\Files\405.html                                                                            0.00000000
+405. resources\Files\406.html                                                                            0.00000000
+406. resources\Files\407.html                                                                            0.00099778
+407. resources\Files\408.html                                                                            0.00000000
+408. resources\Files\409.html                                                                            0.00000000
+409. resources\Files\410.html                                                                            0.00100017
+410. resources\Files\411.html                                                                            0.00000000
+411. resources\Files\412.html                                                                            0.00000000
+412. resources\Files\413.html                                                                            0.00100160
+413. resources\Files\414.html                                                                            0.00000000
+414. resources\Files\415.html                                                                            0.00000000
+415. resources\Files\416.html                                                                            0.00099969
+416. resources\Files\417.html                                                                            0.00000000
+417. resources\Files\418.html                                                                            0.00000000
+418. resources\Files\419.html                                                                            0.00099802
+419. resources\Files\420.html                                                                            0.00000000
+420. resources\Files\421.html                                                                            0.00000000
+421. resources\Files\422.html                                                                            0.00000000
+422. resources\Files\423.html                                                                            0.00000000
+423. resources\Files\424.html                                                                            0.00000000
+424. resources\Files\425.html                                                                            0.00100255
+425. resources\Files\426.html                                                                            0.00000000
+426. resources\Files\427.html                                                                            0.00000000
+427. resources\Files\428.html                                                                            0.00099778
+428. resources\Files\429.html                                                                            0.00000000
+429. resources\Files\430.html                                                                            0.00000000
+430. resources\Files\431.html                                                                            0.00099945
+431. resources\Files\432.html                                                                            0.00000000
+432. resources\Files\433.html                                                                            0.00000000
+433. resources\Files\434.html                                                                            0.00099897
+434. resources\Files\435.html                                                                            0.00000000
+435. resources\Files\436.html                                                                            0.00000000
+436. resources\Files\437.html                                                                            0.00000000
+437. resources\Files\438.html                                                                            0.00000000
+438. resources\Files\439.html                                                                            0.00000000
+439. resources\Files\440.html                                                                            0.00000000
+440. resources\Files\441.html                                                                            0.00000000
+441. resources\Files\442.html                                                                            0.00000000
+442. resources\Files\443.html                                                                            0.00000000
+443. resources\Files\444.html                                                                            0.00000000
+444. resources\Files\445.html                                                                            0.00000000
+445. resources\Files\446.html                                                                            0.00000000
+446. resources\Files\447.html                                                                            0.00100255
+447. resources\Files\448.html                                                                            0.00000000
+448. resources\Files\449.html                                                                            0.00000000
+449. resources\Files\450.html                                                                            0.00099802
+450. resources\Files\451.html                                                                            0.00000000
+451. resources\Files\452.html                                                                            0.00000000
+452. resources\Files\453.html                                                                            0.00000000
+453. resources\Files\454.html                                                                            0.00000000
+454. resources\Files\455.html                                                                            0.00000000
+455. resources\Files\456.html                                                                            0.00000000
+456. resources\Files\457.html                                                                            0.00000000
+457. resources\Files\458.html                                                                            0.00000000
+458. resources\Files\459.html                                                                            0.00099969
+459. resources\Files\460.html                                                                            0.00000000
+460. resources\Files\461.html                                                                            0.00000000
+461. resources\Files\462.html                                                                            0.00099874
+462. resources\Files\463.html                                                                            0.00000000
+463. resources\Files\464.html                                                                            0.00000000
+464. resources\Files\465.html                                                                            0.00000000
+465. resources\Files\466.html                                                                            0.00000000
+466. resources\Files\467.html                                                                            0.00000000
+467. resources\Files\468.html                                                                            0.00000000
+468. resources\Files\469.html                                                                            0.00000000
+469. resources\Files\470.html                                                                            0.00000000
+470. resources\Files\471.html                                                                            0.00000000
+471. resources\Files\472.html                                                                            0.00000000
+472. resources\Files\473.html                                                                            0.00000000
+473. resources\Files\474.html                                                                            0.00000000
+474. resources\Files\475.html                                                                            0.00000000
+475. resources\Files\476.html                                                                            0.00000000
+476. resources\Files\477.html                                                                            0.00000000
+477. resources\Files\478.html                                                                            0.00099897
+478. resources\Files\479.html                                                                            0.00000000
+479. resources\Files\480.html                                                                            0.00000000
+480. resources\Files\481.html                                                                            0.00000000
+481. resources\Files\482.html                                                                            0.00000000
+482. resources\Files\483.html                                                                            0.00099969
+483. resources\Files\484.html                                                                            0.00000000
+484. resources\Files\485.html                                                                            0.00000000
+485. resources\Files\486.html                                                                            0.00000000
+486. resources\Files\487.html                                                                            0.00099945
+487. resources\Files\488.html                                                                            0.00000000
+488. resources\Files\489.html                                                                            0.00000000
+489. resources\Files\490.html                                                                            0.00101709
+490. resources\Files\491.html                                                                            0.00000000
+491. resources\Files\492.html                                                                            0.00000000
+492. resources\Files\493.html                                                                            0.00099921
+493. resources\Files\494.html                                                                            0.00000000
 494. resources\Files\495.html                                                                            0.00000000
-495. resources\Files\496.html                                                                            0.01566076
-496. resources\Files\497.html                                                                            0.01562476
-497. resources\Files\498.html                                                                            0.01562405
-498. resources\Files\499.html                                                                            0.01562238
-499. resources\Files\500.html                                                                            0.03119731
-500. resources\Files\501.html                                                                            0.06249189
-501. resources\Files\502.html                                                                            0.03125334
-502. resources\Files\503.html                                                                            0.10217690
-503. resources\Files\hard.html                                                                           0.05557609
-504. resources\Files\medium.html                                                                         0.03123760
-505. resources\Files\simple.html                                                                         0.01562166
+495. resources\Files\496.html                                                                            0.00098085
+496. resources\Files\497.html                                                                            0.00000000
+497. resources\Files\498.html                                                                            0.00000000
+498. resources\Files\499.html                                                                            0.00099802
+499. resources\Files\500.html                                                                            0.00000000
+500. resources\Files\501.html                                                                            0.00000000
+501. resources\Files\502.html                                                                            0.00101447
+502. resources\Files\503.html                                                                            0.00000000
+503. resources\Files\hard.html                                                                           0.00000000
+504. resources\Files\medium.html                                                                         0.00098491
+505. resources\Files\simple.html                                                                         0.00000000
 
-Tiempo total de ejecucion: 39.97766184806824
+Tiempo total de ejecucion: 0.14491605758666992
 
-Tiempo final del programa: 57.47118258476257 segundos.
+Tiempo final del programa: 10.86710500717163 segundos.
