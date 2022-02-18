@@ -7,7 +7,7 @@ import src.remove_tags.remove_tags as rt
 class TestRemoveTags():
     def test_remove_tags(self):
         resources_dir = os.path.join(os.getcwd(), 'resources\\Files\\*')
-        logs_path = os.path.join(os.getcwd(), 'temp_logs')
+        logs_path = os.path.join(os.getcwd(), 'clean_tags')
         if not os.path.exists(logs_path):
             os.mkdir(logs_path)
         files = glob.glob(resources_dir)
@@ -27,7 +27,7 @@ class TestRemoveTags():
 
     
     def test_check_logs(self):
-        logs_path = os.path.join(os.getcwd(), 'temp_logs')
+        logs_path = os.path.join(os.getcwd(), 'clean_tags')
         output_file = os.path.join(logs_path, 'temp2.txt')
         if not os.path.exists(logs_path):
             os.mkdir(logs_path)

@@ -56,7 +56,7 @@ def execute_sort_words(filepaths: list, output_file: str, logs_path: str, clean_
             for file in filepaths:
                 counter += 1
                 relative_path = os.path.relpath(file)
-                sorted_file_name =  os.path.join(logs_path, f'sorted_{os.path.basename(file)}')
+                sorted_file_name = os.path.join(logs_path, f'sorted_{os.path.basename(file)}')
                 exec_time = sort_words_in_file(file, sorted_file_name, clean_char)
                 output_obj.write(f'{counter : >03}. {relative_path : <100}{exec_time:02.8f}\n')
             end_time = time.time()

@@ -1,0 +1,100 @@
+name: FILE_VERIFICATION_WORKFLOW
+on: push
+jobs:
+  pre_test:
+    name: Pre test job
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          echo "Presenting working directory: $(pwd)"
+          echo "Removing old logs"
+          rm -rf ./logs
+  
+  install_dependencies:
+    name: Dependencies check
+    needs: [pre_test]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: bash ci_cd/scripts/tools/install_dependencies.sh
+
+  test_open_files:
+    name: Open files unit testing.
+    needs: [install_dependencies]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: python -m pytest ci_cd/tests/test_open_files.py
+      - uses: actions/upload-artifact@v2
+        with:
+          name: open_files_artifacts
+          path: temp_logs/temp1.txt
+          retention-days: 3
+
+  test_clean_html:
+    name: Clean tags unit testing.
+    needs: [install_dependencies]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          python -m pytest ci_cd/tests/test_open_files.py
+          tar -czvf clean_tags.tar.gz clean_tags/
+      - uses: actions/upload-artifact@v2
+        with:
+          name: clean_tags_artifacts
+          path: clean_tags.tar.gz
+          retention-days: 3
+
+  test_sort_words:
+    name: Sort words unit testing.
+    needs: [test_clean_html]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: clean_tags_artifacts
+      - run: |
+          tar -xf clean_tags.tar.gz
+          python -m pytest ci_cd/tests/test_open_files.py
+          tar -czvf sort_words.tar.gz sort_words/
+      - uses: actions/upload-artifact@v2
+        with:
+          name: sort_words_artifacts
+          path: sort_words.tar.gz
+          retention-days: 3
+
+  release_artifacts:
+    name: Release artifacts
+    needs: [test_open_files, test_sort_words]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: open_files_artifacts
+      - uses: actions/download-artifact@v2
+        with:
+          name: clean_tags_artifacts
+      - uses: actions/download-artifact@v2
+        with:
+          name: sort_words_artifacts
+      - run: |
+          tar -xf clean_tags.tar.gz
+          tar -xf sort_words.tar.gz
+          mkdir final_logs
+          mv clean_tags/ final_logs/
+          mv sort_words/ final_logs/
+          find . -type f -name "*.txt" -exec mv {} final_logs/ \;
+          ls final_logs/
+          mkdir code/
+          mv main.py code/
+          mv src/ code
+          tar -czvf artifacts.tar.gz final_logs/ resources/ code/
+      - uses: actions/upload-artifact@v2
+        with:
+          name: artifacts
+          path: artifacts.tar.gz
+          retention-days: 3

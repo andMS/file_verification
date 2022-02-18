@@ -54,6 +54,7 @@ def start_tests(parser: argparse.Namespace, tests_to_execute: list, file_paths: 
         op.execute_open_file(file_paths, open_file_logs_name)
         rt.execute_remove_tags(file_paths, remove_tags_logs_name, clean_html_logs)
         file_paths = helper.get_all_files(clean_html_logs, '.html')
+        print(file_paths[-1])
         sw.execute_sort_words(file_paths, sort_letters_logs_name, sorted_logs_dir, clean_chars)
     else:
         if '1' in tests_to_execute:
