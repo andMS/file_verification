@@ -62,7 +62,7 @@ jobs:
           name: clean_tags_artifacts
       - run: |
           tar -xf clean_tags.tar.gz
-          bash ci_cd/scripts/tools/install_dependencies.s
+          bash ci_cd/scripts/tools/install_dependencies.sh
           python -m pytest ci_cd/tests/test_sort_words.py
           tar -czvf sort_words.tar.gz sort_words/
       - uses: actions/upload-artifact@v2
