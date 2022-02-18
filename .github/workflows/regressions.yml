@@ -25,7 +25,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: pytest ci_cd/tests/test_open_files.py
+      - run: |
+          bash ci_cd/scripts/tools/install_dependencies.sh
+          pytest ci_cd/tests/test_open_files.py
+          ls -la
       - uses: actions/upload-artifact@v2
         with:
           name: open_files_artifacts
@@ -40,7 +43,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           bash ci_cd/scripts/tools/install_dependencies.sh
-          python -m pytest ci_cd/tests/test_open_files.py
+          python -m pytest ci_cd/tests/test_remove_tags.py
           tar -czvf clean_tags.tar.gz clean_tags/
       - uses: actions/upload-artifact@v2
         with:
@@ -59,7 +62,8 @@ jobs:
           name: clean_tags_artifacts
       - run: |
           tar -xf clean_tags.tar.gz
-          python -m pytest ci_cd/tests/test_open_files.py
+          bash ci_cd/scripts/tools/install_dependencies.s
+          python -m pytest ci_cd/tests/test_sort_words.py
           tar -czvf sort_words.tar.gz sort_words/
       - uses: actions/upload-artifact@v2
         with:
