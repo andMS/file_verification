@@ -24,16 +24,16 @@ def sort_words_in_file(file: str, output_file: str, remove_chars:bool) -> float:
                 clean_lines = [re.sub(disallowed_chars_re, '', line) for line in lines]
                 lines = clean_lines
             lines.sort(key=lambda x: x.lower())
+        try:
+            with open(output_file, 'w', encoding='utf-8') as output_obj:
+                output_obj.write('\n'.join(str(element) for element in lines))
+            end_time = time.time()
+            final_time = end_time - start_time
+        except OSError:
+            print(f'No se pudo crear el archivo: {output_file}')
+            final_time = 'NA'
     except OSError:
         print(f'No se pudo abrir el archivo: {file}')
-        final_time = 'NA'
-    try:
-        with open(output_file, 'w', encoding='utf-8') as output_obj:
-            output_obj.write('\n'.join(str(element) for element in lines))
-        end_time = time.time()
-        final_time = end_time - start_time
-    except OSError:
-        print(f'No se pudo crear el archivo: {output_file}')
         final_time = 'NA'
 
     return final_time
