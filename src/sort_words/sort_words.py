@@ -15,6 +15,7 @@ def sort_words_in_file(file: str, output_file: str, remove_chars:bool) -> float:
             final_time (<class 'float'>): final execution time.
     """
     start_time = time.time()
+    lines = []
     disallowed_chars_re = re.compile('[^A-Za-z0-9]|&[a-zA-Z]+')
     try:
         with open(file, 'r', encoding='utf-8', errors='ignore') as file_obj:
