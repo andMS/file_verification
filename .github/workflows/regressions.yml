@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: python -m pytest ci_cd/tests/test_open_files.py
+      - run: pytest ci_cd/tests/test_open_files.py
       - uses: actions/upload-artifact@v2
         with:
           name: open_files_artifacts
@@ -39,6 +39,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
+          bash ci_cd/scripts/tools/install_dependencies.sh
           python -m pytest ci_cd/tests/test_open_files.py
           tar -czvf clean_tags.tar.gz clean_tags/
       - uses: actions/upload-artifact@v2
