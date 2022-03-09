@@ -15,6 +15,7 @@ def sort_words_in_file(file: str, output_file: str, remove_chars:bool) -> float:
             final_time (<class 'float'>): final execution time.
     """
     start_time = time.time()
+    lines = []
     disallowed_chars_re = re.compile('[^A-Za-z0-9]|&[a-zA-Z]+')
     try:
         with open(file, 'r', encoding='utf-8', errors='ignore') as file_obj:
@@ -23,16 +24,16 @@ def sort_words_in_file(file: str, output_file: str, remove_chars:bool) -> float:
                 clean_lines = [re.sub(disallowed_chars_re, '', line) for line in lines]
                 lines = clean_lines
             lines.sort(key=lambda x: x.lower())
+        try:
+            with open(output_file, 'w', encoding='utf-8') as output_obj:
+                output_obj.write('\n'.join(str(element) for element in lines))
+            end_time = time.time()
+            final_time = end_time - start_time
+        except OSError:
+            print(f'No se pudo crear el archivo: {output_file}')
+            final_time = 'NA'
     except OSError:
         print(f'No se pudo abrir el archivo: {file}')
-        final_time = 'NA'
-    try:
-        with open(output_file, 'w', encoding='utf-8') as output_obj:
-            output_obj.write('\n'.join(str(element) for element in lines))
-        end_time = time.time()
-        final_time = end_time - start_time
-    except OSError:
-        print(f'No se pudo crear el archivo: {output_file}')
         final_time = 'NA'
 
     return final_time
@@ -48,7 +49,7 @@ def execute_sort_words(filepaths: list, output_file: str, logs_path: str, clean_
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: ORDENAR PALABRAS EN ARCHIVO '.center(100, '*'))
+    print(' Ejecutando: ACT3. ORDENAR PALABRAS EN ARCHIVO '.center(100, '*'))
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: ordenar palabras de un archivo.\n')
@@ -56,7 +57,7 @@ def execute_sort_words(filepaths: list, output_file: str, logs_path: str, clean_
             for file in filepaths:
                 counter += 1
                 relative_path = os.path.relpath(file)
-                sorted_file_name =  os.path.join(logs_path, f'sorted_{os.path.basename(file)}')
+                sorted_file_name = os.path.join(logs_path, f'sorted_{os.path.basename(file)}')
                 exec_time = sort_words_in_file(file, sorted_file_name, clean_char)
                 output_obj.write(f'{counter : >03}. {relative_path : <100}{exec_time:02.8f}\n')
             end_time = time.time()

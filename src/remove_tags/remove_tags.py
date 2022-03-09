@@ -14,7 +14,7 @@ def remove_html_tags(file: str, output_file: str) -> float:
             final_time (<class 'float'>): final execution time.
     """
     start_time = time.time()
-    clean_re = re.compile('<.*?>')
+    clean_re = re.compile('<.*?>|[<>]')
     clean_lines = []
     if os.path.exists(file):
         try:
@@ -48,12 +48,13 @@ def execute_remove_tags(filepaths: list, output_file: str, logs_path: str) -> No
         Args:
             filepaths (<class 'list'>): List of files to execute the function with.
             output_file (<class 'str'>): path of the file to write the execution logs.
+            logs_path (<class 'str'>): path of the file to save the logs.
         Return:
             None.
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: REMOVER ETIQUETAS HTML '.center(100, '*'))
+    print(' Ejecutando: ACT 2. REMOVER ETIQUETAS HTML '.center(100, '*'))
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: remover etiquetas HTML.\n')
