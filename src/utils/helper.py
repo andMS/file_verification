@@ -35,7 +35,7 @@ def get_all_files(rootdir: str, file_type: str, search_subdirs:bool=False) -> li
     return filepaths
 
 
-def validate_file_path(file_path: str, file_extension: str) -> list:
+def validate_file_path(file_path: str, file_extension: str = 'html') -> list:
     """ Helper function to validate that the path that is given to work with is a valid
         path.
         Args:
@@ -66,7 +66,7 @@ def validate_tests_to_execute_option(options: str) -> list:
         Return:
             new_options (<class 'list'>): list of tests to execute.
     """
-    possible_options = ['1','2','3']
+    possible_options = ['1','2','3', '4', '5', '6']
     new_options = []
     if ',' in options:
         new_options = options.split(',')

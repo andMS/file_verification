@@ -1,10 +1,12 @@
 import os
 import time
+import sys
 import argparse
 from src.utils import helper
 import src.open_file.open_file as op
 import src.sort_words.sort_words as sw
 import src.remove_tags.remove_tags as rt
+import src.letters_sorted.letters_sorted as st
 
 def present_working_exec_mode(parser: argparse.Namespace, tests_to_execute: list) -> None:
     """ Helper function to present the parameters to work with.
@@ -14,7 +16,7 @@ def present_working_exec_mode(parser: argparse.Namespace, tests_to_execute: list
             None
     """
     tests_names = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
-                    '3. Ordenar palabras de un archivo.']
+                    '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.']
     print(' VERIFICADOR DE ARCHIVOS '.center(100, '*'))
     print(' Modo de ejecucion '.center(100, '*'))
     print(f'> Directorio/archivo a utilizar: {parser.root}')
@@ -49,6 +51,7 @@ def start_tests(parser: argparse.Namespace, tests_to_execute: list, file_paths: 
     open_file_logs_name = os.path.join(output_dir, 'a1_equipo1.txt')
     remove_tags_logs_name = os.path.join(output_dir, 'a2_equipo1.txt')
     sort_letters_logs_name = os.path.join(output_dir, 'a3_equipo1.txt')
+    letters_sorted_logs_name = os.path.join(output_dir, 'a4_equipo1.txt')
     if 'all' in tests_to_execute:
         output_logs = [open_file_logs_name, remove_tags_logs_name, sort_letters_logs_name]
         op.execute_open_file(file_paths, open_file_logs_name)
@@ -65,8 +68,20 @@ def start_tests(parser: argparse.Namespace, tests_to_execute: list, file_paths: 
             rt.execute_remove_tags(file_paths, remove_tags_logs_name, clean_html_logs)
         if '3' in tests_to_execute:
             output_logs.append(sort_letters_logs_name)
+            if not os.path.exists(clean_html_logs):
+                print('Clean tags needs to be executed first.')
+                rt.execute_remove_tags(file_paths, remove_tags_logs_name, clean_html_logs)
             file_paths = helper.get_all_files(clean_html_logs, '.html')
             sw.execute_sort_words(file_paths, sort_letters_logs_name, sorted_logs_dir, clean_chars)
+        if '4' in tests_to_execute:
+            output_logs.append(letters_sorted_logs_name)
+            if not os.path.exists(clean_html_logs):
+                print('Clean tags needs to be executed first.')
+                rt.execute_remove_tags(file_paths, remove_tags_logs_name, clean_html_logs)
+            file_paths = helper.get_all_files(clean_html_logs, '.html')
+            ot_dir = os.path.join(parser.output_dir, 'letters_act4')
+            helper.validate_logs_path(ot_dir)
+            st.execute_letters_sorted(file_paths, letters_sorted_logs_name, ot_dir)
 
     return output_logs
 
