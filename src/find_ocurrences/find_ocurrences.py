@@ -6,13 +6,13 @@ from src.utils import helper
 from collections import Counter
 
 def find_ocurrences(file: str, output: str, ordered: bool) -> float:
-    """ Function to sort all words of a file.
+    """ Function to find all ocurrences in a file.
         Args:
             file (<class 'str'>): path of the file to sort words.
-            output_file (<class 'str'>): path of the file to write the sorted file.
-            remove_chars (<class 'bool'>): if True, all special characters will be removed.
+            output_file (<class 'str'>): path of the file to write the tokenized file.
+            ordered (<class 'bool'>): if True, the ocurrences dict will be ordered.
         Return:
-            final_time (<class 'float'>): final execution time.
+            ocurrences (<class 'dict'>): number of ocurrences of words in a file.
     """
     start_time = time.time()
     ocurrences = {}

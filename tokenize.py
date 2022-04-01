@@ -12,10 +12,6 @@ import src.letters_sorted.letters_sorted as st
 import src.find_ocurrences.find_ocurrences as fn
 import src.general_ocurrences.find_all_ocurrences as fg
 
-TESTS_NAMES = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
-                '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.',
-                '5. Contabilizar ocurrencias.', '6. Contar palabras en todos los archivos.']
-
 TOKENIZED_FILES = ['simple.html', 'medium.html', 'hard.html','049.html']
 
 def get_params(params):
@@ -42,18 +38,18 @@ def present_working_exec_mode(args: list, tests) -> None:
     print(f'> Path de los logs: {args[1]}')
     print('> Tests a ejecutar:')
     if 'all' in tests:
-        for name in TESTS_NAMES:
+        for name in helper.TESTS_NAMES:
             print(f'---> {name}')
     else:
         for number in tests:
-            print(f'---> {TESTS_NAMES[int(number) - 1]}')
+            print(f'---> {helper.TESTS_NAMES[int(number) - 1]}')
 
 
 def start_tests(tests, input_dir, output_dir):
     output_logs = []
     num_tests = 0
     if 'all' in tests:
-        num_tests = len(TESTS_NAMES)
+        num_tests = len(helper.TESTS_NAMES)
         output_logs = [os.path.join(output_dir, f'a{x+1}_equipo1.txt') for x in range(0,num_tests)]
         # First
         op.execute_open_file(input_dir, output_logs[0])
@@ -84,6 +80,11 @@ def start_tests(tests, input_dir, output_dir):
         tokenized_gen = os.path.join(output_dir, 'all_files_tokenized')
         helper.validate_logs_path(tokenized_gen)
         fg.execute_find_all_ocurrences(file_paths, output_logs[5], tokenized_gen)
+
+        # Seventh
+        # Eighth
+        # Nineth
+        # Tenth
     else:
         if '1' in tests:
             first_act_name = os.path.join(output_dir, 'a1_equipo1.txt')
@@ -108,18 +109,7 @@ def start_tests(tests, input_dir, output_dir):
             helper.validate_logs_path(sorted_logs)
             sw.execute_sort_words(file_paths, third_act_name, sorted_logs, True)
         if '4' in tests:
-            # fourth_act_name = execute_fourth_act(output_dir, input_dir)
-            fourth_act_name = os.path.join(output_dir, 'a4_equipo1.txt')
-            clean_html_logs = os.path.join(output_dir,'clean_tags')
-            if not os.path.exists(clean_html_logs):
-                print('Clean tags needs to be executed first.')
-                second_act_name = os.path.join(output_dir, 'a2_equipo1.txt')
-                helper.validate_logs_path(clean_html_logs)
-                rt.execute_remove_tags(input_dir, second_act_name, clean_html_logs)
-            file_paths = helper.get_all_files(clean_html_logs, '.html')
-            letters_logs = os.path.join(output_dir, 'letters_act4')
-            helper.validate_logs_path(letters_logs)
-            st.execute_letters_sorted(file_paths, fourth_act_name, letters_logs)
+            fourth_act_name = execute_fourth_act(output_dir, input_dir)
             output_logs.append(fourth_act_name)
         if '5' in tests:
             fifth_act_name = os.path.join(output_dir, 'a5_equipo1.txt')
@@ -134,15 +124,27 @@ def start_tests(tests, input_dir, output_dir):
         if '6' in tests:
             sixth_act_name = os.path.join(output_dir, 'a6_equipo1.txt')
             output_logs.append(sixth_act_name)
-            letters_logs = os.path.join(output_dir, 'letters_act4')
-            if not os.path.exists(letters_logs):
-                execute_fourth_act(output_dir, input_dir)
-            file_paths = helper.get_all_files(letters_logs, '.html')
-            tokenized_gen = os.path.join(output_dir, 'all_files_tokenized')
-            helper.validate_logs_path(tokenized_gen)
-            fg.execute_find_all_ocurrences(file_paths, sixth_act_name, tokenized_gen)
+            ocurrences_dict = generate_dict_of_ocurrences(output_dir, input_dir, sixth_act_name)
+
+        if '7' in tests:
+            act_name = os.path.join(output_dir, 'a7_equipo1.txt')
+            output_logs.append(act_name)
+            ocurrences_dict, tokenized_paths, file_ocurrences = generate_dict_of_ocurrences(output_dir, input_dir, act_name)
+            fg.generate_posting_file(ocurrences_dict, output_dir, tokenized_paths, file_ocurrences)
 
     return output_logs
+
+
+def generate_dict_of_ocurrences(output_dir, input_dir, output_file):
+    letters_logs = os.path.join(output_dir, 'letters_act4')
+    if not os.path.exists(letters_logs):
+        execute_fourth_act(output_dir, input_dir)
+    file_paths = helper.get_all_files(letters_logs, '.html')
+    tokenized_gen = os.path.join(output_dir, 'all_files_tokenized')
+    helper.validate_logs_path(tokenized_gen)
+    ocurrences_dict, file_ocurrences = fg.execute_find_all_ocurrences(file_paths, output_file, tokenized_gen, output_dir)
+    tokenized_paths = helper.get_all_files(tokenized_gen, '.html')
+    return ocurrences_dict, tokenized_paths, file_ocurrences
 
 
 def execute_fourth_act(output_dir, input_dir):

@@ -1,6 +1,11 @@
 import os
 import sys
 
+TESTS_NAMES = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
+                '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.',
+                '5. Contabilizar ocurrencias.', '6. Contar palabras en todos los archivos.',
+                '7. Archivo Posting', '8. Hash Table', '9. Stop List', '10. Weight Tokens']
+
 def exit_program(exit_code: int) -> None:
     """ Helper function to end the program with a given exit code.
         Args:
@@ -66,7 +71,7 @@ def validate_tests_to_execute_option(options: str) -> list:
         Return:
             new_options (<class 'list'>): list of tests to execute.
     """
-    possible_options = ['1','2','3', '4', '5', '6']
+    possible_options = [str(x) for x in range(0,len(TESTS_NAMES))]
     new_options = []
     if ',' in options:
         new_options = options.split(',')
@@ -111,3 +116,7 @@ def validate_logs_path(logs_path: str) -> str:
             exit_program(1)
 
     return logs_path
+
+
+def format_msg_str(msg_str):
+    print(msg_str.center(100, '*'))
