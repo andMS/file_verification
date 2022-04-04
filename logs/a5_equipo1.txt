@@ -1,4 +1,4 @@
---> Prueba: encontrar numero de ocurrencias en un archivo (orden alfabetico)
+--> Encontrar numero de ocurrencias en un archivo (alfabetico):
 
 a: 8
 about: 1
@@ -186,9 +186,9 @@ x: 1
 you: 4
 your: 2
 
-Tiempo total de ejecucion: 0.020493507385253906
+Tiempo total de ejecucion: 0.04097247123718262
 
---> Prueba: encontrar numero de ocurrencias en un archivo (orden de repeticion)
+--> Encontrar numero de ocurrencias en un archivo (repeticion)
 
 the: 20
 is: 10
@@ -376,6 +376,6 @@ simple: 1
 that: 1
 very: 1
 
-Tiempo total de ejecucion: 0.04785585403442383
+Tiempo total de ejecucion: 0.012990713119506836
 
-Tiempo final del programa: 0.1253035068511963 segundos.
+Tiempo final del programa: 82.62843728065491 segundos.

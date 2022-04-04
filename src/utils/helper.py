@@ -1,10 +1,14 @@
+# -*- coding: utf-8 -*-
 import os
 import sys
+import PyPDF2
 
 TESTS_NAMES = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
                 '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.',
                 '5. Contabilizar ocurrencias.', '6. Contar palabras en todos los archivos.',
                 '7. Archivo Posting', '8. Hash Table', '9. Stop List', '10. Weight Tokens']
+
+MINIMAL_OCURRENCES = 5
 
 def exit_program(exit_code: int) -> None:
     """ Helper function to end the program with a given exit code.
@@ -75,23 +79,23 @@ def validate_tests_to_execute_option(options: str) -> list:
     new_options = []
     if ',' in options:
         new_options = options.split(',')
-        new_options = [x.strip(' ') for x in new_options]
+        new_options = list(set([x.strip(' ') for x in new_options]))
         for element in new_options:
             if element not in possible_options:
                 print(f'La opcion del test a ejecutar (seleccion: {options}) no es valido.'
-                + 'Valores posibles: 1,2,3,"all"')
+                + 'Valores posibles: 1,2,3,4,5,6,7,8,9,10,"all"')
                 exit_program(1)
     elif options.lower().strip(' ') == 'all':
         new_options.append(options.lower().strip(' '))
     else:
         if len(options) > 1:
             print(f'La opcion del test a ejecutar no es valido: {options}. Valores posibles:'
-            + '1,2,3,"all"')
+            + '1,2,3,4,5,6,7,8,9,10,"all"')
             exit_program(1)
         else:
             if options[0] not in possible_options:
                 print(f'La opcion del test a ejecutar no es valido: {options}. Valores posibles:'
-                + '1,2,3,"all"')
+                + '1,2,3,4,5,6,7,8,9,10,"all"')
                 exit_program(1)
             else:
                 new_options.append(options[0])
@@ -120,3 +124,55 @@ def validate_logs_path(logs_path: str) -> str:
 
 def format_msg_str(msg_str):
     print(msg_str.center(100, '*'))
+
+
+def convert_pdf_to_text(pdf_path):
+    final_content = []
+    with open(pdf_path, 'rb') as pdf_obj:
+        pdf_reader = PyPDF2.PdfFileReader(pdf_obj)
+        for num in range(0, pdf_reader.numPages):
+            page = pdf_reader.getPage(num)
+            content = page.extractText()
+            final_content.append(content.decode(encoding='utf-8'))
+    return final_content
+
+def hashing_function(key, hash_table):
+    key = hash(key)
+    return key % len(hash_table)
+
+
+def insert_hash_table(hash_table, key, value):
+    hash_key = hashing_function(key, hash_table)
+    key_exists = False
+    bucket = hash_table[hash_key]
+    for index, kv in enumerate(bucket):
+        k, v = kv
+        if key == k:
+            key_exists = True
+            break
+    if key_exists:
+        bucket[index][1].append(value)
+    else:
+        bucket.append((key, value))
+
+
+def search_hash_table(hash_table, key):
+    hash_key = hashing_function(key, hash_table)
+    bucket = hash_table[hash_key]
+    for _, kv in enumerate(bucket):
+        k, v = kv
+        if key == k:
+            return v
+
+
+def delete_from_hash_table(hash_table, key):
+    hash_key = hashing_function(key, hash_table)
+    key_exists = False
+    bucket = hash_table[hash_key]
+    for index, kv in enumerate(bucket):
+        k, v = kv
+        if key == k:
+            key_exists = True
+            break
+    if key_exists:
+        del bucket[index]

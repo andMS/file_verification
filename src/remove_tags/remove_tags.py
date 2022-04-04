@@ -54,7 +54,7 @@ def execute_remove_tags(filepaths: list, output_file: str, logs_path: str) -> No
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: ACT 2. REMOVER ETIQUETAS HTML '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 2. REMOVER ETIQUETAS HTML ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: remover etiquetas HTML.\n')

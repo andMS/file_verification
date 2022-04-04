@@ -1,9 +1,10 @@
+from collections import Counter
 import os
 import sys
 import time
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 from src.utils import helper
-from collections import Counter
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 
 def find_ocurrences(file: str, output: str, ordered: bool) -> float:
     """ Function to find all ocurrences in a file.
@@ -30,12 +31,13 @@ def find_ocurrences(file: str, output: str, ordered: bool) -> float:
                 output_obj.write(f'{key}: {value}\n')
             end_time = time.time()
             output_obj.write(f'\nTiempo total de ejecucion: {(end_time - start_time)}\n')
-    except OSError:
-        print(f'Could not open file')
+    except OSError as error:
+        print(f'Could not open file: {error}')
 
     return ocurrences
 
-def execute_find_ocurrences(tokenized_paths, filepaths: list, output_file: str, output_dir: str) -> None:
+
+def execute_find_ocurrences(tokenized_paths, filepaths: list, output_file: str, output_dir: str):
     """ Helper function that executes sort_only_words_in_file and writes a log file with the
         execution time.
         Args:
@@ -45,7 +47,7 @@ def execute_find_ocurrences(tokenized_paths, filepaths: list, output_file: str, 
             None.
     """
     ocurrences = []
-    print(' Ejecutando: ACT 5. ENCONTRAR NUMERO DE OCURRENCIAS '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 5. ENCONTRAR NUMERO DE OCURRENCIAS ')
     filepaths = [x for x in filepaths for path in tokenized_paths if path in x]
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
@@ -53,7 +55,7 @@ def execute_find_ocurrences(tokenized_paths, filepaths: list, output_file: str, 
             print('Encontrar ocurrencias por orden alfabetico')
             counter = Counter()
             ocurrences = []
-            output_obj.write('--> Prueba: encontrar numero de ocurrencias en un archivo (orden alfabetico)\n')
+            output_obj.write('--> Encontrar numero de ocurrencias en un archivo (alfabetico):\n')
             output_obj.write('\n')
             first_time = time.time()
             for file in filepaths:
@@ -73,7 +75,7 @@ def execute_find_ocurrences(tokenized_paths, filepaths: list, output_file: str, 
             print('Encontrar ocurrencias por frecuencia')
             counter = Counter()
             ocurrences = []
-            output_obj.write('\n--> Prueba: encontrar numero de ocurrencias en un archivo (orden de repeticion)\n')
+            output_obj.write('\n--> Encontrar numero de ocurrencias en un archivo (repeticion)\n')
             output_obj.write('\n')
             first_time = time.time()
             for file in filepaths:

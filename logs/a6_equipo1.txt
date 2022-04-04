@@ -1,7 +1,7 @@
 --> Prueba: encontrar numero de ocurrencias en un archivo (todos)
 
 
-Tiempo total de ejecucion: 3.3613948822021484
+Tiempo total de ejecucion: 4.050796985626221
 
 Token | N# of occurrences | N# of filesw with token
 
@@ -108462,6 +108462,6 @@ nickel|1|1
 punctuation|1|1
 sgauchuarkedu|1|1
 
-Tiempo total de ejecucion: 0.35
+Tiempo total de ejecucion: 0.27
 
-Tiempo final del programa: 3.7701921463012695 segundos.
+Tiempo final del programa: 82.62843728065491 segundos.

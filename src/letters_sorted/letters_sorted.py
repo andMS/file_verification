@@ -49,7 +49,7 @@ def execute_letters_sorted(filepaths: list, output_file: str, logs_path: str) ->
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: ACT 4. ORDENAR SOLO PALABRAS EN ARCHIVO '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 4. ORDENAR SOLO PALABRAS EN ARCHIVO ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: ordenar palabras de un archivo (minusculas, no numeros).\n')

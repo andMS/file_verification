@@ -17,8 +17,8 @@ def present_working_exec_mode(parser: argparse.Namespace, tests_to_execute: list
     """
     tests_names = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
                     '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.']
-    print(' VERIFICADOR DE ARCHIVOS '.center(100, '*'))
-    print(' Modo de ejecucion '.center(100, '*'))
+    helper.format_msg_str(' VERIFICADOR DE ARCHIVOS ')
+    helper.format_msg_str(' Modo de ejecucion ')
     print(f'> Directorio/archivo a utilizar: {parser.root}')
     print(f'> Extension de archivos a utilizar: {parser.file_type}')
     print('> Tests a ejecutar:')
