@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 import src.hash_table.hash_table_creation as hash_table
 from src.utils import helper
 from src.find_ocurrences.find_ocurrences import find_ocurrences
-from collections import Counter, defaultdict, OrderedDict
+from collections import Counter, OrderedDict
 
 LEN_HASH_TABLE = 130000
 HASH_TABLE = [[] for _ in range(LEN_HASH_TABLE)]
@@ -46,21 +46,22 @@ def execute_stop_list(stop_list_path, filepaths, log_file, output_dir, tokenized
             # Populating hash table with ocurrences
             hash_table.populate_ocurrences_hashtable(ocurrences_counter, all_tokens_list, HASH_TABLE)
 
-            # Generating posting file
-            tokenized_files = helper.get_all_files(tokenized_items_dir, '.html')
-            dictionary_keys = list(OrderedDict.fromkeys(all_tokens_list))
-            posting_file_name = os.path.join(output_dir, 'posting_stop_list.txt')
-            hash_table.generate_posting_file(posting_file_name, tokenized_files, all_tokens, dictionary_keys, HASH_TABLE)
-
             # Removing elements from hashtable
             start_time = time.time()
             print(f'\n--> Removiendo elementos de hash table:\n' +
                     'Criterios:\n  - Palabras de un solo caracter.\n  - Frecuencia menor a 5')
+            dictionary_keys = list(OrderedDict.fromkeys(all_tokens_list))
             final_tokens = remove_elements_from_hashtable(1, helper.MINIMAL_OCURRENCES, dictionary_keys, HASH_TABLE)
             temp_end_time = time.time()
             msg_str = f'\nTiempo total (remover elementos segun criterio): {temp_end_time - start_time}\n'
             print(msg_str)
             log_obj.write(msg_str)
+
+            # Generating posting file
+            tokenized_files = helper.get_all_files(tokenized_items_dir, '.html')
+            posting_file_name = os.path.join(output_dir, 'posting_stop_list.txt')
+            hash_table.generate_posting_file(posting_file_name, tokenized_files, all_tokens, final_tokens, HASH_TABLE)
+
             # Generating final dictionary with posting index omitting elements from stop list
             output_dict_name = os.path.join(output_dir, 'dictionary_stop_list.txt')
             hash_table.write_hash_table_dict(output_dict_name, final_tokens, HASH_TABLE)

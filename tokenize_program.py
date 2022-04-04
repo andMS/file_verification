@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from genericpath import isdir
 from pathlib import Path
 import os
 import time
@@ -15,6 +14,7 @@ import src.general_ocurrences.find_all_ocurrences as fg
 import src.generate_dict_posting_file.dict_posting_file_creation as pf
 import src.hash_table.hash_table_creation as hash_table
 import src.stop_list.remove_elements as stop_list
+import src.weight_tokens.weight_tokens as weight_t
 
 TOKENIZED_FILES = ['simple.html', 'medium.html', 'hard.html','049.html']
 
@@ -96,8 +96,12 @@ def start_tests(tests, input_dir, output_dir):
         stop_list_path = str(Path(input_dir[0]).parent).replace('Files','')
         stop_list_path = os.path.join(stop_list_path, 'Actividad9_stoplist.txt')
         stop_list.execute_stop_list(stop_list_path, file_paths, output_logs[8], output_dir, tokenized_gen)
+        del stop_list.HASH_TABLE
 
         # Tenth
+        posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
+        dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
+        weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
     else:
         output_logs = execute_individual_activities(tests, output_dir, input_dir)
 
@@ -183,13 +187,20 @@ def execute_individual_activities(tests, output_dir, input_dir):
         del hash_table.HASH_TABLE
 
     # Nineth - Remove elements from stop list
-    if '9' in tests:
+    posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
+    dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
+    if '9' in tests or ('10' in tests and \
+        (not os.path.exists(posting_file_path) or not os.path.exists(dictionary_file_path))):
         final_logs.append(output_logs[8])
         stop_list_path = str(Path(input_dir[0]).parent).replace('Files','')
         stop_list_path = os.path.join(stop_list_path, 'Actividad9_stoplist.txt')
         stop_list.execute_stop_list(stop_list_path, file_paths, output_logs[8], output_dir, tokenized_gen)
+        del stop_list.HASH_TABLE
 
     # Tenth
+    if '10' in tests:
+        final_logs.append(output_logs[9])
+        weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
     return final_logs
 
 

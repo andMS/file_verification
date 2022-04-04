@@ -103,7 +103,6 @@ def write_hash_table_dict(output_dict_name, token_keys, hash_table):
     with open(output_dict_name, 'w', encoding='utf-8') as output_obj:
         for token in token_keys:
             values = helper.search_hash_table(hash_table, token)
-            # 75 best alignment for all values
-            output_obj.write(f'{token : >50}   {values[1] : >06}  {values[2] : >06}\n')
+            output_obj.write(f'{token : >35}   {values[1] : >06}  {values[2] : >06}\n')
     end_time = time.time()
     print(f'Tiempo de ejecucion: {end_time - start_time}')

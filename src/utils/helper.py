@@ -75,7 +75,7 @@ def validate_tests_to_execute_option(options: str) -> list:
         Return:
             new_options (<class 'list'>): list of tests to execute.
     """
-    possible_options = [str(x) for x in range(0,len(TESTS_NAMES))]
+    possible_options = [str(x+1) for x in range(0,len(TESTS_NAMES))]
     new_options = []
     if ',' in options:
         new_options = options.split(',')
@@ -88,17 +88,12 @@ def validate_tests_to_execute_option(options: str) -> list:
     elif options.lower().strip(' ') == 'all':
         new_options.append(options.lower().strip(' '))
     else:
-        if len(options) > 1:
+        if options not in possible_options:
             print(f'La opcion del test a ejecutar no es valido: {options}. Valores posibles:'
             + '1,2,3,4,5,6,7,8,9,10,"all"')
             exit_program(1)
         else:
-            if options[0] not in possible_options:
-                print(f'La opcion del test a ejecutar no es valido: {options}. Valores posibles:'
-                + '1,2,3,4,5,6,7,8,9,10,"all"')
-                exit_program(1)
-            else:
-                new_options.append(options[0])
+            new_options.append(options)
 
     return new_options
 
