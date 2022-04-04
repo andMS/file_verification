@@ -1,511 +1,511 @@
 Prueba: ordenar palabras de un archivo (minusculas, no numeros).
 
-  1. logs\clean_tags\clean_002.html                                                                      0.04397416114807129
-  2. logs\clean_tags\clean_003.html                                                                      0.0010013580322265625
-  3. logs\clean_tags\clean_004.html                                                                      0.001998424530029297
-  4. logs\clean_tags\clean_005.html                                                                      0.025016069412231445
-  5. logs\clean_tags\clean_006.html                                                                      0.0
-  6. logs\clean_tags\clean_007.html                                                                      0.01562643051147461
-  7. logs\clean_tags\clean_008.html                                                                      0.0
-  8. logs\clean_tags\clean_009.html                                                                      0.0
-  9. logs\clean_tags\clean_010.html                                                                      0.015622615814208984
- 10. logs\clean_tags\clean_011.html                                                                      0.0
- 11. logs\clean_tags\clean_012.html                                                                      0.0
- 12. logs\clean_tags\clean_013.html                                                                      0.0
- 13. logs\clean_tags\clean_014.html                                                                      0.0
- 14. logs\clean_tags\clean_015.html                                                                      0.015624761581420898
- 15. logs\clean_tags\clean_016.html                                                                      0.0
- 16. logs\clean_tags\clean_017.html                                                                      0.0
- 17. logs\clean_tags\clean_018.html                                                                      0.0
- 18. logs\clean_tags\clean_019.html                                                                      0.015625476837158203
- 19. logs\clean_tags\clean_020.html                                                                      0.0
- 20. logs\clean_tags\clean_021.html                                                                      0.0
- 21. logs\clean_tags\clean_022.html                                                                      0.015622615814208984
- 22. logs\clean_tags\clean_023.html                                                                      0.0
- 23. logs\clean_tags\clean_024.html                                                                      0.0
- 24. logs\clean_tags\clean_025.html                                                                      0.0
- 25. logs\clean_tags\clean_026.html                                                                      0.015623807907104492
- 26. logs\clean_tags\clean_027.html                                                                      0.06471824645996094
- 27. logs\clean_tags\clean_028.html                                                                      0.012996196746826172
- 28. logs\clean_tags\clean_029.html                                                                      0.03497600555419922
- 29. logs\clean_tags\clean_030.html                                                                      0.003995418548583984
- 30. logs\clean_tags\clean_031.html                                                                      0.0050008296966552734
- 31. logs\clean_tags\clean_032.html                                                                      0.0029938220977783203
- 32. logs\clean_tags\clean_033.html                                                                      0.003995656967163086
- 33. logs\clean_tags\clean_034.html                                                                      0.009996891021728516
- 34. logs\clean_tags\clean_035.html                                                                      0.0019960403442382812
- 35. logs\clean_tags\clean_036.html                                                                      0.00499725341796875
- 36. logs\clean_tags\clean_037.html                                                                      0.03498697280883789
- 37. logs\clean_tags\clean_038.html                                                                      0.009987354278564453
- 38. logs\clean_tags\clean_039.html                                                                      0.001997709274291992
- 39. logs\clean_tags\clean_040.html                                                                      0.01099538803100586
- 40. logs\clean_tags\clean_041.html                                                                      0.004995584487915039
- 41. logs\clean_tags\clean_042.html                                                                      0.0049970149993896484
- 42. logs\clean_tags\clean_043.html                                                                      0.041745901107788086
- 43. logs\clean_tags\clean_044.html                                                                      0.0
- 44. logs\clean_tags\clean_045.html                                                                      0.0
- 45. logs\clean_tags\clean_046.html                                                                      0.0156252384185791
- 46. logs\clean_tags\clean_047.html                                                                      0.0
- 47. logs\clean_tags\clean_048.html                                                                      0.0
- 48. logs\clean_tags\clean_049.html                                                                      0.0
- 49. logs\clean_tags\clean_050.html                                                                      0.015625
- 50. logs\clean_tags\clean_051.html                                                                      0.0
- 51. logs\clean_tags\clean_052.html                                                                      0.015624523162841797
- 52. logs\clean_tags\clean_053.html                                                                      0.0
- 53. logs\clean_tags\clean_054.html                                                                      0.010625600814819336
- 54. logs\clean_tags\clean_055.html                                                                      0.003998756408691406
- 55. logs\clean_tags\clean_056.html                                                                      0.001997232437133789
- 56. logs\clean_tags\clean_057.html                                                                      0.003997325897216797
- 57. logs\clean_tags\clean_058.html                                                                      0.0069959163665771484
- 58. logs\clean_tags\clean_059.html                                                                      0.007997274398803711
- 59. logs\clean_tags\clean_060.html                                                                      0.007993936538696289
- 60. logs\clean_tags\clean_061.html                                                                      0.003996372222900391
- 61. logs\clean_tags\clean_062.html                                                                      0.006995677947998047
- 62. logs\clean_tags\clean_063.html                                                                      0.004998922348022461
- 63. logs\clean_tags\clean_064.html                                                                      0.012992382049560547
- 64. logs\clean_tags\clean_065.html                                                                      0.0020008087158203125
- 65. logs\clean_tags\clean_066.html                                                                      0.027982473373413086
- 66. logs\clean_tags\clean_067.html                                                                      0.005995988845825195
- 67. logs\clean_tags\clean_068.html                                                                      0.0029993057250976562
- 68. logs\clean_tags\clean_069.html                                                                      0.00600433349609375
- 69. logs\clean_tags\clean_070.html                                                                      0.004986763000488281
- 70. logs\clean_tags\clean_071.html                                                                      0.00299835205078125
- 71. logs\clean_tags\clean_072.html                                                                      0.0029976367950439453
- 72. logs\clean_tags\clean_073.html                                                                      0.00299835205078125
- 73. logs\clean_tags\clean_074.html                                                                      0.013005971908569336
- 74. logs\clean_tags\clean_075.html                                                                      0.01697826385498047
- 75. logs\clean_tags\clean_076.html                                                                      0.045281410217285156
- 76. logs\clean_tags\clean_077.html                                                                      0.0
- 77. logs\clean_tags\clean_078.html                                                                      0.0
- 78. logs\clean_tags\clean_079.html                                                                      0.0
- 79. logs\clean_tags\clean_080.html                                                                      0.01562356948852539
- 80. logs\clean_tags\clean_081.html                                                                      0.0
- 81. logs\clean_tags\clean_082.html                                                                      0.031248807907104492
- 82. logs\clean_tags\clean_083.html                                                                      0.0
- 83. logs\clean_tags\clean_084.html                                                                      0.0
- 84. logs\clean_tags\clean_085.html                                                                      0.012796878814697266
- 85. logs\clean_tags\clean_086.html                                                                      0.0049953460693359375
- 86. logs\clean_tags\clean_087.html                                                                      0.004998445510864258
- 87. logs\clean_tags\clean_088.html                                                                      0.01099252700805664
- 88. logs\clean_tags\clean_089.html                                                                      0.007994413375854492
- 89. logs\clean_tags\clean_090.html                                                                      0.0019991397857666016
- 90. logs\clean_tags\clean_091.html                                                                      0.01399374008178711
- 91. logs\clean_tags\clean_092.html                                                                      0.004998922348022461
- 92. logs\clean_tags\clean_093.html                                                                      0.0019953250885009766
- 93. logs\clean_tags\clean_094.html                                                                      0.002000570297241211
- 94. logs\clean_tags\clean_095.html                                                                      0.011991739273071289
- 95. logs\clean_tags\clean_096.html                                                                      0.0029973983764648438
- 96. logs\clean_tags\clean_097.html                                                                      0.008996725082397461
- 97. logs\clean_tags\clean_098.html                                                                      0.007994651794433594
- 98. logs\clean_tags\clean_099.html                                                                      0.009995460510253906
- 99. logs\clean_tags\clean_100.html                                                                      0.0019981861114501953
-100. logs\clean_tags\clean_101.html                                                                      0.01898956298828125
-101. logs\clean_tags\clean_102.html                                                                      0.0009996891021728516
-102. logs\clean_tags\clean_103.html                                                                      0.003995656967163086
-103. logs\clean_tags\clean_104.html                                                                      0.0059964656829833984
-104. logs\clean_tags\clean_105.html                                                                      0.005998134613037109
-105. logs\clean_tags\clean_106.html                                                                      0.003997802734375
-106. logs\clean_tags\clean_107.html                                                                      0.001999378204345703
-107. logs\clean_tags\clean_108.html                                                                      0.0
-108. logs\clean_tags\clean_109.html                                                                      0.0
-109. logs\clean_tags\clean_110.html                                                                      0.0
-110. logs\clean_tags\clean_111.html                                                                      0.0
-111. logs\clean_tags\clean_112.html                                                                      0.015625
-112. logs\clean_tags\clean_113.html                                                                      0.0
-113. logs\clean_tags\clean_114.html                                                                      0.0
-114. logs\clean_tags\clean_115.html                                                                      0.015622615814208984
-115. logs\clean_tags\clean_116.html                                                                      0.0
-116. logs\clean_tags\clean_117.html                                                                      0.0
-117. logs\clean_tags\clean_118.html                                                                      0.015623807907104492
-118. logs\clean_tags\clean_119.html                                                                      0.015624046325683594
-119. logs\clean_tags\clean_120.html                                                                      0.0029997825622558594
-120. logs\clean_tags\clean_121.html                                                                      0.002997875213623047
-121. logs\clean_tags\clean_122.html                                                                      0.0059947967529296875
-122. logs\clean_tags\clean_123.html                                                                      0.0030007362365722656
-123. logs\clean_tags\clean_124.html                                                                      0.008994579315185547
-124. logs\clean_tags\clean_125.html                                                                      0.0069959163665771484
-125. logs\clean_tags\clean_126.html                                                                      0.0059967041015625
-126. logs\clean_tags\clean_127.html                                                                      0.0009989738464355469
-127. logs\clean_tags\clean_128.html                                                                      0.00099945068359375
-128. logs\clean_tags\clean_129.html                                                                      0.004997730255126953
-129. logs\clean_tags\clean_130.html                                                                      0.0019996166229248047
-130. logs\clean_tags\clean_131.html                                                                      0.007001399993896484
-131. logs\clean_tags\clean_132.html                                                                      0.001989603042602539
-132. logs\clean_tags\clean_133.html                                                                      0.004996299743652344
-133. logs\clean_tags\clean_134.html                                                                      0.0009987354278564453
-134. logs\clean_tags\clean_135.html                                                                      0.014000892639160156
-135. logs\clean_tags\clean_136.html                                                                      0.005987882614135742
-136. logs\clean_tags\clean_137.html                                                                      0.03397965431213379
-137. logs\clean_tags\clean_138.html                                                                      0.0019981861114501953
-138. logs\clean_tags\clean_139.html                                                                      0.005995273590087891
-139. logs\clean_tags\clean_140.html                                                                      0.0009996891021728516
-140. logs\clean_tags\clean_141.html                                                                      0.006995439529418945
-141. logs\clean_tags\clean_142.html                                                                      0.0009987354278564453
-142. logs\clean_tags\clean_143.html                                                                      0.0019979476928710938
-143. logs\clean_tags\clean_144.html                                                                      0.0029985904693603516
-144. logs\clean_tags\clean_145.html                                                                      0.001041412353515625
-145. logs\clean_tags\clean_146.html                                                                      0.015625953674316406
-146. logs\clean_tags\clean_147.html                                                                      0.015622377395629883
-147. logs\clean_tags\clean_148.html                                                                      0.0
-148. logs\clean_tags\clean_149.html                                                                      0.0
-149. logs\clean_tags\clean_150.html                                                                      0.015624523162841797
-150. logs\clean_tags\clean_151.html                                                                      0.0
-151. logs\clean_tags\clean_152.html                                                                      0.015623807907104492
-152. logs\clean_tags\clean_153.html                                                                      0.0
-153. logs\clean_tags\clean_154.html                                                                      0.01933741569519043
-154. logs\clean_tags\clean_155.html                                                                      0.0009980201721191406
-155. logs\clean_tags\clean_156.html                                                                      0.03997683525085449
-156. logs\clean_tags\clean_157.html                                                                      0.0019991397857666016
-157. logs\clean_tags\clean_158.html                                                                      0.0009987354278564453
-158. logs\clean_tags\clean_159.html                                                                      0.016994953155517578
-159. logs\clean_tags\clean_160.html                                                                      0.010986804962158203
-160. logs\clean_tags\clean_161.html                                                                      0.01598668098449707
-161. logs\clean_tags\clean_162.html                                                                      0.0019991397857666016
-162. logs\clean_tags\clean_163.html                                                                      0.003996849060058594
-163. logs\clean_tags\clean_164.html                                                                      0.0040013790130615234
-164. logs\clean_tags\clean_165.html                                                                      0.0010001659393310547
-165. logs\clean_tags\clean_166.html                                                                      0.011767864227294922
-166. logs\clean_tags\clean_167.html                                                                      0.0
-167. logs\clean_tags\clean_168.html                                                                      0.0
-168. logs\clean_tags\clean_169.html                                                                      0.0
-169. logs\clean_tags\clean_170.html                                                                      0.0
-170. logs\clean_tags\clean_171.html                                                                      0.015624046325683594
-171. logs\clean_tags\clean_172.html                                                                      0.0
-172. logs\clean_tags\clean_173.html                                                                      0.0
-173. logs\clean_tags\clean_174.html                                                                      0.015624761581420898
-174. logs\clean_tags\clean_175.html                                                                      0.0043528079986572266
-175. logs\clean_tags\clean_176.html                                                                      0.0011851787567138672
-176. logs\clean_tags\clean_177.html                                                                      0.0
-177. logs\clean_tags\clean_178.html                                                                      0.0
-178. logs\clean_tags\clean_179.html                                                                      0.01562666893005371
-179. logs\clean_tags\clean_180.html                                                                      0.0
-180. logs\clean_tags\clean_181.html                                                                      0.031247854232788086
-181. logs\clean_tags\clean_182.html                                                                      0.0
-182. logs\clean_tags\clean_183.html                                                                      0.0
-183. logs\clean_tags\clean_184.html                                                                      0.015623331069946289
-184. logs\clean_tags\clean_185.html                                                                      0.0
-185. logs\clean_tags\clean_186.html                                                                      0.007302761077880859
-186. logs\clean_tags\clean_187.html                                                                      0.0029973983764648438
-187. logs\clean_tags\clean_188.html                                                                      0.0059964656829833984
-188. logs\clean_tags\clean_189.html                                                                      0.018991947174072266
-189. logs\clean_tags\clean_190.html                                                                      0.0019986629486083984
-190. logs\clean_tags\clean_191.html                                                                      0.0009982585906982422
-191. logs\clean_tags\clean_192.html                                                                      0.003999471664428711
-192. logs\clean_tags\clean_193.html                                                                      0.0029973983764648438
-193. logs\clean_tags\clean_194.html                                                                      0.011993169784545898
-194. logs\clean_tags\clean_195.html                                                                      0.008994817733764648
-195. logs\clean_tags\clean_196.html                                                                      0.0019998550415039062
-196. logs\clean_tags\clean_197.html                                                                      0.011992692947387695
-197. logs\clean_tags\clean_198.html                                                                      0.007994890213012695
-198. logs\clean_tags\clean_199.html                                                                      0.004998207092285156
-199. logs\clean_tags\clean_200.html                                                                      0.0029981136322021484
-200. logs\clean_tags\clean_201.html                                                                      0.0029976367950439453
-201. logs\clean_tags\clean_202.html                                                                      0.0039975643157958984
-202. logs\clean_tags\clean_203.html                                                                      0.0049970149993896484
-203. logs\clean_tags\clean_204.html                                                                      0.005995750427246094
-204. logs\clean_tags\clean_205.html                                                                      0.007996559143066406
-205. logs\clean_tags\clean_206.html                                                                      0.003996372222900391
-206. logs\clean_tags\clean_207.html                                                                      0.00800466537475586
-207. logs\clean_tags\clean_208.html                                                                      0.0040018558502197266
-208. logs\clean_tags\clean_209.html                                                                      0.003991365432739258
-209. logs\clean_tags\clean_210.html                                                                      0.0040013790130615234
-210. logs\clean_tags\clean_211.html                                                                      0.00299072265625
-211. logs\clean_tags\clean_212.html                                                                      0.0029976367950439453
-212. logs\clean_tags\clean_213.html                                                                      0.00499725341796875
-213. logs\clean_tags\clean_214.html                                                                      0.0019991397857666016
-214. logs\clean_tags\clean_215.html                                                                      0.004996299743652344
-215. logs\clean_tags\clean_216.html                                                                      0.0029981136322021484
-216. logs\clean_tags\clean_217.html                                                                      0.0009980201721191406
-217. logs\clean_tags\clean_218.html                                                                      0.0019991397857666016
-218. logs\clean_tags\clean_219.html                                                                      0.003997325897216797
-219. logs\clean_tags\clean_220.html                                                                      0.001068115234375
-220. logs\clean_tags\clean_221.html                                                                      0.0
-221. logs\clean_tags\clean_222.html                                                                      0.015624523162841797
-222. logs\clean_tags\clean_223.html                                                                      0.020373821258544922
-223. logs\clean_tags\clean_224.html                                                                      0.004996299743652344
-224. logs\clean_tags\clean_225.html                                                                      0.003998279571533203
-225. logs\clean_tags\clean_226.html                                                                      0.01199197769165039
-226. logs\clean_tags\clean_227.html                                                                      0.0019991397857666016
-227. logs\clean_tags\clean_228.html                                                                      0.003998756408691406
-228. logs\clean_tags\clean_229.html                                                                      0.001146078109741211
-229. logs\clean_tags\clean_230.html                                                                      0.0
-230. logs\clean_tags\clean_231.html                                                                      0.0
-231. logs\clean_tags\clean_232.html                                                                      0.01967167854309082
-232. logs\clean_tags\clean_233.html                                                                      0.02898263931274414
-233. logs\clean_tags\clean_234.html                                                                      0.03198075294494629
-234. logs\clean_tags\clean_235.html                                                                      0.028982877731323242
-235. logs\clean_tags\clean_236.html                                                                      0.014991998672485352
-236. logs\clean_tags\clean_237.html                                                                      0.00899505615234375
-237. logs\clean_tags\clean_238.html                                                                      0.042975664138793945
-238. logs\clean_tags\clean_239.html                                                                      0.027982711791992188
-239. logs\clean_tags\clean_240.html                                                                      0.05236339569091797
-240. logs\clean_tags\clean_241.html                                                                      0.01598954200744629
-241. logs\clean_tags\clean_242.html                                                                      0.0219879150390625
-242. logs\clean_tags\clean_243.html                                                                      0.09494519233703613
-243. logs\clean_tags\clean_244.html                                                                      0.028983354568481445
-244. logs\clean_tags\clean_245.html                                                                      0.02898716926574707
-245. logs\clean_tags\clean_246.html                                                                      0.03597688674926758
-246. logs\clean_tags\clean_247.html                                                                      0.04297637939453125
+  1. logs\clean_tags\clean_002.html                                                                      0.029984712600708008
+  2. logs\clean_tags\clean_003.html                                                                      0.009992837905883789
+  3. logs\clean_tags\clean_004.html                                                                      0.013990640640258789
+  4. logs\clean_tags\clean_005.html                                                                      0.0219876766204834
+  5. logs\clean_tags\clean_006.html                                                                      0.010994195938110352
+  6. logs\clean_tags\clean_007.html                                                                      0.03497886657714844
+  7. logs\clean_tags\clean_008.html                                                                      0.007996082305908203
+  8. logs\clean_tags\clean_009.html                                                                      0.0219881534576416
+  9. logs\clean_tags\clean_010.html                                                                      0.007993936538696289
+ 10. logs\clean_tags\clean_011.html                                                                      0.028983116149902344
+ 11. logs\clean_tags\clean_012.html                                                                      0.014992713928222656
+ 12. logs\clean_tags\clean_013.html                                                                      0.006763935089111328
+ 13. logs\clean_tags\clean_014.html                                                                      0.010997295379638672
+ 14. logs\clean_tags\clean_015.html                                                                      0.006996631622314453
+ 15. logs\clean_tags\clean_016.html                                                                      0.011993408203125
+ 16. logs\clean_tags\clean_017.html                                                                      0.008994102478027344
+ 17. logs\clean_tags\clean_018.html                                                                      0.0069959163665771484
+ 18. logs\clean_tags\clean_019.html                                                                      0.020987749099731445
+ 19. logs\clean_tags\clean_020.html                                                                      0.008994579315185547
+ 20. logs\clean_tags\clean_021.html                                                                      0.009995222091674805
+ 21. logs\clean_tags\clean_022.html                                                                      0.014992237091064453
+ 22. logs\clean_tags\clean_023.html                                                                      0.0069959163665771484
+ 23. logs\clean_tags\clean_024.html                                                                      0.01000666618347168
+ 24. logs\clean_tags\clean_025.html                                                                      0.007996320724487305
+ 25. logs\clean_tags\clean_026.html                                                                      0.013993024826049805
+ 26. logs\clean_tags\clean_027.html                                                                      0.036307334899902344
+ 27. logs\clean_tags\clean_028.html                                                                      0.013173341751098633
+ 28. logs\clean_tags\clean_029.html                                                                      0.019887685775756836
+ 29. logs\clean_tags\clean_030.html                                                                      0.009215354919433594
+ 30. logs\clean_tags\clean_031.html                                                                      0.0059947967529296875
+ 31. logs\clean_tags\clean_032.html                                                                      0.00506281852722168
+ 32. logs\clean_tags\clean_033.html                                                                      0.009221792221069336
+ 33. logs\clean_tags\clean_034.html                                                                      0.010970830917358398
+ 34. logs\clean_tags\clean_035.html                                                                      0.0069980621337890625
+ 35. logs\clean_tags\clean_036.html                                                                      0.0405733585357666
+ 36. logs\clean_tags\clean_037.html                                                                      0.04069852828979492
+ 37. logs\clean_tags\clean_038.html                                                                      0.059854984283447266
+ 38. logs\clean_tags\clean_039.html                                                                      0.009994983673095703
+ 39. logs\clean_tags\clean_040.html                                                                      0.02343583106994629
+ 40. logs\clean_tags\clean_041.html                                                                      0.01148223876953125
+ 41. logs\clean_tags\clean_042.html                                                                      0.020549535751342773
+ 42. logs\clean_tags\clean_043.html                                                                      0.10586190223693848
+ 43. logs\clean_tags\clean_044.html                                                                      0.009429216384887695
+ 44. logs\clean_tags\clean_045.html                                                                      0.018880128860473633
+ 45. logs\clean_tags\clean_046.html                                                                      0.02523493766784668
+ 46. logs\clean_tags\clean_047.html                                                                      0.014769792556762695
+ 47. logs\clean_tags\clean_048.html                                                                      0.007996082305908203
+ 48. logs\clean_tags\clean_049.html                                                                      0.027286529541015625
+ 49. logs\clean_tags\clean_050.html                                                                      0.025005578994750977
+ 50. logs\clean_tags\clean_051.html                                                                      0.012309551239013672
+ 51. logs\clean_tags\clean_052.html                                                                      0.015759706497192383
+ 52. logs\clean_tags\clean_053.html                                                                      0.006994485855102539
+ 53. logs\clean_tags\clean_054.html                                                                      0.011425971984863281
+ 54. logs\clean_tags\clean_055.html                                                                      0.008949756622314453
+ 55. logs\clean_tags\clean_056.html                                                                      0.008725643157958984
+ 56. logs\clean_tags\clean_057.html                                                                      0.010997772216796875
+ 57. logs\clean_tags\clean_058.html                                                                      0.0139923095703125
+ 58. logs\clean_tags\clean_059.html                                                                      0.009995698928833008
+ 59. logs\clean_tags\clean_060.html                                                                      0.004906415939331055
+ 60. logs\clean_tags\clean_061.html                                                                      0.018775463104248047
+ 61. logs\clean_tags\clean_062.html                                                                      0.010992050170898438
+ 62. logs\clean_tags\clean_063.html                                                                      0.00899505615234375
+ 63. logs\clean_tags\clean_064.html                                                                      0.009300947189331055
+ 64. logs\clean_tags\clean_065.html                                                                      0.0
+ 65. logs\clean_tags\clean_066.html                                                                      0.03784775733947754
+ 66. logs\clean_tags\clean_067.html                                                                      0.013992547988891602
+ 67. logs\clean_tags\clean_068.html                                                                      0.04897046089172363
+ 68. logs\clean_tags\clean_069.html                                                                      0.009994745254516602
+ 69. logs\clean_tags\clean_070.html                                                                      0.012992143630981445
+ 70. logs\clean_tags\clean_071.html                                                                      0.03597855567932129
+ 71. logs\clean_tags\clean_072.html                                                                      0.010995626449584961
+ 72. logs\clean_tags\clean_073.html                                                                      0.011991500854492188
+ 73. logs\clean_tags\clean_074.html                                                                      0.030982494354248047
+ 74. logs\clean_tags\clean_075.html                                                                      0.023985862731933594
+ 75. logs\clean_tags\clean_076.html                                                                      0.061966657638549805
+ 76. logs\clean_tags\clean_077.html                                                                      0.013980627059936523
+ 77. logs\clean_tags\clean_078.html                                                                      0.019460439682006836
+ 78. logs\clean_tags\clean_079.html                                                                      0.026416778564453125
+ 79. logs\clean_tags\clean_080.html                                                                      0.04527401924133301
+ 80. logs\clean_tags\clean_081.html                                                                      0.011617660522460938
+ 81. logs\clean_tags\clean_082.html                                                                      0.021586179733276367
+ 82. logs\clean_tags\clean_083.html                                                                      0.06764364242553711
+ 83. logs\clean_tags\clean_084.html                                                                      0.016040563583374023
+ 84. logs\clean_tags\clean_085.html                                                                      0.013096094131469727
+ 85. logs\clean_tags\clean_086.html                                                                      0.017935514450073242
+ 86. logs\clean_tags\clean_087.html                                                                      0.01459503173828125
+ 87. logs\clean_tags\clean_088.html                                                                      0.013577938079833984
+ 88. logs\clean_tags\clean_089.html                                                                      0.017724037170410156
+ 89. logs\clean_tags\clean_090.html                                                                      0.05195307731628418
+ 90. logs\clean_tags\clean_091.html                                                                      0.020587682723999023
+ 91. logs\clean_tags\clean_092.html                                                                      0.069976806640625
+ 92. logs\clean_tags\clean_093.html                                                                      0.013102293014526367
+ 93. logs\clean_tags\clean_094.html                                                                      0.012695550918579102
+ 94. logs\clean_tags\clean_095.html                                                                      0.01379537582397461
+ 95. logs\clean_tags\clean_096.html                                                                      0.006995677947998047
+ 96. logs\clean_tags\clean_097.html                                                                      0.011673212051391602
+ 97. logs\clean_tags\clean_098.html                                                                      0.03439068794250488
+ 98. logs\clean_tags\clean_099.html                                                                      0.011591434478759766
+ 99. logs\clean_tags\clean_100.html                                                                      0.00899505615234375
+100. logs\clean_tags\clean_101.html                                                                      0.027541399002075195
+101. logs\clean_tags\clean_102.html                                                                      0.013223409652709961
+102. logs\clean_tags\clean_103.html                                                                      0.01204061508178711
+103. logs\clean_tags\clean_104.html                                                                      0.012413978576660156
+104. logs\clean_tags\clean_105.html                                                                      0.03703570365905762
+105. logs\clean_tags\clean_106.html                                                                      0.019986629486083984
+106. logs\clean_tags\clean_107.html                                                                      0.009994745254516602
+107. logs\clean_tags\clean_108.html                                                                      0.012993335723876953
+108. logs\clean_tags\clean_109.html                                                                      0.011992454528808594
+109. logs\clean_tags\clean_110.html                                                                      0.009994268417358398
+110. logs\clean_tags\clean_111.html                                                                      0.006998538970947266
+111. logs\clean_tags\clean_112.html                                                                      0.011993646621704102
+112. logs\clean_tags\clean_113.html                                                                      0.008994102478027344
+113. logs\clean_tags\clean_114.html                                                                      0.013280391693115234
+114. logs\clean_tags\clean_115.html                                                                      0.014865875244140625
+115. logs\clean_tags\clean_116.html                                                                      0.010994434356689453
+116. logs\clean_tags\clean_117.html                                                                      0.01099395751953125
+117. logs\clean_tags\clean_118.html                                                                      0.029984235763549805
+118. logs\clean_tags\clean_119.html                                                                      0.016994953155517578
+119. logs\clean_tags\clean_120.html                                                                      0.013985395431518555
+120. logs\clean_tags\clean_121.html                                                                      0.009993314743041992
+121. logs\clean_tags\clean_122.html                                                                      0.017990589141845703
+122. logs\clean_tags\clean_123.html                                                                      0.010993003845214844
+123. logs\clean_tags\clean_124.html                                                                      0.025985240936279297
+124. logs\clean_tags\clean_125.html                                                                      0.012993812561035156
+125. logs\clean_tags\clean_126.html                                                                      0.0199887752532959
+126. logs\clean_tags\clean_127.html                                                                      0.009992361068725586
+127. logs\clean_tags\clean_128.html                                                                      0.011995792388916016
+128. logs\clean_tags\clean_129.html                                                                      0.015990495681762695
+129. logs\clean_tags\clean_130.html                                                                      0.002997159957885742
+130. logs\clean_tags\clean_131.html                                                                      0.011992454528808594
+131. logs\clean_tags\clean_132.html                                                                      0.009994029998779297
+132. logs\clean_tags\clean_133.html                                                                      0.01704883575439453
+133. logs\clean_tags\clean_134.html                                                                      0.019232511520385742
+134. logs\clean_tags\clean_135.html                                                                      0.009993314743041992
+135. logs\clean_tags\clean_136.html                                                                      0.023986101150512695
+136. logs\clean_tags\clean_137.html                                                                      0.0699605941772461
+137. logs\clean_tags\clean_138.html                                                                      0.014990091323852539
+138. logs\clean_tags\clean_139.html                                                                      0.01299285888671875
+139. logs\clean_tags\clean_140.html                                                                      0.00799560546875
+140. logs\clean_tags\clean_141.html                                                                      0.04197430610656738
+141. logs\clean_tags\clean_142.html                                                                      0.029982805252075195
+142. logs\clean_tags\clean_143.html                                                                      0.01299285888671875
+143. logs\clean_tags\clean_144.html                                                                      0.01299142837524414
+144. logs\clean_tags\clean_145.html                                                                      0.020292997360229492
+145. logs\clean_tags\clean_146.html                                                                      0.0319828987121582
+146. logs\clean_tags\clean_147.html                                                                      0.051239013671875
+147. logs\clean_tags\clean_148.html                                                                      0.011802196502685547
+148. logs\clean_tags\clean_149.html                                                                      0.010958433151245117
+149. logs\clean_tags\clean_150.html                                                                      0.0347747802734375
+150. logs\clean_tags\clean_151.html                                                                      0.00973367691040039
+151. logs\clean_tags\clean_152.html                                                                      0.05993509292602539
+152. logs\clean_tags\clean_153.html                                                                      0.03228259086608887
+153. logs\clean_tags\clean_154.html                                                                      0.017546892166137695
+154. logs\clean_tags\clean_155.html                                                                      0.018900632858276367
+155. logs\clean_tags\clean_156.html                                                                      0.06490516662597656
+156. logs\clean_tags\clean_157.html                                                                      0.010995626449584961
+157. logs\clean_tags\clean_158.html                                                                      0.019990205764770508
+158. logs\clean_tags\clean_159.html                                                                      0.029981613159179688
+159. logs\clean_tags\clean_160.html                                                                      0.02588510513305664
+160. logs\clean_tags\clean_161.html                                                                      0.05495858192443848
+161. logs\clean_tags\clean_162.html                                                                      0.011615276336669922
+162. logs\clean_tags\clean_163.html                                                                      0.019529342651367188
+163. logs\clean_tags\clean_164.html                                                                      0.014917135238647461
+164. logs\clean_tags\clean_165.html                                                                      0.13382172584533691
+165. logs\clean_tags\clean_166.html                                                                      0.01798868179321289
+166. logs\clean_tags\clean_167.html                                                                      0.011854171752929688
+167. logs\clean_tags\clean_168.html                                                                      0.011990070343017578
+168. logs\clean_tags\clean_169.html                                                                      0.004151821136474609
+169. logs\clean_tags\clean_170.html                                                                      0.015027046203613281
+170. logs\clean_tags\clean_171.html                                                                      0.0
+171. logs\clean_tags\clean_172.html                                                                      0.02770829200744629
+172. logs\clean_tags\clean_173.html                                                                      0.011993169784545898
+173. logs\clean_tags\clean_174.html                                                                      0.02098846435546875
+174. logs\clean_tags\clean_175.html                                                                      0.01399374008178711
+175. logs\clean_tags\clean_176.html                                                                      0.011992216110229492
+176. logs\clean_tags\clean_177.html                                                                      0.010994911193847656
+177. logs\clean_tags\clean_178.html                                                                      0.011993169784545898
+178. logs\clean_tags\clean_179.html                                                                      0.05978512763977051
+179. logs\clean_tags\clean_180.html                                                                      0.019988059997558594
+180. logs\clean_tags\clean_181.html                                                                      0.10718369483947754
+181. logs\clean_tags\clean_182.html                                                                      0.04848599433898926
+182. logs\clean_tags\clean_183.html                                                                      0.015624761581420898
+183. logs\clean_tags\clean_184.html                                                                      0.012561559677124023
+184. logs\clean_tags\clean_185.html                                                                      0.008995294570922852
+185. logs\clean_tags\clean_186.html                                                                      0.1157388687133789
+186. logs\clean_tags\clean_187.html                                                                      0.015602350234985352
+187. logs\clean_tags\clean_188.html                                                                      0.0156252384185791
+188. logs\clean_tags\clean_189.html                                                                      0.03124690055847168
+189. logs\clean_tags\clean_190.html                                                                      0.0
+190. logs\clean_tags\clean_191.html                                                                      0.016644716262817383
+191. logs\clean_tags\clean_192.html                                                                      0.027983665466308594
+192. logs\clean_tags\clean_193.html                                                                      0.04097628593444824
+193. logs\clean_tags\clean_194.html                                                                      0.013992786407470703
+194. logs\clean_tags\clean_195.html                                                                      0.01899099349975586
+195. logs\clean_tags\clean_196.html                                                                      0.009992599487304688
+196. logs\clean_tags\clean_197.html                                                                      0.02098846435546875
+197. logs\clean_tags\clean_198.html                                                                      0.01198720932006836
+198. logs\clean_tags\clean_199.html                                                                      0.013992071151733398
+199. logs\clean_tags\clean_200.html                                                                      0.010991096496582031
+200. logs\clean_tags\clean_201.html                                                                      0.01199793815612793
+201. logs\clean_tags\clean_202.html                                                                      0.01898360252380371
+202. logs\clean_tags\clean_203.html                                                                      0.013989448547363281
+203. logs\clean_tags\clean_204.html                                                                      0.012991666793823242
+204. logs\clean_tags\clean_205.html                                                                      0.02698516845703125
+205. logs\clean_tags\clean_206.html                                                                      0.0159914493560791
+206. logs\clean_tags\clean_207.html                                                                      0.022989749908447266
+207. logs\clean_tags\clean_208.html                                                                      0.012989282608032227
+208. logs\clean_tags\clean_209.html                                                                      0.014991521835327148
+209. logs\clean_tags\clean_210.html                                                                      0.012993812561035156
+210. logs\clean_tags\clean_211.html                                                                      0.0159912109375
+211. logs\clean_tags\clean_212.html                                                                      0.04497194290161133
+212. logs\clean_tags\clean_213.html                                                                      0.017990589141845703
+213. logs\clean_tags\clean_214.html                                                                      0.009994745254516602
+214. logs\clean_tags\clean_215.html                                                                      0.02198648452758789
+215. logs\clean_tags\clean_216.html                                                                      0.010993719100952148
+216. logs\clean_tags\clean_217.html                                                                      0.00999307632446289
+217. logs\clean_tags\clean_218.html                                                                      0.011993169784545898
+218. logs\clean_tags\clean_219.html                                                                      0.010999917984008789
+219. logs\clean_tags\clean_220.html                                                                      0.009990215301513672
+220. logs\clean_tags\clean_221.html                                                                      0.00899505615234375
+221. logs\clean_tags\clean_222.html                                                                      0.012992143630981445
+222. logs\clean_tags\clean_223.html                                                                      0.01699209213256836
+223. logs\clean_tags\clean_224.html                                                                      0.010991334915161133
+224. logs\clean_tags\clean_225.html                                                                      0.028985023498535156
+225. logs\clean_tags\clean_226.html                                                                      0.014992475509643555
+226. logs\clean_tags\clean_227.html                                                                      0.0059964656829833984
+227. logs\clean_tags\clean_228.html                                                                      0.010993480682373047
+228. logs\clean_tags\clean_229.html                                                                      0.010995149612426758
+229. logs\clean_tags\clean_230.html                                                                      0.01598954200744629
+230. logs\clean_tags\clean_231.html                                                                      0.007997274398803711
+231. logs\clean_tags\clean_232.html                                                                      0.015989065170288086
+232. logs\clean_tags\clean_233.html                                                                      0.021987199783325195
+233. logs\clean_tags\clean_234.html                                                                      0.0299835205078125
+234. logs\clean_tags\clean_235.html                                                                      0.027981996536254883
+235. logs\clean_tags\clean_236.html                                                                      0.017992019653320312
+236. logs\clean_tags\clean_237.html                                                                      0.010994672775268555
+237. logs\clean_tags\clean_238.html                                                                      0.01499032974243164
+238. logs\clean_tags\clean_239.html                                                                      0.011993646621704102
+239. logs\clean_tags\clean_240.html                                                                      0.037075042724609375
+240. logs\clean_tags\clean_241.html                                                                      0.011992454528808594
+241. logs\clean_tags\clean_242.html                                                                      0.015990257263183594
+242. logs\clean_tags\clean_243.html                                                                      0.030982494354248047
+243. logs\clean_tags\clean_244.html                                                                      0.0159912109375
+244. logs\clean_tags\clean_245.html                                                                      0.033972978591918945
+245. logs\clean_tags\clean_246.html                                                                      0.035312652587890625
+246. logs\clean_tags\clean_247.html                                                                      0.0259857177734375
 247. logs\clean_tags\clean_248.html                                                                      0.011992692947387695
-248. logs\clean_tags\clean_249.html                                                                      0.0729975700378418
-249. logs\clean_tags\clean_250.html                                                                      0.0
-250. logs\clean_tags\clean_251.html                                                                      0.015626192092895508
-251. logs\clean_tags\clean_252.html                                                                      0.015624284744262695
-252. logs\clean_tags\clean_253.html                                                                      0.0
-253. logs\clean_tags\clean_254.html                                                                      0.01562356948852539
-254. logs\clean_tags\clean_255.html                                                                      0.0
-255. logs\clean_tags\clean_256.html                                                                      0.01562356948852539
-256. logs\clean_tags\clean_257.html                                                                      0.0
-257. logs\clean_tags\clean_258.html                                                                      0.034900665283203125
-258. logs\clean_tags\clean_259.html                                                                      0.007995128631591797
-259. logs\clean_tags\clean_260.html                                                                      0.017989635467529297
-260. logs\clean_tags\clean_261.html                                                                      0.004998207092285156
-261. logs\clean_tags\clean_262.html                                                                      0.01199650764465332
-262. logs\clean_tags\clean_263.html                                                                      0.0059926509857177734
-263. logs\clean_tags\clean_264.html                                                                      0.013994455337524414
-264. logs\clean_tags\clean_265.html                                                                      0.002995014190673828
-265. logs\clean_tags\clean_266.html                                                                      0.02298736572265625
-266. logs\clean_tags\clean_267.html                                                                      0.022983551025390625
-267. logs\clean_tags\clean_268.html                                                                      0.0019979476928710938
-268. logs\clean_tags\clean_269.html                                                                      0.03384208679199219
-269. logs\clean_tags\clean_270.html                                                                      0.0
-270. logs\clean_tags\clean_271.html                                                                      0.0
-271. logs\clean_tags\clean_272.html                                                                      0.015625
-272. logs\clean_tags\clean_273.html                                                                      0.015624046325683594
-273. logs\clean_tags\clean_274.html                                                                      0.0
-274. logs\clean_tags\clean_275.html                                                                      0.0
-275. logs\clean_tags\clean_276.html                                                                      0.015622138977050781
-276. logs\clean_tags\clean_277.html                                                                      0.015643596649169922
-277. logs\clean_tags\clean_278.html                                                                      0.015626192092895508
-278. logs\clean_tags\clean_279.html                                                                      0.04879903793334961
-279. logs\clean_tags\clean_280.html                                                                      0.03797721862792969
-280. logs\clean_tags\clean_281.html                                                                      0.04397249221801758
-281. logs\clean_tags\clean_282.html                                                                      0.052655935287475586
-282. logs\clean_tags\clean_283.html                                                                      0.025988340377807617
-283. logs\clean_tags\clean_284.html                                                                      0.00899195671081543
-284. logs\clean_tags\clean_285.html                                                                      0.006999492645263672
-285. logs\clean_tags\clean_286.html                                                                      0.014993429183959961
-286. logs\clean_tags\clean_287.html                                                                      0.01898956298828125
-287. logs\clean_tags\clean_288.html                                                                      0.0049974918365478516
-288. logs\clean_tags\clean_289.html                                                                      0.030979156494140625
-289. logs\clean_tags\clean_290.html                                                                      0.011989831924438477
-290. logs\clean_tags\clean_291.html                                                                      0.012991666793823242
-291. logs\clean_tags\clean_292.html                                                                      0.03298068046569824
-292. logs\clean_tags\clean_293.html                                                                      0.002998828887939453
-293. logs\clean_tags\clean_294.html                                                                      0.003996372222900391
-294. logs\clean_tags\clean_295.html                                                                      0.004301786422729492
-295. logs\clean_tags\clean_296.html                                                                      0.0
+248. logs\clean_tags\clean_249.html                                                                      0.023985862731933594
+249. logs\clean_tags\clean_250.html                                                                      0.02815103530883789
+250. logs\clean_tags\clean_251.html                                                                      0.01499032974243164
+251. logs\clean_tags\clean_252.html                                                                      0.028990745544433594
+252. logs\clean_tags\clean_253.html                                                                      0.009991884231567383
+253. logs\clean_tags\clean_254.html                                                                      0.014991044998168945
+254. logs\clean_tags\clean_255.html                                                                      0.009994745254516602
+255. logs\clean_tags\clean_256.html                                                                      0.0159909725189209
+256. logs\clean_tags\clean_257.html                                                                      0.014000654220581055
+257. logs\clean_tags\clean_258.html                                                                      0.020987749099731445
+258. logs\clean_tags\clean_259.html                                                                      0.01498866081237793
+259. logs\clean_tags\clean_260.html                                                                      0.026987075805664062
+260. logs\clean_tags\clean_261.html                                                                      0.012986421585083008
+261. logs\clean_tags\clean_262.html                                                                      0.014991044998168945
+262. logs\clean_tags\clean_263.html                                                                      0.01299285888671875
+263. logs\clean_tags\clean_264.html                                                                      0.013111352920532227
+264. logs\clean_tags\clean_265.html                                                                      0.00600123405456543
+265. logs\clean_tags\clean_266.html                                                                      0.013478755950927734
+266. logs\clean_tags\clean_267.html                                                                      0.012993574142456055
+267. logs\clean_tags\clean_268.html                                                                      0.0069959163665771484
+268. logs\clean_tags\clean_269.html                                                                      0.021647930145263672
+269. logs\clean_tags\clean_270.html                                                                      0.011996746063232422
+270. logs\clean_tags\clean_271.html                                                                      0.011991024017333984
+271. logs\clean_tags\clean_272.html                                                                      0.020989656448364258
+272. logs\clean_tags\clean_273.html                                                                      0.012992143630981445
+273. logs\clean_tags\clean_274.html                                                                      0.013812065124511719
+274. logs\clean_tags\clean_275.html                                                                      0.009994029998779297
+275. logs\clean_tags\clean_276.html                                                                      0.010994195938110352
+276. logs\clean_tags\clean_277.html                                                                      0.002949953079223633
+277. logs\clean_tags\clean_278.html                                                                      0.01562666893005371
+278. logs\clean_tags\clean_279.html                                                                      0.031246185302734375
+279. logs\clean_tags\clean_280.html                                                                      0.015624046325683594
+280. logs\clean_tags\clean_281.html                                                                      0.015625715255737305
+281. logs\clean_tags\clean_282.html                                                                      0.015645265579223633
+282. logs\clean_tags\clean_283.html                                                                      0.015621423721313477
+283. logs\clean_tags\clean_284.html                                                                      0.015604972839355469
+284. logs\clean_tags\clean_285.html                                                                      0.0
+285. logs\clean_tags\clean_286.html                                                                      0.015642881393432617
+286. logs\clean_tags\clean_287.html                                                                      0.015606164932250977
+287. logs\clean_tags\clean_288.html                                                                      0.0
+288. logs\clean_tags\clean_289.html                                                                      0.031267404556274414
+289. logs\clean_tags\clean_290.html                                                                      0.015606164932250977
+290. logs\clean_tags\clean_291.html                                                                      0.0
+291. logs\clean_tags\clean_292.html                                                                      0.01562047004699707
+292. logs\clean_tags\clean_293.html                                                                      0.015621662139892578
+293. logs\clean_tags\clean_294.html                                                                      0.0
+294. logs\clean_tags\clean_295.html                                                                      0.031304121017456055
+295. logs\clean_tags\clean_296.html                                                                      0.015587806701660156
 296. logs\clean_tags\clean_297.html                                                                      0.0
-297. logs\clean_tags\clean_298.html                                                                      0.015624284744262695
-298. logs\clean_tags\clean_299.html                                                                      0.031295061111450195
-299. logs\clean_tags\clean_300.html                                                                      0.015578985214233398
-300. logs\clean_tags\clean_301.html                                                                      0.0
+297. logs\clean_tags\clean_298.html                                                                      0.05372285842895508
+298. logs\clean_tags\clean_299.html                                                                      0.016052722930908203
+299. logs\clean_tags\clean_300.html                                                                      0.01568317413330078
+300. logs\clean_tags\clean_301.html                                                                      0.031209707260131836
 301. logs\clean_tags\clean_302.html                                                                      0.0
-302. logs\clean_tags\clean_303.html                                                                      0.05599832534790039
-303. logs\clean_tags\clean_304.html                                                                      0.06796026229858398
-304. logs\clean_tags\clean_305.html                                                                      0.0029973983764648438
-305. logs\clean_tags\clean_306.html                                                                      0.010332584381103516
-306. logs\clean_tags\clean_307.html                                                                      0.04485964775085449
-307. logs\clean_tags\clean_308.html                                                                      0.01562356948852539
-308. logs\clean_tags\clean_309.html                                                                      0.031247377395629883
-309. logs\clean_tags\clean_310.html                                                                      0.015625953674316406
-310. logs\clean_tags\clean_311.html                                                                      0.015605449676513672
+302. logs\clean_tags\clean_303.html                                                                      0.01560354232788086
+303. logs\clean_tags\clean_304.html                                                                      0.03126859664916992
+304. logs\clean_tags\clean_305.html                                                                      0.0
+305. logs\clean_tags\clean_306.html                                                                      0.015602588653564453
+306. logs\clean_tags\clean_307.html                                                                      0.015624523162841797
+307. logs\clean_tags\clean_308.html                                                                      0.015645265579223633
+308. logs\clean_tags\clean_309.html                                                                      0.01560354232788086
+309. logs\clean_tags\clean_310.html                                                                      0.015623331069946289
+310. logs\clean_tags\clean_311.html                                                                      0.015623331069946289
 311. logs\clean_tags\clean_312.html                                                                      0.0
-312. logs\clean_tags\clean_313.html                                                                      0.006354808807373047
+312. logs\clean_tags\clean_313.html                                                                      0.015642881393432617
 313. logs\clean_tags\clean_314.html                                                                      0.0
-314. logs\clean_tags\clean_315.html                                                                      0.015624523162841797
-315. logs\clean_tags\clean_316.html                                                                      0.0
-316. logs\clean_tags\clean_317.html                                                                      0.01890730857849121
-317. logs\clean_tags\clean_318.html                                                                      0.008993864059448242
-318. logs\clean_tags\clean_319.html                                                                      0.00400090217590332
-319. logs\clean_tags\clean_320.html                                                                      0.006993532180786133
-320. logs\clean_tags\clean_321.html                                                                      0.006005048751831055
-321. logs\clean_tags\clean_322.html                                                                      0.009984254837036133
-322. logs\clean_tags\clean_323.html                                                                      0.01099085807800293
-323. logs\clean_tags\clean_324.html                                                                      0.003999233245849609
-324. logs\clean_tags\clean_325.html                                                                      0.024987459182739258
-325. logs\clean_tags\clean_326.html                                                                      0.01298975944519043
-326. logs\clean_tags\clean_327.html                                                                      0.0039997100830078125
-327. logs\clean_tags\clean_328.html                                                                      0.020060062408447266
+314. logs\clean_tags\clean_315.html                                                                      0.046854257583618164
+315. logs\clean_tags\clean_316.html                                                                      0.015623807907104492
+316. logs\clean_tags\clean_317.html                                                                      0.0
+317. logs\clean_tags\clean_318.html                                                                      0.015626192092895508
+318. logs\clean_tags\clean_319.html                                                                      0.0
+319. logs\clean_tags\clean_320.html                                                                      0.015641212463378906
+320. logs\clean_tags\clean_321.html                                                                      0.0
+321. logs\clean_tags\clean_322.html                                                                      0.015624284744262695
+322. logs\clean_tags\clean_323.html                                                                      0.031247377395629883
+323. logs\clean_tags\clean_324.html                                                                      0.0
+324. logs\clean_tags\clean_325.html                                                                      0.015624046325683594
+325. logs\clean_tags\clean_326.html                                                                      0.015602588653564453
+326. logs\clean_tags\clean_327.html                                                                      0.015646696090698242
+327. logs\clean_tags\clean_328.html                                                                      0.015622138977050781
 328. logs\clean_tags\clean_329.html                                                                      0.0
-329. logs\clean_tags\clean_330.html                                                                      0.023653745651245117
-330. logs\clean_tags\clean_331.html                                                                      0.03497958183288574
-331. logs\clean_tags\clean_332.html                                                                      0.008998870849609375
-332. logs\clean_tags\clean_333.html                                                                      0.05396580696105957
-333. logs\clean_tags\clean_334.html                                                                      0.012993812561035156
-334. logs\clean_tags\clean_335.html                                                                      0.01598978042602539
-335. logs\clean_tags\clean_336.html                                                                      0.030984163284301758
-336. logs\clean_tags\clean_337.html                                                                      0.02400350570678711
-337. logs\clean_tags\clean_338.html                                                                      0.04599428176879883
-338. logs\clean_tags\clean_339.html                                                                      0.017986059188842773
-339. logs\clean_tags\clean_340.html                                                                      0.025272846221923828
-340. logs\clean_tags\clean_341.html                                                                      0.015624523162841797
-341. logs\clean_tags\clean_342.html                                                                      0.0410008430480957
-342. logs\clean_tags\clean_343.html                                                                      0.02600264549255371
-343. logs\clean_tags\clean_344.html                                                                      0.03598141670227051
-344. logs\clean_tags\clean_345.html                                                                      0.02931046485900879
-345. logs\clean_tags\clean_346.html                                                                      0.015624523162841797
-346. logs\clean_tags\clean_347.html                                                                      0.031267404556274414
-347. logs\clean_tags\clean_348.html                                                                      0.031229257583618164
-348. logs\clean_tags\clean_349.html                                                                      0.08345913887023926
-349. logs\clean_tags\clean_350.html                                                                      0.020574092864990234
-350. logs\clean_tags\clean_351.html                                                                      0.04873228073120117
-351. logs\clean_tags\clean_352.html                                                                      0.019432783126831055
-352. logs\clean_tags\clean_353.html                                                                      0.010992765426635742
-353. logs\clean_tags\clean_354.html                                                                      0.018008947372436523
-354. logs\clean_tags\clean_355.html                                                                      0.030577421188354492
-355. logs\clean_tags\clean_356.html                                                                      0.0
-356. logs\clean_tags\clean_357.html                                                                      0.015604972839355469
-357. logs\clean_tags\clean_358.html                                                                      0.015623807907104492
-358. logs\clean_tags\clean_359.html                                                                      0.04687237739562988
-359. logs\clean_tags\clean_360.html                                                                      0.0655374526977539
-360. logs\clean_tags\clean_361.html                                                                      0.03402280807495117
-361. logs\clean_tags\clean_362.html                                                                      0.016722917556762695
-362. logs\clean_tags\clean_363.html                                                                      0.018609285354614258
-363. logs\clean_tags\clean_364.html                                                                      0.03036665916442871
-364. logs\clean_tags\clean_365.html                                                                      0.023986101150512695
-365. logs\clean_tags\clean_366.html                                                                      0.046662330627441406
-366. logs\clean_tags\clean_367.html                                                                      0.01562786102294922
-367. logs\clean_tags\clean_368.html                                                                      0.04758143424987793
-368. logs\clean_tags\clean_369.html                                                                      0.0319828987121582
-369. logs\clean_tags\clean_370.html                                                                      0.027981996536254883
-370. logs\clean_tags\clean_371.html                                                                      0.08794856071472168
-371. logs\clean_tags\clean_372.html                                                                      0.04797554016113281
-372. logs\clean_tags\clean_373.html                                                                      0.03496694564819336
-373. logs\clean_tags\clean_374.html                                                                      0.02896738052368164
-374. logs\clean_tags\clean_375.html                                                                      0.028983116149902344
-375. logs\clean_tags\clean_376.html                                                                      0.06196308135986328
-376. logs\clean_tags\clean_377.html                                                                      0.026987791061401367
-377. logs\clean_tags\clean_378.html                                                                      0.018985509872436523
-378. logs\clean_tags\clean_379.html                                                                      0.023986339569091797
-379. logs\clean_tags\clean_380.html                                                                      0.02598857879638672
-380. logs\clean_tags\clean_381.html                                                                      0.05097031593322754
-381. logs\clean_tags\clean_382.html                                                                      0.028982877731323242
-382. logs\clean_tags\clean_383.html                                                                      0.05097055435180664
-383. logs\clean_tags\clean_384.html                                                                      0.024985313415527344
-384. logs\clean_tags\clean_385.html                                                                      0.027985572814941406
-385. logs\clean_tags\clean_386.html                                                                      0.011992454528808594
-386. logs\clean_tags\clean_387.html                                                                      0.006002902984619141
-387. logs\clean_tags\clean_388.html                                                                      0.02398681640625
-388. logs\clean_tags\clean_389.html                                                                      0.016988754272460938
-389. logs\clean_tags\clean_390.html                                                                      0.029984474182128906
-390. logs\clean_tags\clean_391.html                                                                      0.026983261108398438
-391. logs\clean_tags\clean_392.html                                                                      0.01800084114074707
-392. logs\clean_tags\clean_393.html                                                                      0.017974138259887695
-393. logs\clean_tags\clean_394.html                                                                      0.014992952346801758
-394. logs\clean_tags\clean_395.html                                                                      0.03197741508483887
-395. logs\clean_tags\clean_396.html                                                                      0.017989158630371094
-396. logs\clean_tags\clean_397.html                                                                      0.03198051452636719
-397. logs\clean_tags\clean_398.html                                                                      0.007996082305908203
-398. logs\clean_tags\clean_399.html                                                                      0.002997875213623047
-399. logs\clean_tags\clean_400.html                                                                      0.004997968673706055
-400. logs\clean_tags\clean_401.html                                                                      0.013991117477416992
-401. logs\clean_tags\clean_402.html                                                                      0.003997087478637695
-402. logs\clean_tags\clean_403.html                                                                      0.011993885040283203
-403. logs\clean_tags\clean_404.html                                                                      0.003998994827270508
-404. logs\clean_tags\clean_405.html                                                                      0.013993501663208008
-405. logs\clean_tags\clean_406.html                                                                      0.002997875213623047
-406. logs\clean_tags\clean_407.html                                                                      0.01199483871459961
-407. logs\clean_tags\clean_408.html                                                                      0.00999307632446289
-408. logs\clean_tags\clean_409.html                                                                      0.010993480682373047
-409. logs\clean_tags\clean_410.html                                                                      0.011993169784545898
-410. logs\clean_tags\clean_411.html                                                                      0.003998756408691406
-411. logs\clean_tags\clean_412.html                                                                      0.0039958953857421875
-412. logs\clean_tags\clean_413.html                                                                      0.002995729446411133
-413. logs\clean_tags\clean_414.html                                                                      0.011992692947387695
-414. logs\clean_tags\clean_415.html                                                                      0.005998134613037109
-415. logs\clean_tags\clean_416.html                                                                      0.010993480682373047
-416. logs\clean_tags\clean_417.html                                                                      0.004996299743652344
-417. logs\clean_tags\clean_418.html                                                                      0.008995532989501953
-418. logs\clean_tags\clean_419.html                                                                      0.01300358772277832
-419. logs\clean_tags\clean_420.html                                                                      0.003987312316894531
-420. logs\clean_tags\clean_421.html                                                                      0.009993553161621094
-421. logs\clean_tags\clean_422.html                                                                      0.0019974708557128906
-422. logs\clean_tags\clean_423.html                                                                      0.007995128631591797
-423. logs\clean_tags\clean_424.html                                                                      0.0059969425201416016
-424. logs\clean_tags\clean_425.html                                                                      0.017989158630371094
-425. logs\clean_tags\clean_426.html                                                                      0.01299142837524414
-426. logs\clean_tags\clean_427.html                                                                      0.010994672775268555
-427. logs\clean_tags\clean_428.html                                                                      0.009992361068725586
-428. logs\clean_tags\clean_429.html                                                                      0.011992454528808594
-429. logs\clean_tags\clean_430.html                                                                      0.00299835205078125
-430. logs\clean_tags\clean_431.html                                                                      0.020989418029785156
-431. logs\clean_tags\clean_432.html                                                                      0.005999565124511719
-432. logs\clean_tags\clean_433.html                                                                      0.31609153747558594
-433. logs\clean_tags\clean_434.html                                                                      0.19455218315124512
-434. logs\clean_tags\clean_435.html                                                                      0.24597716331481934
-435. logs\clean_tags\clean_436.html                                                                      0.18789315223693848
-436. logs\clean_tags\clean_437.html                                                                      0.2888331413269043
-437. logs\clean_tags\clean_438.html                                                                      0.003995656967163086
-438. logs\clean_tags\clean_439.html                                                                      0.008994817733764648
-439. logs\clean_tags\clean_440.html                                                                      0.008995294570922852
-440. logs\clean_tags\clean_441.html                                                                      0.010997533798217773
-441. logs\clean_tags\clean_442.html                                                                      0.01298213005065918
-442. logs\clean_tags\clean_443.html                                                                      0.004996299743652344
-443. logs\clean_tags\clean_444.html                                                                      0.007995128631591797
-444. logs\clean_tags\clean_445.html                                                                      0.013992547988891602
-445. logs\clean_tags\clean_446.html                                                                      0.019989728927612305
-446. logs\clean_tags\clean_447.html                                                                      0.00699615478515625
-447. logs\clean_tags\clean_448.html                                                                      0.0029969215393066406
-448. logs\clean_tags\clean_449.html                                                                      0.004996299743652344
-449. logs\clean_tags\clean_450.html                                                                      0.0059964656829833984
-450. logs\clean_tags\clean_451.html                                                                      0.0019991397857666016
-451. logs\clean_tags\clean_452.html                                                                      0.001997709274291992
-452. logs\clean_tags\clean_453.html                                                                      0.012993097305297852
-453. logs\clean_tags\clean_454.html                                                                      0.017988204956054688
-454. logs\clean_tags\clean_455.html                                                                      0.0029997825622558594
-455. logs\clean_tags\clean_456.html                                                                      0.006994724273681641
-456. logs\clean_tags\clean_457.html                                                                      0.0039975643157958984
-457. logs\clean_tags\clean_458.html                                                                      0.006995439529418945
-458. logs\clean_tags\clean_459.html                                                                      0.058965444564819336
-459. logs\clean_tags\clean_460.html                                                                      0.011992692947387695
-460. logs\clean_tags\clean_461.html                                                                      0.031982421875
-461. logs\clean_tags\clean_462.html                                                                      0.043486595153808594
+329. logs\clean_tags\clean_330.html                                                                      0.015625953674316406
+330. logs\clean_tags\clean_331.html                                                                      0.022031784057617188
+331. logs\clean_tags\clean_332.html                                                                      0.012993335723876953
+332. logs\clean_tags\clean_333.html                                                                      0.02503681182861328
+333. logs\clean_tags\clean_334.html                                                                      0.015625
+334. logs\clean_tags\clean_335.html                                                                      0.0
+335. logs\clean_tags\clean_336.html                                                                      0.04687190055847168
+336. logs\clean_tags\clean_337.html                                                                      0.015624761581420898
+337. logs\clean_tags\clean_338.html                                                                      0.015622854232788086
+338. logs\clean_tags\clean_339.html                                                                      0.015625
+339. logs\clean_tags\clean_340.html                                                                      0.03126859664916992
+340. logs\clean_tags\clean_341.html                                                                      0.10934638977050781
+341. logs\clean_tags\clean_342.html                                                                      0.06249523162841797
+342. logs\clean_tags\clean_343.html                                                                      0.03361248970031738
+343. logs\clean_tags\clean_344.html                                                                      0.031248092651367188
+344. logs\clean_tags\clean_345.html                                                                      0.03126096725463867
+345. logs\clean_tags\clean_346.html                                                                      0.031236648559570312
+346. logs\clean_tags\clean_347.html                                                                      0.023164987564086914
+347. logs\clean_tags\clean_348.html                                                                      0.031998395919799805
+348. logs\clean_tags\clean_349.html                                                                      0.060964107513427734
+349. logs\clean_tags\clean_350.html                                                                      0.0227048397064209
+350. logs\clean_tags\clean_351.html                                                                      0.01670050621032715
+351. logs\clean_tags\clean_352.html                                                                      0.033461809158325195
+352. logs\clean_tags\clean_353.html                                                                      0.025985002517700195
+353. logs\clean_tags\clean_354.html                                                                      0.020444631576538086
+354. logs\clean_tags\clean_355.html                                                                      0.01901984214782715
+355. logs\clean_tags\clean_356.html                                                                      0.019852161407470703
+356. logs\clean_tags\clean_357.html                                                                      0.014990806579589844
+357. logs\clean_tags\clean_358.html                                                                      0.09073495864868164
+358. logs\clean_tags\clean_359.html                                                                      0.04683279991149902
+359. logs\clean_tags\clean_360.html                                                                      0.017821788787841797
+360. logs\clean_tags\clean_361.html                                                                      0.015624046325683594
+361. logs\clean_tags\clean_362.html                                                                      0.031248092651367188
+362. logs\clean_tags\clean_363.html                                                                      0.02817821502685547
+363. logs\clean_tags\clean_364.html                                                                      0.02698373794555664
+364. logs\clean_tags\clean_365.html                                                                      0.020677804946899414
+365. logs\clean_tags\clean_366.html                                                                      0.015624046325683594
+366. logs\clean_tags\clean_367.html                                                                      0.01564478874206543
+367. logs\clean_tags\clean_368.html                                                                      0.015624284744262695
+368. logs\clean_tags\clean_369.html                                                                      0.015623092651367188
+369. logs\clean_tags\clean_370.html                                                                      0.031270742416381836
+370. logs\clean_tags\clean_371.html                                                                      0.015601634979248047
+371. logs\clean_tags\clean_372.html                                                                      0.04689335823059082
+372. logs\clean_tags\clean_373.html                                                                      0.03124856948852539
+373. logs\clean_tags\clean_374.html                                                                      0.031225919723510742
+374. logs\clean_tags\clean_375.html                                                                      0.015623092651367188
+375. logs\clean_tags\clean_376.html                                                                      0.03125
+376. logs\clean_tags\clean_377.html                                                                      0.031244993209838867
+377. logs\clean_tags\clean_378.html                                                                      0.0
+378. logs\clean_tags\clean_379.html                                                                      0.01564502716064453
+379. logs\clean_tags\clean_380.html                                                                      0.0312502384185791
+380. logs\clean_tags\clean_381.html                                                                      0.015621185302734375
+381. logs\clean_tags\clean_382.html                                                                      0.015623092651367188
+382. logs\clean_tags\clean_383.html                                                                      0.015623331069946289
+383. logs\clean_tags\clean_384.html                                                                      0.02225017547607422
+384. logs\clean_tags\clean_385.html                                                                      0.01598811149597168
+385. logs\clean_tags\clean_386.html                                                                      0.012234687805175781
+386. logs\clean_tags\clean_387.html                                                                      0.008990049362182617
+387. logs\clean_tags\clean_388.html                                                                      0.002027273178100586
+388. logs\clean_tags\clean_389.html                                                                      0.015629053115844727
+389. logs\clean_tags\clean_390.html                                                                      0.015622615814208984
+390. logs\clean_tags\clean_391.html                                                                      0.015624046325683594
+391. logs\clean_tags\clean_392.html                                                                      0.015620946884155273
+392. logs\clean_tags\clean_393.html                                                                      0.015626907348632812
+393. logs\clean_tags\clean_394.html                                                                      0.015623807907104492
+394. logs\clean_tags\clean_395.html                                                                      0.015642881393432617
+395. logs\clean_tags\clean_396.html                                                                      0.015647172927856445
+396. logs\clean_tags\clean_397.html                                                                      0.015601634979248047
+397. logs\clean_tags\clean_398.html                                                                      0.015604257583618164
+398. logs\clean_tags\clean_399.html                                                                      0.0
+399. logs\clean_tags\clean_400.html                                                                      0.015625715255737305
+400. logs\clean_tags\clean_401.html                                                                      0.0
+401. logs\clean_tags\clean_402.html                                                                      0.01562047004699707
+402. logs\clean_tags\clean_403.html                                                                      0.015622377395629883
+403. logs\clean_tags\clean_404.html                                                                      0.01563405990600586
+404. logs\clean_tags\clean_405.html                                                                      0.015616416931152344
+405. logs\clean_tags\clean_406.html                                                                      0.015646934509277344
+406. logs\clean_tags\clean_407.html                                                                      0.015604734420776367
+407. logs\clean_tags\clean_408.html                                                                      0.015618324279785156
+408. logs\clean_tags\clean_409.html                                                                      0.0
+409. logs\clean_tags\clean_410.html                                                                      0.01562356948852539
+410. logs\clean_tags\clean_411.html                                                                      0.0
+411. logs\clean_tags\clean_412.html                                                                      0.015622854232788086
+412. logs\clean_tags\clean_413.html                                                                      0.015685558319091797
+413. logs\clean_tags\clean_414.html                                                                      0.03118753433227539
+414. logs\clean_tags\clean_415.html                                                                      0.0
+415. logs\clean_tags\clean_416.html                                                                      0.0156252384185791
+416. logs\clean_tags\clean_417.html                                                                      0.0
+417. logs\clean_tags\clean_418.html                                                                      0.015625953674316406
+418. logs\clean_tags\clean_419.html                                                                      0.015619754791259766
+419. logs\clean_tags\clean_420.html                                                                      0.0
+420. logs\clean_tags\clean_421.html                                                                      0.01562356948852539
+421. logs\clean_tags\clean_422.html                                                                      0.0
+422. logs\clean_tags\clean_423.html                                                                      0.0
+423. logs\clean_tags\clean_424.html                                                                      0.01562356948852539
+424. logs\clean_tags\clean_425.html                                                                      0.0
+425. logs\clean_tags\clean_426.html                                                                      0.015627384185791016
+426. logs\clean_tags\clean_427.html                                                                      0.020134925842285156
+427. logs\clean_tags\clean_428.html                                                                      0.009993314743041992
+428. logs\clean_tags\clean_429.html                                                                      0.02606940269470215
+429. logs\clean_tags\clean_430.html                                                                      0.012992620468139648
+430. logs\clean_tags\clean_431.html                                                                      0.019989728927612305
+431. logs\clean_tags\clean_432.html                                                                      0.012991189956665039
+432. logs\clean_tags\clean_433.html                                                                      0.3094799518585205
+433. logs\clean_tags\clean_434.html                                                                      0.132216215133667
+434. logs\clean_tags\clean_435.html                                                                      0.12723636627197266
+435. logs\clean_tags\clean_436.html                                                                      0.11168932914733887
+436. logs\clean_tags\clean_437.html                                                                      0.11140203475952148
+437. logs\clean_tags\clean_438.html                                                                      0.0
+438. logs\clean_tags\clean_439.html                                                                      0.01562356948852539
+439. logs\clean_tags\clean_440.html                                                                      0.0
+440. logs\clean_tags\clean_441.html                                                                      0.0156252384185791
+441. logs\clean_tags\clean_442.html                                                                      0.015678882598876953
+442. logs\clean_tags\clean_443.html                                                                      0.015565872192382812
+443. logs\clean_tags\clean_444.html                                                                      0.0
+444. logs\clean_tags\clean_445.html                                                                      0.01564502716064453
+445. logs\clean_tags\clean_446.html                                                                      0.0
+446. logs\clean_tags\clean_447.html                                                                      0.021541357040405273
+447. logs\clean_tags\clean_448.html                                                                      0.006996870040893555
+448. logs\clean_tags\clean_449.html                                                                      0.005999088287353516
+449. logs\clean_tags\clean_450.html                                                                      0.00544428825378418
+450. logs\clean_tags\clean_451.html                                                                      0.0
+451. logs\clean_tags\clean_452.html                                                                      0.0
+452. logs\clean_tags\clean_453.html                                                                      0.015628814697265625
+453. logs\clean_tags\clean_454.html                                                                      0.0
+454. logs\clean_tags\clean_455.html                                                                      0.015642404556274414
+455. logs\clean_tags\clean_456.html                                                                      0.0
+456. logs\clean_tags\clean_457.html                                                                      0.0
+457. logs\clean_tags\clean_458.html                                                                      0.015604972839355469
+458. logs\clean_tags\clean_459.html                                                                      0.015621185302734375
+459. logs\clean_tags\clean_460.html                                                                      0.01562356948852539
+460. logs\clean_tags\clean_461.html                                                                      0.0
+461. logs\clean_tags\clean_462.html                                                                      0.015623807907104492
 462. logs\clean_tags\clean_463.html                                                                      0.0
-463. logs\clean_tags\clean_464.html                                                                      0.031702518463134766
-464. logs\clean_tags\clean_465.html                                                                      0.005995988845825195
-465. logs\clean_tags\clean_466.html                                                                      0.0031800270080566406
+463. logs\clean_tags\clean_464.html                                                                      0.015645265579223633
+464. logs\clean_tags\clean_465.html                                                                      0.0
+465. logs\clean_tags\clean_466.html                                                                      0.015622854232788086
 466. logs\clean_tags\clean_467.html                                                                      0.0
-467. logs\clean_tags\clean_468.html                                                                      0.015625
-468. logs\clean_tags\clean_469.html                                                                      0.0
+467. logs\clean_tags\clean_468.html                                                                      0.0
+468. logs\clean_tags\clean_469.html                                                                      0.015624046325683594
 469. logs\clean_tags\clean_470.html                                                                      0.0
-470. logs\clean_tags\clean_471.html                                                                      0.0
+470. logs\clean_tags\clean_471.html                                                                      0.015604019165039062
 471. logs\clean_tags\clean_472.html                                                                      0.0
 472. logs\clean_tags\clean_473.html                                                                      0.0
-473. logs\clean_tags\clean_474.html                                                                      0.0
-474. logs\clean_tags\clean_475.html                                                                      0.015624046325683594
+473. logs\clean_tags\clean_474.html                                                                      0.03130364418029785
+474. logs\clean_tags\clean_475.html                                                                      0.015588521957397461
 475. logs\clean_tags\clean_476.html                                                                      0.0
 476. logs\clean_tags\clean_477.html                                                                      0.0
-477. logs\clean_tags\clean_478.html                                                                      0.0
-478. logs\clean_tags\clean_479.html                                                                      0.015624284744262695
-479. logs\clean_tags\clean_480.html                                                                      0.0
-480. logs\clean_tags\clean_481.html                                                                      0.0
-481. logs\clean_tags\clean_482.html                                                                      0.0
+477. logs\clean_tags\clean_478.html                                                                      0.015612602233886719
+478. logs\clean_tags\clean_479.html                                                                      0.0
+479. logs\clean_tags\clean_480.html                                                                      0.015616178512573242
+480. logs\clean_tags\clean_481.html                                                                      0.015635967254638672
+481. logs\clean_tags\clean_482.html                                                                      0.015609025955200195
 482. logs\clean_tags\clean_483.html                                                                      0.0
-483. logs\clean_tags\clean_484.html                                                                      0.0
-484. logs\clean_tags\clean_485.html                                                                      0.01562356948852539
-485. logs\clean_tags\clean_486.html                                                                      0.0
+483. logs\clean_tags\clean_484.html                                                                      0.015645503997802734
+484. logs\clean_tags\clean_485.html                                                                      0.0
+485. logs\clean_tags\clean_486.html                                                                      0.015605926513671875
 486. logs\clean_tags\clean_487.html                                                                      0.0
-487. logs\clean_tags\clean_488.html                                                                      0.0
+487. logs\clean_tags\clean_488.html                                                                      0.015640735626220703
 488. logs\clean_tags\clean_489.html                                                                      0.0
-489. logs\clean_tags\clean_490.html                                                                      0.0
+489. logs\clean_tags\clean_490.html                                                                      0.015658855438232422
 490. logs\clean_tags\clean_491.html                                                                      0.0
-491. logs\clean_tags\clean_492.html                                                                      0.046890974044799805
+491. logs\clean_tags\clean_492.html                                                                      0.015572786331176758
 492. logs\clean_tags\clean_493.html                                                                      0.0
 493. logs\clean_tags\clean_494.html                                                                      0.0
 494. logs\clean_tags\clean_495.html                                                                      0.0
-495. logs\clean_tags\clean_496.html                                                                      0.0
+495. logs\clean_tags\clean_496.html                                                                      0.01564788818359375
 496. logs\clean_tags\clean_497.html                                                                      0.0
-497. logs\clean_tags\clean_498.html                                                                      0.031228065490722656
-498. logs\clean_tags\clean_499.html                                                                      0.015624284744262695
-499. logs\clean_tags\clean_500.html                                                                      0.0
-500. logs\clean_tags\clean_501.html                                                                      0.02190709114074707
-501. logs\clean_tags\clean_502.html                                                                      0.008989572525024414
-502. logs\clean_tags\clean_503.html                                                                      0.005998134613037109
-503. logs\clean_tags\clean_hard.html                                                                     0.0019989013671875
-504. logs\clean_tags\clean_medium.html                                                                   0.001998424530029297
-505. logs\clean_tags\clean_simple.html                                                                   0.0009989738464355469
+497. logs\clean_tags\clean_498.html                                                                      0.015620231628417969
+498. logs\clean_tags\clean_499.html                                                                      0.0
+499. logs\clean_tags\clean_500.html                                                                      0.015623807907104492
+500. logs\clean_tags\clean_501.html                                                                      0.0
+501. logs\clean_tags\clean_502.html                                                                      0.0156252384185791
+502. logs\clean_tags\clean_503.html                                                                      0.0
+503. logs\clean_tags\clean_hard.html                                                                     0.015622377395629883
+504. logs\clean_tags\clean_medium.html                                                                   0.0
+505. logs\clean_tags\clean_simple.html                                                                   0.0
 
-Tiempo total de ejecucion: 7.641991138458252
+Tiempo total de ejecucion: 9.781922101974487
 
-Tiempo final del programa: 82.62843728065491 segundos.
+Tiempo final del programa: 49.419681549072266 segundos.
