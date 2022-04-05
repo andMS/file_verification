@@ -59,6 +59,13 @@ def execute_weight_tokens(posting_file, dict_file, log_file, logs_dir):
                     print(f'Tiempo de ejecucion (creacion diccionario): {end_time}\n')
             log_obj.write(  '\nTiempo final de creacion de nuevo diccionario y posting file: ' +
                             f'{time.time() - general_start_time}\n')
+
+            # log_temp = os.path.join(logs_dir, 'diccionario_weight.txt')
+            # with open(log_temp, 'w') as temp:
+            #     for key, values in weight_tokens.items():
+            #         temp.write(f'{key}\n')
+            #         temp.write(f'{values}\n')
+
     except OSError as error:
         print(f'No se pudo abrir el archivo: {error}')
         helper.exit_program(1)
@@ -92,11 +99,19 @@ def write_dictionary_weight_tokens(dict_tokens, dict_name):
 
 def create_dict_tokens(lines):
     dictionary = {}
+    total_tokens = 0
     for line in lines:
         line = line.replace('\n', '')
         elements = line.split(':')
-        weight = calculate_weight(elements[1], len(lines))
-        dictionary[elements[0].strip()] = [elements[1].strip(), weight]
+        total_tokens = int(total_tokens) + int(elements[1])
+        dictionary[elements[0].strip()] = [elements[1].strip()]
+    for line in lines:
+        line = line.replace('\n', '')
+        elements = line.split(':')
+        weight = calculate_weight(elements[1], total_tokens)
+        dictionary[elements[0].strip()].append(weight)
+        # dictionary[elements[0].strip()].append(total_tokens)
+
     return dictionary
 
 
