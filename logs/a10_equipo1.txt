@@ -1,519 +1,519 @@
 --> Obteniendo weight tokens
-  1. logs\all_files_tokenized\tokenized_all_002.html                                                     0.004006624221801758
-  2. logs\all_files_tokenized\tokenized_all_003.html                                                     0.000997304916381836
-  3. logs\all_files_tokenized\tokenized_all_004.html                                                     0.0010058879852294922
-  4. logs\all_files_tokenized\tokenized_all_005.html                                                     0.000997781753540039
-  5. logs\all_files_tokenized\tokenized_all_006.html                                                     0.0
-  6. logs\all_files_tokenized\tokenized_all_007.html                                                     0.0399775505065918
-  7. logs\all_files_tokenized\tokenized_all_008.html                                                     0.0019986629486083984
-  8. logs\all_files_tokenized\tokenized_all_009.html                                                     0.004999637603759766
-  9. logs\all_files_tokenized\tokenized_all_010.html                                                     0.0019974708557128906
- 10. logs\all_files_tokenized\tokenized_all_011.html                                                     0.004995822906494141
- 11. logs\all_files_tokenized\tokenized_all_012.html                                                     0.0019989013671875
- 12. logs\all_files_tokenized\tokenized_all_013.html                                                     0.0
- 13. logs\all_files_tokenized\tokenized_all_014.html                                                     0.0009999275207519531
- 14. logs\all_files_tokenized\tokenized_all_015.html                                                     0.0010001659393310547
- 15. logs\all_files_tokenized\tokenized_all_016.html                                                     0.0019979476928710938
- 16. logs\all_files_tokenized\tokenized_all_017.html                                                     0.00099945068359375
- 17. logs\all_files_tokenized\tokenized_all_018.html                                                     0.0
- 18. logs\all_files_tokenized\tokenized_all_019.html                                                     0.004996299743652344
- 19. logs\all_files_tokenized\tokenized_all_020.html                                                     0.0
- 20. logs\all_files_tokenized\tokenized_all_021.html                                                     0.0
- 21. logs\all_files_tokenized\tokenized_all_022.html                                                     0.00299835205078125
- 22. logs\all_files_tokenized\tokenized_all_023.html                                                     0.0
- 23. logs\all_files_tokenized\tokenized_all_024.html                                                     0.0009992122650146484
- 24. logs\all_files_tokenized\tokenized_all_025.html                                                     0.0
- 25. logs\all_files_tokenized\tokenized_all_026.html                                                     0.0019991397857666016
- 26. logs\all_files_tokenized\tokenized_all_027.html                                                     0.005001068115234375
- 27. logs\all_files_tokenized\tokenized_all_028.html                                                     0.002015352249145508
- 28. logs\all_files_tokenized\tokenized_all_029.html                                                     0.0019783973693847656
- 29. logs\all_files_tokenized\tokenized_all_030.html                                                     0.0009992122650146484
- 30. logs\all_files_tokenized\tokenized_all_031.html                                                     0.0009992122650146484
- 31. logs\all_files_tokenized\tokenized_all_032.html                                                     0.0
- 32. logs\all_files_tokenized\tokenized_all_033.html                                                     0.0
- 33. logs\all_files_tokenized\tokenized_all_034.html                                                     0.0019991397857666016
- 34. logs\all_files_tokenized\tokenized_all_035.html                                                     0.0
- 35. logs\all_files_tokenized\tokenized_all_036.html                                                     0.00099945068359375
- 36. logs\all_files_tokenized\tokenized_all_037.html                                                     0.0019986629486083984
- 37. logs\all_files_tokenized\tokenized_all_038.html                                                     0.0009996891021728516
- 38. logs\all_files_tokenized\tokenized_all_039.html                                                     0.0009992122650146484
- 39. logs\all_files_tokenized\tokenized_all_040.html                                                     0.00099945068359375
- 40. logs\all_files_tokenized\tokenized_all_041.html                                                     0.0009992122650146484
- 41. logs\all_files_tokenized\tokenized_all_042.html                                                     0.0019989013671875
- 42. logs\all_files_tokenized\tokenized_all_043.html                                                     0.011993169784545898
- 43. logs\all_files_tokenized\tokenized_all_044.html                                                     0.0019989013671875
- 44. logs\all_files_tokenized\tokenized_all_045.html                                                     0.0
- 45. logs\all_files_tokenized\tokenized_all_046.html                                                     0.0009996891021728516
- 46. logs\all_files_tokenized\tokenized_all_047.html                                                     0.0010006427764892578
- 47. logs\all_files_tokenized\tokenized_all_048.html                                                     0.0
- 48. logs\all_files_tokenized\tokenized_all_049.html                                                     0.0009989738464355469
- 49. logs\all_files_tokenized\tokenized_all_050.html                                                     0.0019986629486083984
- 50. logs\all_files_tokenized\tokenized_all_051.html                                                     0.0009992122650146484
- 51. logs\all_files_tokenized\tokenized_all_052.html                                                     0.0029985904693603516
- 52. logs\all_files_tokenized\tokenized_all_053.html                                                     0.0009992122650146484
- 53. logs\all_files_tokenized\tokenized_all_054.html                                                     0.0010001659393310547
- 54. logs\all_files_tokenized\tokenized_all_055.html                                                     0.0019998550415039062
- 55. logs\all_files_tokenized\tokenized_all_056.html                                                     0.0
- 56. logs\all_files_tokenized\tokenized_all_057.html                                                     0.0019969940185546875
- 57. logs\all_files_tokenized\tokenized_all_058.html                                                     0.001998424530029297
- 58. logs\all_files_tokenized\tokenized_all_059.html                                                     0.0009996891021728516
- 59. logs\all_files_tokenized\tokenized_all_060.html                                                     0.0010004043579101562
- 60. logs\all_files_tokenized\tokenized_all_061.html                                                     0.0
- 61. logs\all_files_tokenized\tokenized_all_062.html                                                     0.0019986629486083984
- 62. logs\all_files_tokenized\tokenized_all_063.html                                                     0.0
- 63. logs\all_files_tokenized\tokenized_all_064.html                                                     0.0019986629486083984
- 64. logs\all_files_tokenized\tokenized_all_065.html                                                     0.0
- 65. logs\all_files_tokenized\tokenized_all_066.html                                                     0.0029973983764648438
- 66. logs\all_files_tokenized\tokenized_all_067.html                                                     0.0
- 67. logs\all_files_tokenized\tokenized_all_068.html                                                     0.0
- 68. logs\all_files_tokenized\tokenized_all_069.html                                                     0.0
- 69. logs\all_files_tokenized\tokenized_all_070.html                                                     0.0
- 70. logs\all_files_tokenized\tokenized_all_071.html                                                     0.0009992122650146484
- 71. logs\all_files_tokenized\tokenized_all_072.html                                                     0.0
- 72. logs\all_files_tokenized\tokenized_all_073.html                                                     0.0
- 73. logs\all_files_tokenized\tokenized_all_074.html                                                     0.0020003318786621094
- 74. logs\all_files_tokenized\tokenized_all_075.html                                                     0.0
- 75. logs\all_files_tokenized\tokenized_all_076.html                                                     0.002997875213623047
- 76. logs\all_files_tokenized\tokenized_all_077.html                                                     0.001001119613647461
- 77. logs\all_files_tokenized\tokenized_all_078.html                                                     0.0009989738464355469
- 78. logs\all_files_tokenized\tokenized_all_079.html                                                     0.0009980201721191406
- 79. logs\all_files_tokenized\tokenized_all_080.html                                                     0.0010004043579101562
- 80. logs\all_files_tokenized\tokenized_all_081.html                                                     0.0
- 81. logs\all_files_tokenized\tokenized_all_082.html                                                     0.002019643783569336
- 82. logs\all_files_tokenized\tokenized_all_083.html                                                     0.0009982585906982422
- 83. logs\all_files_tokenized\tokenized_all_084.html                                                     0.0
- 84. logs\all_files_tokenized\tokenized_all_085.html                                                     0.000980377197265625
- 85. logs\all_files_tokenized\tokenized_all_086.html                                                     0.0010182857513427734
- 86. logs\all_files_tokenized\tokenized_all_087.html                                                     0.00099945068359375
- 87. logs\all_files_tokenized\tokenized_all_088.html                                                     0.0009992122650146484
- 88. logs\all_files_tokenized\tokenized_all_089.html                                                     0.0
- 89. logs\all_files_tokenized\tokenized_all_090.html                                                     0.0009996891021728516
- 90. logs\all_files_tokenized\tokenized_all_091.html                                                     0.00099945068359375
- 91. logs\all_files_tokenized\tokenized_all_092.html                                                     0.0
- 92. logs\all_files_tokenized\tokenized_all_093.html                                                     0.00099945068359375
- 93. logs\all_files_tokenized\tokenized_all_094.html                                                     0.0
- 94. logs\all_files_tokenized\tokenized_all_095.html                                                     0.0009992122650146484
- 95. logs\all_files_tokenized\tokenized_all_096.html                                                     0.0010001659393310547
- 96. logs\all_files_tokenized\tokenized_all_097.html                                                     0.0
- 97. logs\all_files_tokenized\tokenized_all_098.html                                                     0.0019996166229248047
- 98. logs\all_files_tokenized\tokenized_all_099.html                                                     0.0009987354278564453
- 99. logs\all_files_tokenized\tokenized_all_100.html                                                     0.0
-100. logs\all_files_tokenized\tokenized_all_101.html                                                     0.0019979476928710938
-101. logs\all_files_tokenized\tokenized_all_102.html                                                     0.000989675521850586
-102. logs\all_files_tokenized\tokenized_all_103.html                                                     0.0
-103. logs\all_files_tokenized\tokenized_all_104.html                                                     0.0010094642639160156
-104. logs\all_files_tokenized\tokenized_all_105.html                                                     0.0009999275207519531
-105. logs\all_files_tokenized\tokenized_all_106.html                                                     0.0009799003601074219
-106. logs\all_files_tokenized\tokenized_all_107.html                                                     0.001018524169921875
-107. logs\all_files_tokenized\tokenized_all_108.html                                                     0.0
-108. logs\all_files_tokenized\tokenized_all_109.html                                                     0.0010001659393310547
-109. logs\all_files_tokenized\tokenized_all_110.html                                                     0.0
-110. logs\all_files_tokenized\tokenized_all_111.html                                                     0.0009796619415283203
-111. logs\all_files_tokenized\tokenized_all_112.html                                                     0.0010180473327636719
-112. logs\all_files_tokenized\tokenized_all_113.html                                                     0.0
-113. logs\all_files_tokenized\tokenized_all_114.html                                                     0.0009996891021728516
-114. logs\all_files_tokenized\tokenized_all_115.html                                                     0.0010008811950683594
-115. logs\all_files_tokenized\tokenized_all_116.html                                                     0.000995635986328125
-116. logs\all_files_tokenized\tokenized_all_117.html                                                     0.0
-117. logs\all_files_tokenized\tokenized_all_118.html                                                     0.003999948501586914
-118. logs\all_files_tokenized\tokenized_all_119.html                                                     0.0029985904693603516
-119. logs\all_files_tokenized\tokenized_all_120.html                                                     0.0
-120. logs\all_files_tokenized\tokenized_all_121.html                                                     0.001001596450805664
-121. logs\all_files_tokenized\tokenized_all_122.html                                                     0.0
-122. logs\all_files_tokenized\tokenized_all_123.html                                                     0.0009968280792236328
-123. logs\all_files_tokenized\tokenized_all_124.html                                                     0.0010004043579101562
-124. logs\all_files_tokenized\tokenized_all_125.html                                                     0.0009796619415283203
-125. logs\all_files_tokenized\tokenized_all_126.html                                                     0.001020193099975586
-126. logs\all_files_tokenized\tokenized_all_127.html                                                     0.0
-127. logs\all_files_tokenized\tokenized_all_128.html                                                     0.0
-128. logs\all_files_tokenized\tokenized_all_129.html                                                     0.0009982585906982422
-129. logs\all_files_tokenized\tokenized_all_130.html                                                     0.0
-130. logs\all_files_tokenized\tokenized_all_131.html                                                     0.0009989738464355469
-131. logs\all_files_tokenized\tokenized_all_132.html                                                     0.0
-132. logs\all_files_tokenized\tokenized_all_133.html                                                     0.0010006427764892578
-133. logs\all_files_tokenized\tokenized_all_134.html                                                     0.0
-134. logs\all_files_tokenized\tokenized_all_135.html                                                     0.0
-135. logs\all_files_tokenized\tokenized_all_136.html                                                     0.001982450485229492
-136. logs\all_files_tokenized\tokenized_all_137.html                                                     0.003995418548583984
-137. logs\all_files_tokenized\tokenized_all_138.html                                                     0.0009987354278564453
-138. logs\all_files_tokenized\tokenized_all_139.html                                                     0.0010018348693847656
-139. logs\all_files_tokenized\tokenized_all_140.html                                                     0.00099945068359375
-140. logs\all_files_tokenized\tokenized_all_141.html                                                     0.0009968280792236328
-141. logs\all_files_tokenized\tokenized_all_142.html                                                     0.00099945068359375
-142. logs\all_files_tokenized\tokenized_all_143.html                                                     0.0
-143. logs\all_files_tokenized\tokenized_all_144.html                                                     0.001001119613647461
-144. logs\all_files_tokenized\tokenized_all_145.html                                                     0.0009989738464355469
-145. logs\all_files_tokenized\tokenized_all_146.html                                                     0.004994392395019531
-146. logs\all_files_tokenized\tokenized_all_147.html                                                     0.0039980411529541016
-147. logs\all_files_tokenized\tokenized_all_148.html                                                     0.0
-148. logs\all_files_tokenized\tokenized_all_149.html                                                     0.0009794235229492188
-149. logs\all_files_tokenized\tokenized_all_150.html                                                     0.05696606636047363
-150. logs\all_files_tokenized\tokenized_all_151.html                                                     0.00099945068359375
-151. logs\all_files_tokenized\tokenized_all_152.html                                                     0.005996227264404297
-152. logs\all_files_tokenized\tokenized_all_153.html                                                     0.0
-153. logs\all_files_tokenized\tokenized_all_154.html                                                     0.0019991397857666016
-154. logs\all_files_tokenized\tokenized_all_155.html                                                     0.0
-155. logs\all_files_tokenized\tokenized_all_156.html                                                     0.004000186920166016
-156. logs\all_files_tokenized\tokenized_all_157.html                                                     0.0
-157. logs\all_files_tokenized\tokenized_all_158.html                                                     0.0
-158. logs\all_files_tokenized\tokenized_all_159.html                                                     0.0019989013671875
-159. logs\all_files_tokenized\tokenized_all_160.html                                                     0.0020024776458740234
-160. logs\all_files_tokenized\tokenized_all_161.html                                                     0.001994609832763672
-161. logs\all_files_tokenized\tokenized_all_162.html                                                     0.000997781753540039
-162. logs\all_files_tokenized\tokenized_all_163.html                                                     0.0009992122650146484
-163. logs\all_files_tokenized\tokenized_all_164.html                                                     0.0010013580322265625
-164. logs\all_files_tokenized\tokenized_all_165.html                                                     0.00099945068359375
-165. logs\all_files_tokenized\tokenized_all_166.html                                                     0.0009996891021728516
-166. logs\all_files_tokenized\tokenized_all_167.html                                                     0.0
-167. logs\all_files_tokenized\tokenized_all_168.html                                                     0.0009992122650146484
-168. logs\all_files_tokenized\tokenized_all_169.html                                                     0.0009996891021728516
-169. logs\all_files_tokenized\tokenized_all_170.html                                                     0.0
-170. logs\all_files_tokenized\tokenized_all_171.html                                                     0.0009999275207519531
-171. logs\all_files_tokenized\tokenized_all_172.html                                                     0.0009987354278564453
-172. logs\all_files_tokenized\tokenized_all_173.html                                                     0.0
-173. logs\all_files_tokenized\tokenized_all_174.html                                                     0.0009996891021728516
-174. logs\all_files_tokenized\tokenized_all_175.html                                                     0.00099945068359375
-175. logs\all_files_tokenized\tokenized_all_176.html                                                     0.0
-176. logs\all_files_tokenized\tokenized_all_177.html                                                     0.0009970664978027344
-177. logs\all_files_tokenized\tokenized_all_178.html                                                     0.0009992122650146484
-178. logs\all_files_tokenized\tokenized_all_179.html                                                     0.0029985904693603516
-179. logs\all_files_tokenized\tokenized_all_180.html                                                     0.00099945068359375
-180. logs\all_files_tokenized\tokenized_all_181.html                                                     0.004996776580810547
-181. logs\all_files_tokenized\tokenized_all_182.html                                                     0.0009999275207519531
-182. logs\all_files_tokenized\tokenized_all_183.html                                                     0.0
-183. logs\all_files_tokenized\tokenized_all_184.html                                                     0.0
-184. logs\all_files_tokenized\tokenized_all_185.html                                                     0.0010094642639160156
-185. logs\all_files_tokenized\tokenized_all_186.html                                                     0.0
-186. logs\all_files_tokenized\tokenized_all_187.html                                                     0.0009894371032714844
-187. logs\all_files_tokenized\tokenized_all_188.html                                                     0.0010020732879638672
-188. logs\all_files_tokenized\tokenized_all_189.html                                                     0.002997159957885742
-189. logs\all_files_tokenized\tokenized_all_190.html                                                     0.0010080337524414062
-190. logs\all_files_tokenized\tokenized_all_191.html                                                     0.0
-191. logs\all_files_tokenized\tokenized_all_192.html                                                     0.0009915828704833984
-192. logs\all_files_tokenized\tokenized_all_193.html                                                     0.00099945068359375
-193. logs\all_files_tokenized\tokenized_all_194.html                                                     0.0009992122650146484
-194. logs\all_files_tokenized\tokenized_all_195.html                                                     0.0009989738464355469
-195. logs\all_files_tokenized\tokenized_all_196.html                                                     0.0010001659393310547
-196. logs\all_files_tokenized\tokenized_all_197.html                                                     0.0019981861114501953
-197. logs\all_files_tokenized\tokenized_all_198.html                                                     0.0
-198. logs\all_files_tokenized\tokenized_all_199.html                                                     0.0010004043579101562
-199. logs\all_files_tokenized\tokenized_all_200.html                                                     0.0009989738464355469
-200. logs\all_files_tokenized\tokenized_all_201.html                                                     0.0
-201. logs\all_files_tokenized\tokenized_all_202.html                                                     0.00099945068359375
-202. logs\all_files_tokenized\tokenized_all_203.html                                                     0.00099945068359375
-203. logs\all_files_tokenized\tokenized_all_204.html                                                     0.0010173320770263672
-204. logs\all_files_tokenized\tokenized_all_205.html                                                     0.0009996891021728516
-205. logs\all_files_tokenized\tokenized_all_206.html                                                     0.0009996891021728516
-206. logs\all_files_tokenized\tokenized_all_207.html                                                     0.0009989738464355469
-207. logs\all_files_tokenized\tokenized_all_208.html                                                     0.0010001659393310547
-208. logs\all_files_tokenized\tokenized_all_209.html                                                     0.0009989738464355469
-209. logs\all_files_tokenized\tokenized_all_210.html                                                     0.00099945068359375
-210. logs\all_files_tokenized\tokenized_all_211.html                                                     0.0
-211. logs\all_files_tokenized\tokenized_all_212.html                                                     0.0009975433349609375
-212. logs\all_files_tokenized\tokenized_all_213.html                                                     0.0010013580322265625
-213. logs\all_files_tokenized\tokenized_all_214.html                                                     0.0009989738464355469
-214. logs\all_files_tokenized\tokenized_all_215.html                                                     0.0010006427764892578
-215. logs\all_files_tokenized\tokenized_all_216.html                                                     0.0009984970092773438
-216. logs\all_files_tokenized\tokenized_all_217.html                                                     0.0
-217. logs\all_files_tokenized\tokenized_all_218.html                                                     0.00099945068359375
-218. logs\all_files_tokenized\tokenized_all_219.html                                                     0.00099945068359375
-219. logs\all_files_tokenized\tokenized_all_220.html                                                     0.0
-220. logs\all_files_tokenized\tokenized_all_221.html                                                     0.0009996891021728516
-221. logs\all_files_tokenized\tokenized_all_222.html                                                     0.001978158950805664
-222. logs\all_files_tokenized\tokenized_all_223.html                                                     0.0019986629486083984
-223. logs\all_files_tokenized\tokenized_all_224.html                                                     0.00099945068359375
-224. logs\all_files_tokenized\tokenized_all_225.html                                                     0.0
-225. logs\all_files_tokenized\tokenized_all_226.html                                                     0.0019991397857666016
-226. logs\all_files_tokenized\tokenized_all_227.html                                                     0.0
-227. logs\all_files_tokenized\tokenized_all_228.html                                                     0.0
-228. logs\all_files_tokenized\tokenized_all_229.html                                                     0.0
-229. logs\all_files_tokenized\tokenized_all_230.html                                                     0.0019989013671875
-230. logs\all_files_tokenized\tokenized_all_231.html                                                     0.0
-231. logs\all_files_tokenized\tokenized_all_232.html                                                     0.0009999275207519531
-232. logs\all_files_tokenized\tokenized_all_233.html                                                     0.0019979476928710938
-233. logs\all_files_tokenized\tokenized_all_234.html                                                     0.0039980411529541016
-234. logs\all_files_tokenized\tokenized_all_235.html                                                     0.0019986629486083984
-235. logs\all_files_tokenized\tokenized_all_236.html                                                     0.0019991397857666016
-236. logs\all_files_tokenized\tokenized_all_237.html                                                     0.001998424530029297
-237. logs\all_files_tokenized\tokenized_all_238.html                                                     0.0009996891021728516
-238. logs\all_files_tokenized\tokenized_all_239.html                                                     0.00099945068359375
-239. logs\all_files_tokenized\tokenized_all_240.html                                                     0.004996538162231445
-240. logs\all_files_tokenized\tokenized_all_241.html                                                     0.0009999275207519531
-241. logs\all_files_tokenized\tokenized_all_242.html                                                     0.0030205249786376953
-242. logs\all_files_tokenized\tokenized_all_243.html                                                     0.003975391387939453
-243. logs\all_files_tokenized\tokenized_all_244.html                                                     0.0019989013671875
-244. logs\all_files_tokenized\tokenized_all_245.html                                                     0.00099945068359375
-245. logs\all_files_tokenized\tokenized_all_246.html                                                     0.00299835205078125
-246. logs\all_files_tokenized\tokenized_all_247.html                                                     0.0019986629486083984
-247. logs\all_files_tokenized\tokenized_all_248.html                                                     0.0019989013671875
-248. logs\all_files_tokenized\tokenized_all_249.html                                                     0.0049970149993896484
-249. logs\all_files_tokenized\tokenized_all_250.html                                                     0.0009996891021728516
-250. logs\all_files_tokenized\tokenized_all_251.html                                                     0.001998424530029297
-251. logs\all_files_tokenized\tokenized_all_252.html                                                     0.0029997825622558594
-252. logs\all_files_tokenized\tokenized_all_253.html                                                     0.0010006427764892578
-253. logs\all_files_tokenized\tokenized_all_254.html                                                     0.0019979476928710938
-254. logs\all_files_tokenized\tokenized_all_255.html                                                     0.0010180473327636719
-255. logs\all_files_tokenized\tokenized_all_256.html                                                     0.0019991397857666016
-256. logs\all_files_tokenized\tokenized_all_257.html                                                     0.0009996891021728516
-257. logs\all_files_tokenized\tokenized_all_258.html                                                     0.0029981136322021484
-258. logs\all_files_tokenized\tokenized_all_259.html                                                     0.0009992122650146484
-259. logs\all_files_tokenized\tokenized_all_260.html                                                     0.0029981136322021484
-260. logs\all_files_tokenized\tokenized_all_261.html                                                     0.0019991397857666016
-261. logs\all_files_tokenized\tokenized_all_262.html                                                     0.0009996891021728516
-262. logs\all_files_tokenized\tokenized_all_263.html                                                     0.0009989738464355469
-263. logs\all_files_tokenized\tokenized_all_264.html                                                     0.0009996891021728516
-264. logs\all_files_tokenized\tokenized_all_265.html                                                     0.0009992122650146484
-265. logs\all_files_tokenized\tokenized_all_266.html                                                     0.0019989013671875
-266. logs\all_files_tokenized\tokenized_all_267.html                                                     0.0019986629486083984
-267. logs\all_files_tokenized\tokenized_all_268.html                                                     0.0010006427764892578
-268. logs\all_files_tokenized\tokenized_all_269.html                                                     0.0039975643157958984
-269. logs\all_files_tokenized\tokenized_all_270.html                                                     0.0009992122650146484
-270. logs\all_files_tokenized\tokenized_all_271.html                                                     0.001998424530029297
-271. logs\all_files_tokenized\tokenized_all_272.html                                                     0.0019986629486083984
-272. logs\all_files_tokenized\tokenized_all_273.html                                                     0.0019996166229248047
-273. logs\all_files_tokenized\tokenized_all_274.html                                                     0.0009996891021728516
-274. logs\all_files_tokenized\tokenized_all_275.html                                                     0.001998424530029297
-275. logs\all_files_tokenized\tokenized_all_276.html                                                     0.001998424530029297
-276. logs\all_files_tokenized\tokenized_all_277.html                                                     0.0019986629486083984
-277. logs\all_files_tokenized\tokenized_all_278.html                                                     0.0019991397857666016
-278. logs\all_files_tokenized\tokenized_all_279.html                                                     0.003998517990112305
-279. logs\all_files_tokenized\tokenized_all_280.html                                                     0.0029768943786621094
-280. logs\all_files_tokenized\tokenized_all_281.html                                                     0.003997802734375
-281. logs\all_files_tokenized\tokenized_all_282.html                                                     0.0049970149993896484
-282. logs\all_files_tokenized\tokenized_all_283.html                                                     0.0019989013671875
-283. logs\all_files_tokenized\tokenized_all_284.html                                                     0.0019989013671875
-284. logs\all_files_tokenized\tokenized_all_285.html                                                     0.002020120620727539
-285. logs\all_files_tokenized\tokenized_all_286.html                                                     0.0019979476928710938
-286. logs\all_files_tokenized\tokenized_all_287.html                                                     0.002998828887939453
-287. logs\all_files_tokenized\tokenized_all_288.html                                                     0.0009992122650146484
-288. logs\all_files_tokenized\tokenized_all_289.html                                                     0.00499725341796875
-289. logs\all_files_tokenized\tokenized_all_290.html                                                     0.0019981861114501953
-290. logs\all_files_tokenized\tokenized_all_291.html                                                     0.0010008811950683594
-291. logs\all_files_tokenized\tokenized_all_292.html                                                     0.003996372222900391
-292. logs\all_files_tokenized\tokenized_all_293.html                                                     0.0009996891021728516
-293. logs\all_files_tokenized\tokenized_all_294.html                                                     0.0009996891021728516
-294. logs\all_files_tokenized\tokenized_all_295.html                                                     0.0009989738464355469
-295. logs\all_files_tokenized\tokenized_all_296.html                                                     0.0009996891021728516
-296. logs\all_files_tokenized\tokenized_all_297.html                                                     0.000978708267211914
-297. logs\all_files_tokenized\tokenized_all_298.html                                                     0.006017208099365234
-298. logs\all_files_tokenized\tokenized_all_299.html                                                     0.0029981136322021484
-299. logs\all_files_tokenized\tokenized_all_300.html                                                     0.0019991397857666016
-300. logs\all_files_tokenized\tokenized_all_301.html                                                     0.001998424530029297
-301. logs\all_files_tokenized\tokenized_all_302.html                                                     0.0009999275207519531
-302. logs\all_files_tokenized\tokenized_all_303.html                                                     0.003997325897216797
-303. logs\all_files_tokenized\tokenized_all_304.html                                                     0.005998134613037109
-304. logs\all_files_tokenized\tokenized_all_305.html                                                     0.0009992122650146484
-305. logs\all_files_tokenized\tokenized_all_306.html                                                     0.0009984970092773438
-306. logs\all_files_tokenized\tokenized_all_307.html                                                     0.0039980411529541016
-307. logs\all_files_tokenized\tokenized_all_308.html                                                     0.002997875213623047
-308. logs\all_files_tokenized\tokenized_all_309.html                                                     0.0049970149993896484
-309. logs\all_files_tokenized\tokenized_all_310.html                                                     0.0019986629486083984
-310. logs\all_files_tokenized\tokenized_all_311.html                                                     0.0019996166229248047
-311. logs\all_files_tokenized\tokenized_all_312.html                                                     0.0
-312. logs\all_files_tokenized\tokenized_all_313.html                                                     0.0019981861114501953
-313. logs\all_files_tokenized\tokenized_all_314.html                                                     0.0009992122650146484
-314. logs\all_files_tokenized\tokenized_all_315.html                                                     0.001999378204345703
-315. logs\all_files_tokenized\tokenized_all_316.html                                                     0.0020012855529785156
-316. logs\all_files_tokenized\tokenized_all_317.html                                                     0.0009975433349609375
-317. logs\all_files_tokenized\tokenized_all_318.html                                                     0.0019974708557128906
-318. logs\all_files_tokenized\tokenized_all_319.html                                                     0.0009996891021728516
-319. logs\all_files_tokenized\tokenized_all_320.html                                                     0.0009996891021728516
-320. logs\all_files_tokenized\tokenized_all_321.html                                                     0.0009996891021728516
-321. logs\all_files_tokenized\tokenized_all_322.html                                                     0.0009815692901611328
-322. logs\all_files_tokenized\tokenized_all_323.html                                                     0.0030159950256347656
-323. logs\all_files_tokenized\tokenized_all_324.html                                                     0.0009992122650146484
-324. logs\all_files_tokenized\tokenized_all_325.html                                                     0.00299835205078125
-325. logs\all_files_tokenized\tokenized_all_326.html                                                     0.0019986629486083984
-326. logs\all_files_tokenized\tokenized_all_327.html                                                     0.0009999275207519531
-327. logs\all_files_tokenized\tokenized_all_328.html                                                     0.0019981861114501953
-328. logs\all_files_tokenized\tokenized_all_329.html                                                     0.001979351043701172
-329. logs\all_files_tokenized\tokenized_all_330.html                                                     0.0020186901092529297
-330. logs\all_files_tokenized\tokenized_all_331.html                                                     0.0039980411529541016
-331. logs\all_files_tokenized\tokenized_all_332.html                                                     0.0020003318786621094
-332. logs\all_files_tokenized\tokenized_all_333.html                                                     0.005995035171508789
-333. logs\all_files_tokenized\tokenized_all_334.html                                                     0.001998424530029297
-334. logs\all_files_tokenized\tokenized_all_335.html                                                     0.0019905567169189453
-335. logs\all_files_tokenized\tokenized_all_336.html                                                     0.010002374649047852
-336. logs\all_files_tokenized\tokenized_all_337.html                                                     0.00499725341796875
-337. logs\all_files_tokenized\tokenized_all_338.html                                                     0.012974262237548828
-338. logs\all_files_tokenized\tokenized_all_339.html                                                     0.00901341438293457
-339. logs\all_files_tokenized\tokenized_all_340.html                                                     0.010975122451782227
-340. logs\all_files_tokenized\tokenized_all_341.html                                                     0.04597210884094238
-341. logs\all_files_tokenized\tokenized_all_342.html                                                     0.019009828567504883
-342. logs\all_files_tokenized\tokenized_all_343.html                                                     0.008994102478027344
-343. logs\all_files_tokenized\tokenized_all_344.html                                                     0.010995149612426758
-344. logs\all_files_tokenized\tokenized_all_345.html                                                     0.009974241256713867
-345. logs\all_files_tokenized\tokenized_all_346.html                                                     0.07395529747009277
-346. logs\all_files_tokenized\tokenized_all_347.html                                                     0.010994434356689453
-347. logs\all_files_tokenized\tokenized_all_348.html                                                     0.008994102478027344
-348. logs\all_files_tokenized\tokenized_all_349.html                                                     0.0099945068359375
-349. logs\all_files_tokenized\tokenized_all_350.html                                                     0.009994268417358398
-350. logs\all_files_tokenized\tokenized_all_351.html                                                     0.012014150619506836
-351. logs\all_files_tokenized\tokenized_all_352.html                                                     0.006995201110839844
-352. logs\all_files_tokenized\tokenized_all_353.html                                                     0.007997512817382812
-353. logs\all_files_tokenized\tokenized_all_354.html                                                     0.008992910385131836
-354. logs\all_files_tokenized\tokenized_all_355.html                                                     0.009994029998779297
-355. logs\all_files_tokenized\tokenized_all_356.html                                                     0.003998279571533203
-356. logs\all_files_tokenized\tokenized_all_357.html                                                     0.0049970149993896484
-357. logs\all_files_tokenized\tokenized_all_358.html                                                     0.008994817733764648
-358. logs\all_files_tokenized\tokenized_all_359.html                                                     0.008994817733764648
-359. logs\all_files_tokenized\tokenized_all_360.html                                                     0.009993314743041992
-360. logs\all_files_tokenized\tokenized_all_361.html                                                     0.009994268417358398
-361. logs\all_files_tokenized\tokenized_all_362.html                                                     0.007996320724487305
-362. logs\all_files_tokenized\tokenized_all_363.html                                                     0.008993864059448242
-363. logs\all_files_tokenized\tokenized_all_364.html                                                     0.012992620468139648
-364. logs\all_files_tokenized\tokenized_all_365.html                                                     0.010993719100952148
-365. logs\all_files_tokenized\tokenized_all_366.html                                                     0.0099945068359375
-366. logs\all_files_tokenized\tokenized_all_367.html                                                     0.00699615478515625
-367. logs\all_files_tokenized\tokenized_all_368.html                                                     0.008994340896606445
-368. logs\all_files_tokenized\tokenized_all_369.html                                                     0.0099945068359375
-369. logs\all_files_tokenized\tokenized_all_370.html                                                     0.011992692947387695
-370. logs\all_files_tokenized\tokenized_all_371.html                                                     0.00799560546875
-371. logs\all_files_tokenized\tokenized_all_372.html                                                     0.008994340896606445
-372. logs\all_files_tokenized\tokenized_all_373.html                                                     0.009974241256713867
-373. logs\all_files_tokenized\tokenized_all_374.html                                                     0.007995128631591797
-374. logs\all_files_tokenized\tokenized_all_375.html                                                     0.008996725082397461
-375. logs\all_files_tokenized\tokenized_all_376.html                                                     0.009994268417358398
-376. logs\all_files_tokenized\tokenized_all_377.html                                                     0.022985458374023438
-377. logs\all_files_tokenized\tokenized_all_378.html                                                     0.0019986629486083984
-378. logs\all_files_tokenized\tokenized_all_379.html                                                     0.0019991397857666016
-379. logs\all_files_tokenized\tokenized_all_380.html                                                     0.003997325897216797
-380. logs\all_files_tokenized\tokenized_all_381.html                                                     0.003996133804321289
-381. logs\all_files_tokenized\tokenized_all_382.html                                                     0.003997802734375
-382. logs\all_files_tokenized\tokenized_all_383.html                                                     0.003997802734375
-383. logs\all_files_tokenized\tokenized_all_384.html                                                     0.0029981136322021484
-384. logs\all_files_tokenized\tokenized_all_385.html                                                     0.0019989013671875
-385. logs\all_files_tokenized\tokenized_all_386.html                                                     0.002999544143676758
-386. logs\all_files_tokenized\tokenized_all_387.html                                                     0.0019989013671875
-387. logs\all_files_tokenized\tokenized_all_388.html                                                     0.002997159957885742
-388. logs\all_files_tokenized\tokenized_all_389.html                                                     0.00299835205078125
-389. logs\all_files_tokenized\tokenized_all_390.html                                                     0.002997875213623047
-390. logs\all_files_tokenized\tokenized_all_391.html                                                     0.0029985904693603516
-391. logs\all_files_tokenized\tokenized_all_392.html                                                     0.0029981136322021484
-392. logs\all_files_tokenized\tokenized_all_393.html                                                     0.0029981136322021484
-393. logs\all_files_tokenized\tokenized_all_394.html                                                     0.00299835205078125
-394. logs\all_files_tokenized\tokenized_all_395.html                                                     0.0009999275207519531
-395. logs\all_files_tokenized\tokenized_all_396.html                                                     0.0
-396. logs\all_files_tokenized\tokenized_all_397.html                                                     0.003019571304321289
-397. logs\all_files_tokenized\tokenized_all_398.html                                                     0.0019979476928710938
-398. logs\all_files_tokenized\tokenized_all_399.html                                                     0.0
-399. logs\all_files_tokenized\tokenized_all_400.html                                                     0.00099945068359375
-400. logs\all_files_tokenized\tokenized_all_401.html                                                     0.0019986629486083984
-401. logs\all_files_tokenized\tokenized_all_402.html                                                     0.0
-402. logs\all_files_tokenized\tokenized_all_403.html                                                     0.0019991397857666016
-403. logs\all_files_tokenized\tokenized_all_404.html                                                     0.0009992122650146484
-404. logs\all_files_tokenized\tokenized_all_405.html                                                     0.0009992122650146484
-405. logs\all_files_tokenized\tokenized_all_406.html                                                     0.0009999275207519531
-406. logs\all_files_tokenized\tokenized_all_407.html                                                     0.00099945068359375
-407. logs\all_files_tokenized\tokenized_all_408.html                                                     0.0019991397857666016
-408. logs\all_files_tokenized\tokenized_all_409.html                                                     0.0009996891021728516
-409. logs\all_files_tokenized\tokenized_all_410.html                                                     0.0009992122650146484
-410. logs\all_files_tokenized\tokenized_all_411.html                                                     0.00099945068359375
-411. logs\all_files_tokenized\tokenized_all_412.html                                                     0.0019981861114501953
-412. logs\all_files_tokenized\tokenized_all_413.html                                                     0.0
-413. logs\all_files_tokenized\tokenized_all_414.html                                                     0.0020017623901367188
-414. logs\all_files_tokenized\tokenized_all_415.html                                                     0.0
-415. logs\all_files_tokenized\tokenized_all_416.html                                                     0.0019979476928710938
-416. logs\all_files_tokenized\tokenized_all_417.html                                                     0.0
-417. logs\all_files_tokenized\tokenized_all_418.html                                                     0.00099945068359375
-418. logs\all_files_tokenized\tokenized_all_419.html                                                     0.0009996891021728516
-419. logs\all_files_tokenized\tokenized_all_420.html                                                     0.0
-420. logs\all_files_tokenized\tokenized_all_421.html                                                     0.0019986629486083984
-421. logs\all_files_tokenized\tokenized_all_422.html                                                     0.0
-422. logs\all_files_tokenized\tokenized_all_423.html                                                     0.0009989738464355469
-423. logs\all_files_tokenized\tokenized_all_424.html                                                     0.0009996891021728516
-424. logs\all_files_tokenized\tokenized_all_425.html                                                     0.0009999275207519531
-425. logs\all_files_tokenized\tokenized_all_426.html                                                     0.0019986629486083984
-426. logs\all_files_tokenized\tokenized_all_427.html                                                     0.0009989738464355469
-427. logs\all_files_tokenized\tokenized_all_428.html                                                     0.001978635787963867
-428. logs\all_files_tokenized\tokenized_all_429.html                                                     0.0019986629486083984
-429. logs\all_files_tokenized\tokenized_all_430.html                                                     0.0
-430. logs\all_files_tokenized\tokenized_all_431.html                                                     0.0019991397857666016
-431. logs\all_files_tokenized\tokenized_all_432.html                                                     0.0
-432. logs\all_files_tokenized\tokenized_all_433.html                                                     0.03699946403503418
-433. logs\all_files_tokenized\tokenized_all_434.html                                                     0.10993623733520508
-434. logs\all_files_tokenized\tokenized_all_435.html                                                     0.025984764099121094
-435. logs\all_files_tokenized\tokenized_all_436.html                                                     0.020967721939086914
-436. logs\all_files_tokenized\tokenized_all_437.html                                                     0.022007465362548828
-437. logs\all_files_tokenized\tokenized_all_438.html                                                     0.0009801387786865234
-438. logs\all_files_tokenized\tokenized_all_439.html                                                     0.0
-439. logs\all_files_tokenized\tokenized_all_440.html                                                     0.0
-440. logs\all_files_tokenized\tokenized_all_441.html                                                     0.001018524169921875
-441. logs\all_files_tokenized\tokenized_all_442.html                                                     0.0
-442. logs\all_files_tokenized\tokenized_all_443.html                                                     0.0
-443. logs\all_files_tokenized\tokenized_all_444.html                                                     0.0
-444. logs\all_files_tokenized\tokenized_all_445.html                                                     0.0019991397857666016
-445. logs\all_files_tokenized\tokenized_all_446.html                                                     0.0019986629486083984
-446. logs\all_files_tokenized\tokenized_all_447.html                                                     0.0009996891021728516
-447. logs\all_files_tokenized\tokenized_all_448.html                                                     0.0009996891021728516
-448. logs\all_files_tokenized\tokenized_all_449.html                                                     0.0
-449. logs\all_files_tokenized\tokenized_all_450.html                                                     0.0009989738464355469
-450. logs\all_files_tokenized\tokenized_all_451.html                                                     0.0
-451. logs\all_files_tokenized\tokenized_all_452.html                                                     0.0
-452. logs\all_files_tokenized\tokenized_all_453.html                                                     0.0019788742065429688
-453. logs\all_files_tokenized\tokenized_all_454.html                                                     0.00099945068359375
-454. logs\all_files_tokenized\tokenized_all_455.html                                                     0.0009992122650146484
-455. logs\all_files_tokenized\tokenized_all_456.html                                                     0.0
-456. logs\all_files_tokenized\tokenized_all_457.html                                                     0.0010209083557128906
-457. logs\all_files_tokenized\tokenized_all_458.html                                                     0.0
-458. logs\all_files_tokenized\tokenized_all_459.html                                                     0.0019974708557128906
-459. logs\all_files_tokenized\tokenized_all_460.html                                                     0.0009989738464355469
-460. logs\all_files_tokenized\tokenized_all_461.html                                                     0.0019991397857666016
-461. logs\all_files_tokenized\tokenized_all_462.html                                                     0.002998828887939453
-462. logs\all_files_tokenized\tokenized_all_463.html                                                     0.00099945068359375
-463. logs\all_files_tokenized\tokenized_all_464.html                                                     0.0009989738464355469
-464. logs\all_files_tokenized\tokenized_all_465.html                                                     0.00099945068359375
-465. logs\all_files_tokenized\tokenized_all_466.html                                                     0.0009989738464355469
-466. logs\all_files_tokenized\tokenized_all_467.html                                                     0.0
-467. logs\all_files_tokenized\tokenized_all_468.html                                                     0.0009796619415283203
-468. logs\all_files_tokenized\tokenized_all_469.html                                                     0.0009989738464355469
-469. logs\all_files_tokenized\tokenized_all_470.html                                                     0.001001119613647461
-470. logs\all_files_tokenized\tokenized_all_471.html                                                     0.0
-471. logs\all_files_tokenized\tokenized_all_472.html                                                     0.0010182857513427734
-472. logs\all_files_tokenized\tokenized_all_473.html                                                     0.0
-473. logs\all_files_tokenized\tokenized_all_474.html                                                     0.0009989738464355469
-474. logs\all_files_tokenized\tokenized_all_475.html                                                     0.0009996891021728516
-475. logs\all_files_tokenized\tokenized_all_476.html                                                     0.0009996891021728516
-476. logs\all_files_tokenized\tokenized_all_477.html                                                     0.0
-477. logs\all_files_tokenized\tokenized_all_478.html                                                     0.0009992122650146484
-478. logs\all_files_tokenized\tokenized_all_479.html                                                     0.0009992122650146484
-479. logs\all_files_tokenized\tokenized_all_480.html                                                     0.0
-480. logs\all_files_tokenized\tokenized_all_481.html                                                     0.0009794235229492188
-481. logs\all_files_tokenized\tokenized_all_482.html                                                     0.0
-482. logs\all_files_tokenized\tokenized_all_483.html                                                     0.0010001659393310547
-483. logs\all_files_tokenized\tokenized_all_484.html                                                     0.0010187625885009766
-484. logs\all_files_tokenized\tokenized_all_485.html                                                     0.0
-485. logs\all_files_tokenized\tokenized_all_486.html                                                     0.00099945068359375
-486. logs\all_files_tokenized\tokenized_all_487.html                                                     0.0
-487. logs\all_files_tokenized\tokenized_all_488.html                                                     0.0009789466857910156
-488. logs\all_files_tokenized\tokenized_all_489.html                                                     0.0
-489. logs\all_files_tokenized\tokenized_all_490.html                                                     0.0
-490. logs\all_files_tokenized\tokenized_all_491.html                                                     0.0009992122650146484
-491. logs\all_files_tokenized\tokenized_all_492.html                                                     0.002019643783569336
-492. logs\all_files_tokenized\tokenized_all_493.html                                                     0.0009789466857910156
-493. logs\all_files_tokenized\tokenized_all_494.html                                                     0.0
-494. logs\all_files_tokenized\tokenized_all_495.html                                                     0.001001596450805664
-495. logs\all_files_tokenized\tokenized_all_496.html                                                     0.0
-496. logs\all_files_tokenized\tokenized_all_497.html                                                     0.0009996891021728516
-497. logs\all_files_tokenized\tokenized_all_498.html                                                     0.0029973983764648438
-498. logs\all_files_tokenized\tokenized_all_499.html                                                     0.0
-499. logs\all_files_tokenized\tokenized_all_500.html                                                     0.0010004043579101562
-500. logs\all_files_tokenized\tokenized_all_501.html                                                     0.001998424530029297
-501. logs\all_files_tokenized\tokenized_all_502.html                                                     0.0
-502. logs\all_files_tokenized\tokenized_all_503.html                                                     0.0010001659393310547
-503. logs\all_files_tokenized\tokenized_all_hard.html                                                    0.0
-504. logs\all_files_tokenized\tokenized_all_medium.html                                                  0.0009965896606445312
-505. logs\all_files_tokenized\tokenized_all_simple.html                                                  0.0
+  1. logs\all_files_tokenized\tokenized_all_002.html                                                     0.023986101150512695
+  2. logs\all_files_tokenized\tokenized_all_003.html                                                     0.006995201110839844
+  3. logs\all_files_tokenized\tokenized_all_004.html                                                     0.005994319915771484
+  4. logs\all_files_tokenized\tokenized_all_005.html                                                     0.01101374626159668
+  5. logs\all_files_tokenized\tokenized_all_006.html                                                     0.0014073848724365234
+  6. logs\all_files_tokenized\tokenized_all_007.html                                                     0.01499319076538086
+  7. logs\all_files_tokenized\tokenized_all_008.html                                                     0.007651329040527344
+  8. logs\all_files_tokenized\tokenized_all_009.html                                                     0.009013891220092773
+  9. logs\all_files_tokenized\tokenized_all_010.html                                                     0.007063150405883789
+ 10. logs\all_files_tokenized\tokenized_all_011.html                                                     0.008992433547973633
+ 11. logs\all_files_tokenized\tokenized_all_012.html                                                     0.008194446563720703
+ 12. logs\all_files_tokenized\tokenized_all_013.html                                                     0.005563974380493164
+ 13. logs\all_files_tokenized\tokenized_all_014.html                                                     0.004552364349365234
+ 14. logs\all_files_tokenized\tokenized_all_015.html                                                     0.006998300552368164
+ 15. logs\all_files_tokenized\tokenized_all_016.html                                                     0.005601406097412109
+ 16. logs\all_files_tokenized\tokenized_all_017.html                                                     0.006225109100341797
+ 17. logs\all_files_tokenized\tokenized_all_018.html                                                     0.006592750549316406
+ 18. logs\all_files_tokenized\tokenized_all_019.html                                                     0.01588726043701172
+ 19. logs\all_files_tokenized\tokenized_all_020.html                                                     0.00801706314086914
+ 20. logs\all_files_tokenized\tokenized_all_021.html                                                     0.006978750228881836
+ 21. logs\all_files_tokenized\tokenized_all_022.html                                                     0.008991718292236328
+ 22. logs\all_files_tokenized\tokenized_all_023.html                                                     0.004995584487915039
+ 23. logs\all_files_tokenized\tokenized_all_024.html                                                     0.005997896194458008
+ 24. logs\all_files_tokenized\tokenized_all_025.html                                                     0.009754657745361328
+ 25. logs\all_files_tokenized\tokenized_all_026.html                                                     0.007500410079956055
+ 26. logs\all_files_tokenized\tokenized_all_027.html                                                     0.012867212295532227
+ 27. logs\all_files_tokenized\tokenized_all_028.html                                                     0.008559703826904297
+ 28. logs\all_files_tokenized\tokenized_all_029.html                                                     0.009661436080932617
+ 29. logs\all_files_tokenized\tokenized_all_030.html                                                     0.00673985481262207
+ 30. logs\all_files_tokenized\tokenized_all_031.html                                                     0.005929708480834961
+ 31. logs\all_files_tokenized\tokenized_all_032.html                                                     0.005338907241821289
+ 32. logs\all_files_tokenized\tokenized_all_033.html                                                     0.006015777587890625
+ 33. logs\all_files_tokenized\tokenized_all_034.html                                                     0.00840616226196289
+ 34. logs\all_files_tokenized\tokenized_all_035.html                                                     0.005475282669067383
+ 35. logs\all_files_tokenized\tokenized_all_036.html                                                     0.0053615570068359375
+ 36. logs\all_files_tokenized\tokenized_all_037.html                                                     0.008856058120727539
+ 37. logs\all_files_tokenized\tokenized_all_038.html                                                     0.0071065425872802734
+ 38. logs\all_files_tokenized\tokenized_all_039.html                                                     0.005681037902832031
+ 39. logs\all_files_tokenized\tokenized_all_040.html                                                     0.00899052619934082
+ 40. logs\all_files_tokenized\tokenized_all_041.html                                                     0.0066509246826171875
+ 41. logs\all_files_tokenized\tokenized_all_042.html                                                     0.009977102279663086
+ 42. logs\all_files_tokenized\tokenized_all_043.html                                                     0.01773834228515625
+ 43. logs\all_files_tokenized\tokenized_all_044.html                                                     0.007666110992431641
+ 44. logs\all_files_tokenized\tokenized_all_045.html                                                     0.004827976226806641
+ 45. logs\all_files_tokenized\tokenized_all_046.html                                                     0.006536722183227539
+ 46. logs\all_files_tokenized\tokenized_all_047.html                                                     0.006552934646606445
+ 47. logs\all_files_tokenized\tokenized_all_048.html                                                     0.005244731903076172
+ 48. logs\all_files_tokenized\tokenized_all_049.html                                                     0.0062253475189208984
+ 49. logs\all_files_tokenized\tokenized_all_050.html                                                     0.00812983512878418
+ 50. logs\all_files_tokenized\tokenized_all_051.html                                                     0.006177186965942383
+ 51. logs\all_files_tokenized\tokenized_all_052.html                                                     0.06458759307861328
+ 52. logs\all_files_tokenized\tokenized_all_053.html                                                     0.0570828914642334
+ 53. logs\all_files_tokenized\tokenized_all_054.html                                                     0.008893966674804688
+ 54. logs\all_files_tokenized\tokenized_all_055.html                                                     0.009588956832885742
+ 55. logs\all_files_tokenized\tokenized_all_056.html                                                     0.007884740829467773
+ 56. logs\all_files_tokenized\tokenized_all_057.html                                                     0.006407737731933594
+ 57. logs\all_files_tokenized\tokenized_all_058.html                                                     0.0064258575439453125
+ 58. logs\all_files_tokenized\tokenized_all_059.html                                                     0.005984067916870117
+ 59. logs\all_files_tokenized\tokenized_all_060.html                                                     0.008014440536499023
+ 60. logs\all_files_tokenized\tokenized_all_061.html                                                     0.0015993118286132812
+ 61. logs\all_files_tokenized\tokenized_all_062.html                                                     0.005861759185791016
+ 62. logs\all_files_tokenized\tokenized_all_063.html                                                     0.006000041961669922
+ 63. logs\all_files_tokenized\tokenized_all_064.html                                                     0.008020877838134766
+ 64. logs\all_files_tokenized\tokenized_all_065.html                                                     0.002106189727783203
+ 65. logs\all_files_tokenized\tokenized_all_066.html                                                     0.01201629638671875
+ 66. logs\all_files_tokenized\tokenized_all_067.html                                                     0.00873875617980957
+ 67. logs\all_files_tokenized\tokenized_all_068.html                                                     0.003002643585205078
+ 68. logs\all_files_tokenized\tokenized_all_069.html                                                     0.005998849868774414
+ 69. logs\all_files_tokenized\tokenized_all_070.html                                                     0.0069959163665771484
+ 70. logs\all_files_tokenized\tokenized_all_071.html                                                     0.006017208099365234
+ 71. logs\all_files_tokenized\tokenized_all_072.html                                                     0.005728244781494141
+ 72. logs\all_files_tokenized\tokenized_all_073.html                                                     0.005483388900756836
+ 73. logs\all_files_tokenized\tokenized_all_074.html                                                     0.00715327262878418
+ 74. logs\all_files_tokenized\tokenized_all_075.html                                                     0.01099395751953125
+ 75. logs\all_files_tokenized\tokenized_all_076.html                                                     0.009994029998779297
+ 76. logs\all_files_tokenized\tokenized_all_077.html                                                     0.006265878677368164
+ 77. logs\all_files_tokenized\tokenized_all_078.html                                                     0.006868600845336914
+ 78. logs\all_files_tokenized\tokenized_all_079.html                                                     0.008977890014648438
+ 79. logs\all_files_tokenized\tokenized_all_080.html                                                     0.007120847702026367
+ 80. logs\all_files_tokenized\tokenized_all_081.html                                                     0.005566835403442383
+ 81. logs\all_files_tokenized\tokenized_all_082.html                                                     0.008540153503417969
+ 82. logs\all_files_tokenized\tokenized_all_083.html                                                     0.005993366241455078
+ 83. logs\all_files_tokenized\tokenized_all_084.html                                                     0.006902933120727539
+ 84. logs\all_files_tokenized\tokenized_all_085.html                                                     0.0019996166229248047
+ 85. logs\all_files_tokenized\tokenized_all_086.html                                                     0.0072383880615234375
+ 86. logs\all_files_tokenized\tokenized_all_087.html                                                     0.007619142532348633
+ 87. logs\all_files_tokenized\tokenized_all_088.html                                                     0.005846738815307617
+ 88. logs\all_files_tokenized\tokenized_all_089.html                                                     0.007830619812011719
+ 89. logs\all_files_tokenized\tokenized_all_090.html                                                     0.007057905197143555
+ 90. logs\all_files_tokenized\tokenized_all_091.html                                                     0.010993003845214844
+ 91. logs\all_files_tokenized\tokenized_all_092.html                                                     0.005800724029541016
+ 92. logs\all_files_tokenized\tokenized_all_093.html                                                     0.005594968795776367
+ 93. logs\all_files_tokenized\tokenized_all_094.html                                                     0.006649971008300781
+ 94. logs\all_files_tokenized\tokenized_all_095.html                                                     0.006414175033569336
+ 95. logs\all_files_tokenized\tokenized_all_096.html                                                     0.0068395137786865234
+ 96. logs\all_files_tokenized\tokenized_all_097.html                                                     0.006103038787841797
+ 97. logs\all_files_tokenized\tokenized_all_098.html                                                     0.0071332454681396484
+ 98. logs\all_files_tokenized\tokenized_all_099.html                                                     0.00699615478515625
+ 99. logs\all_files_tokenized\tokenized_all_100.html                                                     0.0057833194732666016
+100. logs\all_files_tokenized\tokenized_all_101.html                                                     0.00931549072265625
+101. logs\all_files_tokenized\tokenized_all_102.html                                                     0.00600743293762207
+102. logs\all_files_tokenized\tokenized_all_103.html                                                     0.007703065872192383
+103. logs\all_files_tokenized\tokenized_all_104.html                                                     0.0060694217681884766
+104. logs\all_files_tokenized\tokenized_all_105.html                                                     0.008126974105834961
+105. logs\all_files_tokenized\tokenized_all_106.html                                                     0.0022649765014648438
+106. logs\all_files_tokenized\tokenized_all_107.html                                                     0.00570368766784668
+107. logs\all_files_tokenized\tokenized_all_108.html                                                     0.0063517093658447266
+108. logs\all_files_tokenized\tokenized_all_109.html                                                     0.0054187774658203125
+109. logs\all_files_tokenized\tokenized_all_110.html                                                     0.021065473556518555
+110. logs\all_files_tokenized\tokenized_all_111.html                                                     0.00699162483215332
+111. logs\all_files_tokenized\tokenized_all_112.html                                                     0.007996559143066406
+112. logs\all_files_tokenized\tokenized_all_113.html                                                     0.0059967041015625
+113. logs\all_files_tokenized\tokenized_all_114.html                                                     0.0060155391693115234
+114. logs\all_files_tokenized\tokenized_all_115.html                                                     0.006978273391723633
+115. logs\all_files_tokenized\tokenized_all_116.html                                                     0.0059964656829833984
+116. logs\all_files_tokenized\tokenized_all_117.html                                                     0.0016591548919677734
+117. logs\all_files_tokenized\tokenized_all_118.html                                                     0.01100921630859375
+118. logs\all_files_tokenized\tokenized_all_119.html                                                     0.008784055709838867
+119. logs\all_files_tokenized\tokenized_all_120.html                                                     0.005741119384765625
+120. logs\all_files_tokenized\tokenized_all_121.html                                                     0.0059473514556884766
+121. logs\all_files_tokenized\tokenized_all_122.html                                                     0.005494356155395508
+122. logs\all_files_tokenized\tokenized_all_123.html                                                     0.007140398025512695
+123. logs\all_files_tokenized\tokenized_all_124.html                                                     0.006372213363647461
+124. logs\all_files_tokenized\tokenized_all_125.html                                                     0.0060405731201171875
+125. logs\all_files_tokenized\tokenized_all_126.html                                                     0.006373882293701172
+126. logs\all_files_tokenized\tokenized_all_127.html                                                     0.006446361541748047
+127. logs\all_files_tokenized\tokenized_all_128.html                                                     0.006020307540893555
+128. logs\all_files_tokenized\tokenized_all_129.html                                                     0.005608797073364258
+129. logs\all_files_tokenized\tokenized_all_130.html                                                     0.005030632019042969
+130. logs\all_files_tokenized\tokenized_all_131.html                                                     0.005008220672607422
+131. logs\all_files_tokenized\tokenized_all_132.html                                                     0.005071401596069336
+132. logs\all_files_tokenized\tokenized_all_133.html                                                     0.010267496109008789
+133. logs\all_files_tokenized\tokenized_all_134.html                                                     0.005972623825073242
+134. logs\all_files_tokenized\tokenized_all_135.html                                                     0.006714582443237305
+135. logs\all_files_tokenized\tokenized_all_136.html                                                     0.007112979888916016
+136. logs\all_files_tokenized\tokenized_all_137.html                                                     0.010212421417236328
+137. logs\all_files_tokenized\tokenized_all_138.html                                                     0.006539583206176758
+138. logs\all_files_tokenized\tokenized_all_139.html                                                     0.0062334537506103516
+139. logs\all_files_tokenized\tokenized_all_140.html                                                     0.0013556480407714844
+140. logs\all_files_tokenized\tokenized_all_141.html                                                     0.008842229843139648
+141. logs\all_files_tokenized\tokenized_all_142.html                                                     0.005679607391357422
+142. logs\all_files_tokenized\tokenized_all_143.html                                                     0.0061991214752197266
+143. logs\all_files_tokenized\tokenized_all_144.html                                                     0.007311344146728516
+144. logs\all_files_tokenized\tokenized_all_145.html                                                     0.009012937545776367
+145. logs\all_files_tokenized\tokenized_all_146.html                                                     0.009398698806762695
+146. logs\all_files_tokenized\tokenized_all_147.html                                                     0.0074689388275146484
+147. logs\all_files_tokenized\tokenized_all_148.html                                                     0.006024837493896484
+148. logs\all_files_tokenized\tokenized_all_149.html                                                     0.00597834587097168
+149. logs\all_files_tokenized\tokenized_all_150.html                                                     0.010184526443481445
+150. logs\all_files_tokenized\tokenized_all_151.html                                                     0.0059146881103515625
+151. logs\all_files_tokenized\tokenized_all_152.html                                                     0.010294437408447266
+152. logs\all_files_tokenized\tokenized_all_153.html                                                     0.0049970149993896484
+153. logs\all_files_tokenized\tokenized_all_154.html                                                     0.00999307632446289
+154. logs\all_files_tokenized\tokenized_all_155.html                                                     0.007017612457275391
+155. logs\all_files_tokenized\tokenized_all_156.html                                                     0.010854721069335938
+156. logs\all_files_tokenized\tokenized_all_157.html                                                     0.0054547786712646484
+157. logs\all_files_tokenized\tokenized_all_158.html                                                     0.005492448806762695
+158. logs\all_files_tokenized\tokenized_all_159.html                                                     0.00856471061706543
+159. logs\all_files_tokenized\tokenized_all_160.html                                                     0.007014274597167969
+160. logs\all_files_tokenized\tokenized_all_161.html                                                     0.006993532180786133
+161. logs\all_files_tokenized\tokenized_all_162.html                                                     0.006989717483520508
+162. logs\all_files_tokenized\tokenized_all_163.html                                                     0.009974956512451172
+163. logs\all_files_tokenized\tokenized_all_164.html                                                     0.007758617401123047
+164. logs\all_files_tokenized\tokenized_all_165.html                                                     0.004394054412841797
+165. logs\all_files_tokenized\tokenized_all_166.html                                                     0.04251265525817871
+166. logs\all_files_tokenized\tokenized_all_167.html                                                     0.005919456481933594
+167. logs\all_files_tokenized\tokenized_all_168.html                                                     0.006848335266113281
+168. logs\all_files_tokenized\tokenized_all_169.html                                                     0.005484104156494141
+169. logs\all_files_tokenized\tokenized_all_170.html                                                     0.005856752395629883
+170. logs\all_files_tokenized\tokenized_all_171.html                                                     0.005919456481933594
+171. logs\all_files_tokenized\tokenized_all_172.html                                                     0.07011294364929199
+172. logs\all_files_tokenized\tokenized_all_173.html                                                     0.01789546012878418
+173. logs\all_files_tokenized\tokenized_all_174.html                                                     0.014008522033691406
+174. logs\all_files_tokenized\tokenized_all_175.html                                                     0.009150266647338867
+175. logs\all_files_tokenized\tokenized_all_176.html                                                     0.009079456329345703
+176. logs\all_files_tokenized\tokenized_all_177.html                                                     0.010866403579711914
+177. logs\all_files_tokenized\tokenized_all_178.html                                                     0.009799480438232422
+178. logs\all_files_tokenized\tokenized_all_179.html                                                     0.015682220458984375
+179. logs\all_files_tokenized\tokenized_all_180.html                                                     0.008731365203857422
+180. logs\all_files_tokenized\tokenized_all_181.html                                                     0.018985748291015625
+181. logs\all_files_tokenized\tokenized_all_182.html                                                     0.005810260772705078
+182. logs\all_files_tokenized\tokenized_all_183.html                                                     0.005839347839355469
+183. logs\all_files_tokenized\tokenized_all_184.html                                                     0.00799417495727539
+184. logs\all_files_tokenized\tokenized_all_185.html                                                     0.0062830448150634766
+185. logs\all_files_tokenized\tokenized_all_186.html                                                     0.049643754959106445
+186. logs\all_files_tokenized\tokenized_all_187.html                                                     0.005926370620727539
+187. logs\all_files_tokenized\tokenized_all_188.html                                                     0.005979299545288086
+188. logs\all_files_tokenized\tokenized_all_189.html                                                     0.009011268615722656
+189. logs\all_files_tokenized\tokenized_all_190.html                                                     0.0055272579193115234
+190. logs\all_files_tokenized\tokenized_all_191.html                                                     0.022666454315185547
+191. logs\all_files_tokenized\tokenized_all_192.html                                                     0.008976936340332031
+192. logs\all_files_tokenized\tokenized_all_193.html                                                     0.005009651184082031
+193. logs\all_files_tokenized\tokenized_all_194.html                                                     0.0066373348236083984
+194. logs\all_files_tokenized\tokenized_all_195.html                                                     0.006995201110839844
+195. logs\all_files_tokenized\tokenized_all_196.html                                                     0.005429983139038086
+196. logs\all_files_tokenized\tokenized_all_197.html                                                     0.008129119873046875
+197. logs\all_files_tokenized\tokenized_all_198.html                                                     0.0055997371673583984
+198. logs\all_files_tokenized\tokenized_all_199.html                                                     0.007063388824462891
+199. logs\all_files_tokenized\tokenized_all_200.html                                                     0.004979848861694336
+200. logs\all_files_tokenized\tokenized_all_201.html                                                     0.005629539489746094
+201. logs\all_files_tokenized\tokenized_all_202.html                                                     0.008698225021362305
+202. logs\all_files_tokenized\tokenized_all_203.html                                                     0.006494283676147461
+203. logs\all_files_tokenized\tokenized_all_204.html                                                     0.007075309753417969
+204. logs\all_files_tokenized\tokenized_all_205.html                                                     0.007210493087768555
+205. logs\all_files_tokenized\tokenized_all_206.html                                                     0.00587010383605957
+206. logs\all_files_tokenized\tokenized_all_207.html                                                     0.009264945983886719
+207. logs\all_files_tokenized\tokenized_all_208.html                                                     0.005643606185913086
+208. logs\all_files_tokenized\tokenized_all_209.html                                                     0.00629878044128418
+209. logs\all_files_tokenized\tokenized_all_210.html                                                     0.0058286190032958984
+210. logs\all_files_tokenized\tokenized_all_211.html                                                     0.007030487060546875
+211. logs\all_files_tokenized\tokenized_all_212.html                                                     0.0055389404296875
+212. logs\all_files_tokenized\tokenized_all_213.html                                                     0.00702977180480957
+213. logs\all_files_tokenized\tokenized_all_214.html                                                     0.0054171085357666016
+214. logs\all_files_tokenized\tokenized_all_215.html                                                     0.006691455841064453
+215. logs\all_files_tokenized\tokenized_all_216.html                                                     0.00597834587097168
+216. logs\all_files_tokenized\tokenized_all_217.html                                                     0.005898475646972656
+217. logs\all_files_tokenized\tokenized_all_218.html                                                     0.007171154022216797
+218. logs\all_files_tokenized\tokenized_all_219.html                                                     0.005300045013427734
+219. logs\all_files_tokenized\tokenized_all_220.html                                                     0.0052797794342041016
+220. logs\all_files_tokenized\tokenized_all_221.html                                                     0.006911039352416992
+221. logs\all_files_tokenized\tokenized_all_222.html                                                     0.010950088500976562
+222. logs\all_files_tokenized\tokenized_all_223.html                                                     0.008014917373657227
+223. logs\all_files_tokenized\tokenized_all_224.html                                                     0.006087064743041992
+224. logs\all_files_tokenized\tokenized_all_225.html                                                     0.0075495243072509766
+225. logs\all_files_tokenized\tokenized_all_226.html                                                     0.007486104965209961
+226. logs\all_files_tokenized\tokenized_all_227.html                                                     0.0057294368743896484
+227. logs\all_files_tokenized\tokenized_all_228.html                                                     0.0052242279052734375
+228. logs\all_files_tokenized\tokenized_all_229.html                                                     0.006980180740356445
+229. logs\all_files_tokenized\tokenized_all_230.html                                                     0.008244991302490234
+230. logs\all_files_tokenized\tokenized_all_231.html                                                     0.005913257598876953
+231. logs\all_files_tokenized\tokenized_all_232.html                                                     0.006977558135986328
+232. logs\all_files_tokenized\tokenized_all_233.html                                                     0.007565021514892578
+233. logs\all_files_tokenized\tokenized_all_234.html                                                     0.009973287582397461
+234. logs\all_files_tokenized\tokenized_all_235.html                                                     0.010122060775756836
+235. logs\all_files_tokenized\tokenized_all_236.html                                                     0.007658481597900391
+236. logs\all_files_tokenized\tokenized_all_237.html                                                     0.008254766464233398
+237. logs\all_files_tokenized\tokenized_all_238.html                                                     0.007420063018798828
+238. logs\all_files_tokenized\tokenized_all_239.html                                                     0.007471799850463867
+239. logs\all_files_tokenized\tokenized_all_240.html                                                     0.009665727615356445
+240. logs\all_files_tokenized\tokenized_all_241.html                                                     0.007873296737670898
+241. logs\all_files_tokenized\tokenized_all_242.html                                                     0.007576704025268555
+242. logs\all_files_tokenized\tokenized_all_243.html                                                     0.011249780654907227
+243. logs\all_files_tokenized\tokenized_all_244.html                                                     0.008501768112182617
+244. logs\all_files_tokenized\tokenized_all_245.html                                                     0.007845401763916016
+245. logs\all_files_tokenized\tokenized_all_246.html                                                     0.008730888366699219
+246. logs\all_files_tokenized\tokenized_all_247.html                                                     0.00871729850769043
+247. logs\all_files_tokenized\tokenized_all_248.html                                                     0.008961200714111328
+248. logs\all_files_tokenized\tokenized_all_249.html                                                     0.011050224304199219
+249. logs\all_files_tokenized\tokenized_all_250.html                                                     0.007997989654541016
+250. logs\all_files_tokenized\tokenized_all_251.html                                                     0.007888078689575195
+251. logs\all_files_tokenized\tokenized_all_252.html                                                     0.00899505615234375
+252. logs\all_files_tokenized\tokenized_all_253.html                                                     0.006770133972167969
+253. logs\all_files_tokenized\tokenized_all_254.html                                                     0.007971763610839844
+254. logs\all_files_tokenized\tokenized_all_255.html                                                     0.0053768157958984375
+255. logs\all_files_tokenized\tokenized_all_256.html                                                     0.008203268051147461
+256. logs\all_files_tokenized\tokenized_all_257.html                                                     0.008015155792236328
+257. logs\all_files_tokenized\tokenized_all_258.html                                                     0.008514165878295898
+258. logs\all_files_tokenized\tokenized_all_259.html                                                     0.007779836654663086
+259. logs\all_files_tokenized\tokenized_all_260.html                                                     0.009346723556518555
+260. logs\all_files_tokenized\tokenized_all_261.html                                                     0.0065593719482421875
+261. logs\all_files_tokenized\tokenized_all_262.html                                                     0.007996559143066406
+262. logs\all_files_tokenized\tokenized_all_263.html                                                     0.007942914962768555
+263. logs\all_files_tokenized\tokenized_all_264.html                                                     0.006995439529418945
+264. logs\all_files_tokenized\tokenized_all_265.html                                                     0.0057947635650634766
+265. logs\all_files_tokenized\tokenized_all_266.html                                                     0.009021520614624023
+266. logs\all_files_tokenized\tokenized_all_267.html                                                     0.008623600006103516
+267. logs\all_files_tokenized\tokenized_all_268.html                                                     0.006470203399658203
+268. logs\all_files_tokenized\tokenized_all_269.html                                                     0.00930333137512207
+269. logs\all_files_tokenized\tokenized_all_270.html                                                     0.008008241653442383
+270. logs\all_files_tokenized\tokenized_all_271.html                                                     0.00678563117980957
+271. logs\all_files_tokenized\tokenized_all_272.html                                                     0.008015871047973633
+272. logs\all_files_tokenized\tokenized_all_273.html                                                     0.0076351165771484375
+273. logs\all_files_tokenized\tokenized_all_274.html                                                     0.007994651794433594
+274. logs\all_files_tokenized\tokenized_all_275.html                                                     0.007142305374145508
+275. logs\all_files_tokenized\tokenized_all_276.html                                                     0.008577585220336914
+276. logs\all_files_tokenized\tokenized_all_277.html                                                     0.007211923599243164
+277. logs\all_files_tokenized\tokenized_all_278.html                                                     0.008973836898803711
+278. logs\all_files_tokenized\tokenized_all_279.html                                                     0.011014223098754883
+279. logs\all_files_tokenized\tokenized_all_280.html                                                     0.008883476257324219
+280. logs\all_files_tokenized\tokenized_all_281.html                                                     0.009829282760620117
+281. logs\all_files_tokenized\tokenized_all_282.html                                                     0.012742757797241211
+282. logs\all_files_tokenized\tokenized_all_283.html                                                     0.0019991397857666016
+283. logs\all_files_tokenized\tokenized_all_284.html                                                     0.01099252700805664
+284. logs\all_files_tokenized\tokenized_all_285.html                                                     0.008994102478027344
+285. logs\all_files_tokenized\tokenized_all_286.html                                                     0.0075054168701171875
+286. logs\all_files_tokenized\tokenized_all_287.html                                                     0.00722050666809082
+287. logs\all_files_tokenized\tokenized_all_288.html                                                     0.007247209548950195
+288. logs\all_files_tokenized\tokenized_all_289.html                                                     0.012324094772338867
+289. logs\all_files_tokenized\tokenized_all_290.html                                                     0.007889270782470703
+290. logs\all_files_tokenized\tokenized_all_291.html                                                     0.00727534294128418
+291. logs\all_files_tokenized\tokenized_all_292.html                                                     0.009711980819702148
+292. logs\all_files_tokenized\tokenized_all_293.html                                                     0.006633758544921875
+293. logs\all_files_tokenized\tokenized_all_294.html                                                     0.0059053897857666016
+294. logs\all_files_tokenized\tokenized_all_295.html                                                     0.007332324981689453
+295. logs\all_files_tokenized\tokenized_all_296.html                                                     0.0074193477630615234
+296. logs\all_files_tokenized\tokenized_all_297.html                                                     0.006579160690307617
+297. logs\all_files_tokenized\tokenized_all_298.html                                                     0.010992765426635742
+298. logs\all_files_tokenized\tokenized_all_299.html                                                     0.009282588958740234
+299. logs\all_files_tokenized\tokenized_all_300.html                                                     0.006724119186401367
+300. logs\all_files_tokenized\tokenized_all_301.html                                                     0.008556127548217773
+301. logs\all_files_tokenized\tokenized_all_302.html                                                     0.008218526840209961
+302. logs\all_files_tokenized\tokenized_all_303.html                                                     0.010587930679321289
+303. logs\all_files_tokenized\tokenized_all_304.html                                                     0.010878801345825195
+304. logs\all_files_tokenized\tokenized_all_305.html                                                     0.005911827087402344
+305. logs\all_files_tokenized\tokenized_all_306.html                                                     0.00822138786315918
+306. logs\all_files_tokenized\tokenized_all_307.html                                                     0.010137796401977539
+307. logs\all_files_tokenized\tokenized_all_308.html                                                     0.009226322174072266
+308. logs\all_files_tokenized\tokenized_all_309.html                                                     0.01205134391784668
+309. logs\all_files_tokenized\tokenized_all_310.html                                                     0.00999307632446289
+310. logs\all_files_tokenized\tokenized_all_311.html                                                     0.04860520362854004
+311. logs\all_files_tokenized\tokenized_all_312.html                                                     0.007151603698730469
+312. logs\all_files_tokenized\tokenized_all_313.html                                                     0.007937908172607422
+313. logs\all_files_tokenized\tokenized_all_314.html                                                     0.009557723999023438
+314. logs\all_files_tokenized\tokenized_all_315.html                                                     0.009995698928833008
+315. logs\all_files_tokenized\tokenized_all_316.html                                                     0.007479429244995117
+316. logs\all_files_tokenized\tokenized_all_317.html                                                     0.006647825241088867
+317. logs\all_files_tokenized\tokenized_all_318.html                                                     0.006998777389526367
+318. logs\all_files_tokenized\tokenized_all_319.html                                                     0.007169246673583984
+319. logs\all_files_tokenized\tokenized_all_320.html                                                     0.0065953731536865234
+320. logs\all_files_tokenized\tokenized_all_321.html                                                     0.007142066955566406
+321. logs\all_files_tokenized\tokenized_all_322.html                                                     0.008961200714111328
+322. logs\all_files_tokenized\tokenized_all_323.html                                                     0.008970975875854492
+323. logs\all_files_tokenized\tokenized_all_324.html                                                     0.006995677947998047
+324. logs\all_files_tokenized\tokenized_all_325.html                                                     0.009205102920532227
+325. logs\all_files_tokenized\tokenized_all_326.html                                                     0.007995843887329102
+326. logs\all_files_tokenized\tokenized_all_327.html                                                     0.006284475326538086
+327. logs\all_files_tokenized\tokenized_all_328.html                                                     0.008994817733764648
+328. logs\all_files_tokenized\tokenized_all_329.html                                                     0.008326292037963867
+329. logs\all_files_tokenized\tokenized_all_330.html                                                     0.007470607757568359
+330. logs\all_files_tokenized\tokenized_all_331.html                                                     0.009836196899414062
+331. logs\all_files_tokenized\tokenized_all_332.html                                                     0.0078105926513671875
+332. logs\all_files_tokenized\tokenized_all_333.html                                                     0.01180887222290039
+333. logs\all_files_tokenized\tokenized_all_334.html                                                     0.008086204528808594
+334. logs\all_files_tokenized\tokenized_all_335.html                                                     0.009029388427734375
+335. logs\all_files_tokenized\tokenized_all_336.html                                                     0.013650894165039062
+336. logs\all_files_tokenized\tokenized_all_337.html                                                     0.012300252914428711
+337. logs\all_files_tokenized\tokenized_all_338.html                                                     0.017157554626464844
+338. logs\all_files_tokenized\tokenized_all_339.html                                                     0.014316320419311523
+339. logs\all_files_tokenized\tokenized_all_340.html                                                     0.017858028411865234
+340. logs\all_files_tokenized\tokenized_all_341.html                                                     0.01947784423828125
+341. logs\all_files_tokenized\tokenized_all_342.html                                                     0.01648092269897461
+342. logs\all_files_tokenized\tokenized_all_343.html                                                     0.013973236083984375
+343. logs\all_files_tokenized\tokenized_all_344.html                                                     0.017517805099487305
+344. logs\all_files_tokenized\tokenized_all_345.html                                                     0.017701148986816406
+345. logs\all_files_tokenized\tokenized_all_346.html                                                     0.017971277236938477
+346. logs\all_files_tokenized\tokenized_all_347.html                                                     0.016989946365356445
+347. logs\all_files_tokenized\tokenized_all_348.html                                                     0.014991283416748047
+348. logs\all_files_tokenized\tokenized_all_349.html                                                     0.01681232452392578
+349. logs\all_files_tokenized\tokenized_all_350.html                                                     0.01682591438293457
+350. logs\all_files_tokenized\tokenized_all_351.html                                                     0.018855810165405273
+351. logs\all_files_tokenized\tokenized_all_352.html                                                     0.014264106750488281
+352. logs\all_files_tokenized\tokenized_all_353.html                                                     0.014535188674926758
+353. logs\all_files_tokenized\tokenized_all_354.html                                                     0.01582813262939453
+354. logs\all_files_tokenized\tokenized_all_355.html                                                     0.01687335968017578
+355. logs\all_files_tokenized\tokenized_all_356.html                                                     0.013426780700683594
+356. logs\all_files_tokenized\tokenized_all_357.html                                                     0.010208845138549805
+357. logs\all_files_tokenized\tokenized_all_358.html                                                     0.015990734100341797
+358. logs\all_files_tokenized\tokenized_all_359.html                                                     0.017682790756225586
+359. logs\all_files_tokenized\tokenized_all_360.html                                                     0.015288352966308594
+360. logs\all_files_tokenized\tokenized_all_361.html                                                     0.016962289810180664
+361. logs\all_files_tokenized\tokenized_all_362.html                                                     0.07227349281311035
+362. logs\all_files_tokenized\tokenized_all_363.html                                                     0.015989303588867188
+363. logs\all_files_tokenized\tokenized_all_364.html                                                     0.02398824691772461
+364. logs\all_files_tokenized\tokenized_all_365.html                                                     0.017057180404663086
+365. logs\all_files_tokenized\tokenized_all_366.html                                                     0.015541553497314453
+366. logs\all_files_tokenized\tokenized_all_367.html                                                     0.014219522476196289
+367. logs\all_files_tokenized\tokenized_all_368.html                                                     0.01947760581970215
+368. logs\all_files_tokenized\tokenized_all_369.html                                                     0.01601243019104004
+369. logs\all_files_tokenized\tokenized_all_370.html                                                     0.01659417152404785
+370. logs\all_files_tokenized\tokenized_all_371.html                                                     0.014992713928222656
+371. logs\all_files_tokenized\tokenized_all_372.html                                                     0.014899015426635742
+372. logs\all_files_tokenized\tokenized_all_373.html                                                     0.015006780624389648
+373. logs\all_files_tokenized\tokenized_all_374.html                                                     0.012721776962280273
+374. logs\all_files_tokenized\tokenized_all_375.html                                                     0.019295215606689453
+375. logs\all_files_tokenized\tokenized_all_376.html                                                     0.01899123191833496
+376. logs\all_files_tokenized\tokenized_all_377.html                                                     0.018338918685913086
+377. logs\all_files_tokenized\tokenized_all_378.html                                                     0.008867263793945312
+378. logs\all_files_tokenized\tokenized_all_379.html                                                     0.00801229476928711
+379. logs\all_files_tokenized\tokenized_all_380.html                                                     0.011219978332519531
+380. logs\all_files_tokenized\tokenized_all_381.html                                                     0.011865854263305664
+381. logs\all_files_tokenized\tokenized_all_382.html                                                     0.010993242263793945
+382. logs\all_files_tokenized\tokenized_all_383.html                                                     0.01188206672668457
+383. logs\all_files_tokenized\tokenized_all_384.html                                                     0.009214401245117188
+384. logs\all_files_tokenized\tokenized_all_385.html                                                     0.009697675704956055
+385. logs\all_files_tokenized\tokenized_all_386.html                                                     0.009679317474365234
+386. logs\all_files_tokenized\tokenized_all_387.html                                                     0.007786989212036133
+387. logs\all_files_tokenized\tokenized_all_388.html                                                     0.011870622634887695
+388. logs\all_files_tokenized\tokenized_all_389.html                                                     0.010587215423583984
+389. logs\all_files_tokenized\tokenized_all_390.html                                                     0.010304927825927734
+390. logs\all_files_tokenized\tokenized_all_391.html                                                     0.009994745254516602
+391. logs\all_files_tokenized\tokenized_all_392.html                                                     0.010611295700073242
+392. logs\all_files_tokenized\tokenized_all_393.html                                                     0.010000467300415039
+393. logs\all_files_tokenized\tokenized_all_394.html                                                     0.008975982666015625
+394. logs\all_files_tokenized\tokenized_all_395.html                                                     0.008594751358032227
+395. logs\all_files_tokenized\tokenized_all_396.html                                                     0.0077207088470458984
+396. logs\all_files_tokenized\tokenized_all_397.html                                                     0.010496139526367188
+397. logs\all_files_tokenized\tokenized_all_398.html                                                     0.007337331771850586
+398. logs\all_files_tokenized\tokenized_all_399.html                                                     0.005500078201293945
+399. logs\all_files_tokenized\tokenized_all_400.html                                                     0.0048487186431884766
+400. logs\all_files_tokenized\tokenized_all_401.html                                                     0.0070192813873291016
+401. logs\all_files_tokenized\tokenized_all_402.html                                                     0.005793333053588867
+402. logs\all_files_tokenized\tokenized_all_403.html                                                     0.006857872009277344
+403. logs\all_files_tokenized\tokenized_all_404.html                                                     0.006113767623901367
+404. logs\all_files_tokenized\tokenized_all_405.html                                                     0.006061077117919922
+405. logs\all_files_tokenized\tokenized_all_406.html                                                     0.005247354507446289
+406. logs\all_files_tokenized\tokenized_all_407.html                                                     0.007498502731323242
+407. logs\all_files_tokenized\tokenized_all_408.html                                                     0.010882854461669922
+408. logs\all_files_tokenized\tokenized_all_409.html                                                     0.006210803985595703
+409. logs\all_files_tokenized\tokenized_all_410.html                                                     0.007100105285644531
+410. logs\all_files_tokenized\tokenized_all_411.html                                                     0.005999326705932617
+411. logs\all_files_tokenized\tokenized_all_412.html                                                     0.007328987121582031
+412. logs\all_files_tokenized\tokenized_all_413.html                                                     0.006411552429199219
+413. logs\all_files_tokenized\tokenized_all_414.html                                                     0.0063359737396240234
+414. logs\all_files_tokenized\tokenized_all_415.html                                                     0.005837678909301758
+415. logs\all_files_tokenized\tokenized_all_416.html                                                     0.007131814956665039
+416. logs\all_files_tokenized\tokenized_all_417.html                                                     0.0058290958404541016
+417. logs\all_files_tokenized\tokenized_all_418.html                                                     0.006993532180786133
+418. logs\all_files_tokenized\tokenized_all_419.html                                                     0.007481575012207031
+419. logs\all_files_tokenized\tokenized_all_420.html                                                     0.0066645145416259766
+420. logs\all_files_tokenized\tokenized_all_421.html                                                     0.006348848342895508
+421. logs\all_files_tokenized\tokenized_all_422.html                                                     0.00691533088684082
+422. logs\all_files_tokenized\tokenized_all_423.html                                                     0.006335258483886719
+423. logs\all_files_tokenized\tokenized_all_424.html                                                     0.005289316177368164
+424. logs\all_files_tokenized\tokenized_all_425.html                                                     0.0069751739501953125
+425. logs\all_files_tokenized\tokenized_all_426.html                                                     0.0064656734466552734
+426. logs\all_files_tokenized\tokenized_all_427.html                                                     0.011013031005859375
+427. logs\all_files_tokenized\tokenized_all_428.html                                                     0.0273590087890625
+428. logs\all_files_tokenized\tokenized_all_429.html                                                     0.006323814392089844
+429. logs\all_files_tokenized\tokenized_all_430.html                                                     0.00687718391418457
+430. logs\all_files_tokenized\tokenized_all_431.html                                                     0.007994413375854492
+431. logs\all_files_tokenized\tokenized_all_432.html                                                     0.008994817733764648
+432. logs\all_files_tokenized\tokenized_all_433.html                                                     0.053971052169799805
+433. logs\all_files_tokenized\tokenized_all_434.html                                                     0.10693621635437012
+434. logs\all_files_tokenized\tokenized_all_435.html                                                     0.034720659255981445
+435. logs\all_files_tokenized\tokenized_all_436.html                                                     0.025841474533081055
+436. logs\all_files_tokenized\tokenized_all_437.html                                                     0.03267693519592285
+437. logs\all_files_tokenized\tokenized_all_438.html                                                     0.005476713180541992
+438. logs\all_files_tokenized\tokenized_all_439.html                                                     0.004773855209350586
+439. logs\all_files_tokenized\tokenized_all_440.html                                                     0.004995107650756836
+440. logs\all_files_tokenized\tokenized_all_441.html                                                     0.0045375823974609375
+441. logs\all_files_tokenized\tokenized_all_442.html                                                     0.004288434982299805
+442. logs\all_files_tokenized\tokenized_all_443.html                                                     0.0059969425201416016
+443. logs\all_files_tokenized\tokenized_all_444.html                                                     0.00501704216003418
+444. logs\all_files_tokenized\tokenized_all_445.html                                                     0.008976936340332031
+445. logs\all_files_tokenized\tokenized_all_446.html                                                     0.00928807258605957
+446. logs\all_files_tokenized\tokenized_all_447.html                                                     0.00683140754699707
+447. logs\all_files_tokenized\tokenized_all_448.html                                                     0.010158777236938477
+448. logs\all_files_tokenized\tokenized_all_449.html                                                     0.004995107650756836
+449. logs\all_files_tokenized\tokenized_all_450.html                                                     0.006017446517944336
+450. logs\all_files_tokenized\tokenized_all_451.html                                                     0.006331920623779297
+451. logs\all_files_tokenized\tokenized_all_452.html                                                     0.0057446956634521484
+452. logs\all_files_tokenized\tokenized_all_453.html                                                     0.00699305534362793
+453. logs\all_files_tokenized\tokenized_all_454.html                                                     0.0069942474365234375
+454. logs\all_files_tokenized\tokenized_all_455.html                                                     0.004996776580810547
+455. logs\all_files_tokenized\tokenized_all_456.html                                                     0.0069980621337890625
+456. logs\all_files_tokenized\tokenized_all_457.html                                                     0.005848884582519531
+457. logs\all_files_tokenized\tokenized_all_458.html                                                     0.0060808658599853516
+458. logs\all_files_tokenized\tokenized_all_459.html                                                     0.008171319961547852
+459. logs\all_files_tokenized\tokenized_all_460.html                                                     0.005338907241821289
+460. logs\all_files_tokenized\tokenized_all_461.html                                                     0.008304119110107422
+461. logs\all_files_tokenized\tokenized_all_462.html                                                     0.008197784423828125
+462. logs\all_files_tokenized\tokenized_all_463.html                                                     0.0069959163665771484
+463. logs\all_files_tokenized\tokenized_all_464.html                                                     0.00782918930053711
+464. logs\all_files_tokenized\tokenized_all_465.html                                                     0.006306648254394531
+465. logs\all_files_tokenized\tokenized_all_466.html                                                     0.005868673324584961
+466. logs\all_files_tokenized\tokenized_all_467.html                                                     0.0441594123840332
+467. logs\all_files_tokenized\tokenized_all_468.html                                                     0.006997108459472656
+468. logs\all_files_tokenized\tokenized_all_469.html                                                     0.007012128829956055
+469. logs\all_files_tokenized\tokenized_all_470.html                                                     0.005683183670043945
+470. logs\all_files_tokenized\tokenized_all_471.html                                                     0.005663156509399414
+471. logs\all_files_tokenized\tokenized_all_472.html                                                     0.006009101867675781
+472. logs\all_files_tokenized\tokenized_all_473.html                                                     0.00613093376159668
+473. logs\all_files_tokenized\tokenized_all_474.html                                                     0.005998373031616211
+474. logs\all_files_tokenized\tokenized_all_475.html                                                     0.005820035934448242
+475. logs\all_files_tokenized\tokenized_all_476.html                                                     0.007130861282348633
+476. logs\all_files_tokenized\tokenized_all_477.html                                                     0.005289316177368164
+477. logs\all_files_tokenized\tokenized_all_478.html                                                     0.00696873664855957
+478. logs\all_files_tokenized\tokenized_all_479.html                                                     0.005000114440917969
+479. logs\all_files_tokenized\tokenized_all_480.html                                                     0.016600608825683594
+480. logs\all_files_tokenized\tokenized_all_481.html                                                     0.008023500442504883
+481. logs\all_files_tokenized\tokenized_all_482.html                                                     0.0060155391693115234
+482. logs\all_files_tokenized\tokenized_all_483.html                                                     0.00557398796081543
+483. logs\all_files_tokenized\tokenized_all_484.html                                                     0.007974863052368164
+484. logs\all_files_tokenized\tokenized_all_485.html                                                     0.005440473556518555
+485. logs\all_files_tokenized\tokenized_all_486.html                                                     0.005561351776123047
+486. logs\all_files_tokenized\tokenized_all_487.html                                                     0.005975246429443359
+487. logs\all_files_tokenized\tokenized_all_488.html                                                     0.005318880081176758
+488. logs\all_files_tokenized\tokenized_all_489.html                                                     0.005576372146606445
+489. logs\all_files_tokenized\tokenized_all_490.html                                                     0.005996227264404297
+490. logs\all_files_tokenized\tokenized_all_491.html                                                     0.0060727596282958984
+491. logs\all_files_tokenized\tokenized_all_492.html                                                     0.008607149124145508
+492. logs\all_files_tokenized\tokenized_all_493.html                                                     0.006995677947998047
+493. logs\all_files_tokenized\tokenized_all_494.html                                                     0.006013154983520508
+494. logs\all_files_tokenized\tokenized_all_495.html                                                     0.005365610122680664
+495. logs\all_files_tokenized\tokenized_all_496.html                                                     0.004729509353637695
+496. logs\all_files_tokenized\tokenized_all_497.html                                                     0.005990505218505859
+497. logs\all_files_tokenized\tokenized_all_498.html                                                     0.008234977722167969
+498. logs\all_files_tokenized\tokenized_all_499.html                                                     0.00467371940612793
+499. logs\all_files_tokenized\tokenized_all_500.html                                                     0.00597691535949707
+500. logs\all_files_tokenized\tokenized_all_501.html                                                     0.006815671920776367
+501. logs\all_files_tokenized\tokenized_all_502.html                                                     0.00918269157409668
+502. logs\all_files_tokenized\tokenized_all_503.html                                                     0.0009965896606445312
+503. logs\all_files_tokenized\tokenized_all_hard.html                                                    0.005998134613037109
+504. logs\all_files_tokenized\tokenized_all_medium.html                                                  0.006356477737426758
+505. logs\all_files_tokenized\tokenized_all_simple.html                                                  0.0057947635650634766
 
-Tiempo final de ejecucion (obtener weight tokens): 1.4971792697906494
+Tiempo final de ejecucion (obtener weight tokens): 4.842334747314453
 
 --> Procesando diccionario y posting file
 
----> logs\posting_stop_list.txt                                                                          0.23384809494018555
----> logs\dictionary_stop_list.txt                                                                       0.015987873077392578
+---> logs\posting_stop_list.txt                                                                          0.19688701629638672
+---> logs\dictionary_stop_list.txt                                                                       0.015971899032592773
 
-Tiempo final de ejecucion (procesar posting file/diccionario): 0.489166259765625
+Tiempo final de ejecucion (procesar posting file/diccionario): 0.49060988426208496
 
-Tiempo final de creacion de nuevo diccionario y posting file: 2.5677437782287598
+Tiempo final de creacion de nuevo diccionario y posting file: 5.707123756408691
 
-Tiempo final del programa: 3.288688898086548 segundos.
+Tiempo final del programa: 91.88186645507812 segundos.

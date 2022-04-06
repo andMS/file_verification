@@ -53,7 +53,7 @@ def create_dictionary_hash_table(filepaths, log_file, output_dir, tokenized_item
 
             # Generating final dictionary with posting index
             output_dict_name = os.path.join(output_dir, 'dictionary_hash_table.txt')
-            write_hash_table_dict(output_dict_name, dictionary_keys, HASH_TABLE)
+            write_hash_table_dict(output_dict_name, HASH_TABLE)
             end_time = time.time()
             final_string = f'\nTiempo total que tomo generar el diccionario y posting file usando hash table: {end_time - general_start_time}\n'
             print(final_string)
@@ -96,13 +96,20 @@ def generate_posting_file(posting_file_name, tokenized_files, all_tokens, token_
     print(f'\nTiempo de ejecucion: {final_time}')
 
 
-def write_hash_table_dict(output_dict_name, token_keys, hash_table):
+def write_hash_table_dict(output_dict_name, hash_table):
     start_time = time.time()
     print('\n--> Escribiendo valores en archivo diccionario')
     print('\nToken| No. de Archivos con token| Index en posting file\n')
     with open(output_dict_name, 'w', encoding='utf-8') as output_obj:
-        for token in token_keys:
-            values = helper.search_hash_table(hash_table, token)
-            output_obj.write(f'{token : >35}   {values[1] : >06}  {values[2] : >06}\n')
+        for element in hash_table:
+            if len(element) == 0:
+                continue
+            for obj in element:
+                token = obj[0]
+                values = obj[1]
+                output_obj.write(f'{token : >35}   {values[1] : >06}  {values[2] : >06}\n')
+        # for token in token_keys:
+        #     values = helper.search_hash_table(hash_table, token)
+        #     output_obj.write(f'{token : >35}   {values[1] : >06}  {values[2] : >06}\n')
     end_time = time.time()
     print(f'Tiempo de ejecucion: {end_time - start_time}')

@@ -64,7 +64,7 @@ def execute_stop_list(stop_list_path, filepaths, log_file, output_dir, tokenized
 
             # Generating final dictionary with posting index omitting elements from stop list
             output_dict_name = os.path.join(output_dir, 'dictionary_stop_list.txt')
-            hash_table.write_hash_table_dict(output_dict_name, final_tokens, HASH_TABLE)
+            hash_table.write_hash_table_dict(output_dict_name, HASH_TABLE)
             end_time = time.time()
             final_string = f'\nTiempo total que tomo generar el diccionario y posting file (hash table, removiendo elementos): {end_time - general_start_time}\n'
             print(final_string)
