@@ -1,512 +1,512 @@
 --> Prueba: encontrar numero de ocurrencias en todos los archivos
-  1. logs\letters_act4\letters_sorted_clean_002.html                                                     0.003977537155151367
-  2. logs\letters_act4\letters_sorted_clean_003.html                                                     0.0010004043579101562
-  3. logs\letters_act4\letters_sorted_clean_004.html                                                     0.0
-  4. logs\letters_act4\letters_sorted_clean_005.html                                                     0.0010013580322265625
-  5. logs\letters_act4\letters_sorted_clean_006.html                                                     0.00099945068359375
-  6. logs\letters_act4\letters_sorted_clean_007.html                                                     0.009992361068725586
-  7. logs\letters_act4\letters_sorted_clean_008.html                                                     0.0009992122650146484
-  8. logs\letters_act4\letters_sorted_clean_009.html                                                     0.0019989013671875
-  9. logs\letters_act4\letters_sorted_clean_010.html                                                     0.00099945068359375
- 10. logs\letters_act4\letters_sorted_clean_011.html                                                     0.005999565124511719
- 11. logs\letters_act4\letters_sorted_clean_012.html                                                     0.002226114273071289
- 12. logs\letters_act4\letters_sorted_clean_013.html                                                     0.0020058155059814453
- 13. logs\letters_act4\letters_sorted_clean_014.html                                                     0.000995635986328125
- 14. logs\letters_act4\letters_sorted_clean_015.html                                                     0.00099945068359375
- 15. logs\letters_act4\letters_sorted_clean_016.html                                                     0.0009989738464355469
- 16. logs\letters_act4\letters_sorted_clean_017.html                                                     0.00099945068359375
- 17. logs\letters_act4\letters_sorted_clean_018.html                                                     0.0009992122650146484
- 18. logs\letters_act4\letters_sorted_clean_019.html                                                     0.006997108459472656
- 19. logs\letters_act4\letters_sorted_clean_020.html                                                     0.0010197162628173828
- 20. logs\letters_act4\letters_sorted_clean_021.html                                                     0.0009791851043701172
- 21. logs\letters_act4\letters_sorted_clean_022.html                                                     0.001998424530029297
- 22. logs\letters_act4\letters_sorted_clean_023.html                                                     0.0010001659393310547
- 23. logs\letters_act4\letters_sorted_clean_024.html                                                     0.0009984970092773438
- 24. logs\letters_act4\letters_sorted_clean_025.html                                                     0.0010001659393310547
- 25. logs\letters_act4\letters_sorted_clean_026.html                                                     0.0019974708557128906
- 26. logs\letters_act4\letters_sorted_clean_027.html                                                     0.006997108459472656
- 27. logs\letters_act4\letters_sorted_clean_028.html                                                     0.0009980201721191406
- 28. logs\letters_act4\letters_sorted_clean_029.html                                                     0.003998517990112305
- 29. logs\letters_act4\letters_sorted_clean_030.html                                                     0.0009992122650146484
- 30. logs\letters_act4\letters_sorted_clean_031.html                                                     0.0
- 31. logs\letters_act4\letters_sorted_clean_032.html                                                     0.0
- 32. logs\letters_act4\letters_sorted_clean_033.html                                                     0.0010006427764892578
- 33. logs\letters_act4\letters_sorted_clean_034.html                                                     0.001996755599975586
- 34. logs\letters_act4\letters_sorted_clean_035.html                                                     0.0009996891021728516
- 35. logs\letters_act4\letters_sorted_clean_036.html                                                     0.001020669937133789
- 36. logs\letters_act4\letters_sorted_clean_037.html                                                     0.003977060317993164
- 37. logs\letters_act4\letters_sorted_clean_038.html                                                     0.0010197162628173828
- 38. logs\letters_act4\letters_sorted_clean_039.html                                                     0.000980377197265625
- 39. logs\letters_act4\letters_sorted_clean_040.html                                                     0.001996755599975586
- 40. logs\letters_act4\letters_sorted_clean_041.html                                                     0.000997781753540039
- 41. logs\letters_act4\letters_sorted_clean_042.html                                                     0.00099945068359375
- 42. logs\letters_act4\letters_sorted_clean_043.html                                                     0.013993024826049805
- 43. logs\letters_act4\letters_sorted_clean_044.html                                                     0.0009984970092773438
- 44. logs\letters_act4\letters_sorted_clean_045.html                                                     0.0009999275207519531
- 45. logs\letters_act4\letters_sorted_clean_046.html                                                     0.0009987354278564453
- 46. logs\letters_act4\letters_sorted_clean_047.html                                                     0.002001523971557617
- 47. logs\letters_act4\letters_sorted_clean_048.html                                                     0.0009989738464355469
- 48. logs\letters_act4\letters_sorted_clean_049.html                                                     0.00099945068359375
- 49. logs\letters_act4\letters_sorted_clean_050.html                                                     0.0019991397857666016
- 50. logs\letters_act4\letters_sorted_clean_051.html                                                     0.0009992122650146484
- 51. logs\letters_act4\letters_sorted_clean_052.html                                                     0.0019991397857666016
- 52. logs\letters_act4\letters_sorted_clean_053.html                                                     0.0
- 53. logs\letters_act4\letters_sorted_clean_054.html                                                     0.0009989738464355469
- 54. logs\letters_act4\letters_sorted_clean_055.html                                                     0.0009992122650146484
- 55. logs\letters_act4\letters_sorted_clean_056.html                                                     0.0009996891021728516
- 56. logs\letters_act4\letters_sorted_clean_057.html                                                     0.0009992122650146484
- 57. logs\letters_act4\letters_sorted_clean_058.html                                                     0.0009992122650146484
- 58. logs\letters_act4\letters_sorted_clean_059.html                                                     0.0009992122650146484
- 59. logs\letters_act4\letters_sorted_clean_060.html                                                     0.0009999275207519531
- 60. logs\letters_act4\letters_sorted_clean_061.html                                                     0.0
- 61. logs\letters_act4\letters_sorted_clean_062.html                                                     0.0009987354278564453
- 62. logs\letters_act4\letters_sorted_clean_063.html                                                     0.0
- 63. logs\letters_act4\letters_sorted_clean_064.html                                                     0.0019979476928710938
- 64. logs\letters_act4\letters_sorted_clean_065.html                                                     0.0010008811950683594
- 65. logs\letters_act4\letters_sorted_clean_066.html                                                     0.0029969215393066406
- 66. logs\letters_act4\letters_sorted_clean_067.html                                                     0.0009989738464355469
- 67. logs\letters_act4\letters_sorted_clean_068.html                                                     0.0
- 68. logs\letters_act4\letters_sorted_clean_069.html                                                     0.001001596450805664
- 69. logs\letters_act4\letters_sorted_clean_070.html                                                     0.0009975433349609375
- 70. logs\letters_act4\letters_sorted_clean_071.html                                                     0.0009989738464355469
- 71. logs\letters_act4\letters_sorted_clean_072.html                                                     0.001003265380859375
- 72. logs\letters_act4\letters_sorted_clean_073.html                                                     0.0009970664978027344
- 73. logs\letters_act4\letters_sorted_clean_074.html                                                     0.0019979476928710938
- 74. logs\letters_act4\letters_sorted_clean_075.html                                                     0.0009992122650146484
- 75. logs\letters_act4\letters_sorted_clean_076.html                                                     0.004998445510864258
- 76. logs\letters_act4\letters_sorted_clean_077.html                                                     0.0010020732879638672
- 77. logs\letters_act4\letters_sorted_clean_078.html                                                     0.0009975433349609375
- 78. logs\letters_act4\letters_sorted_clean_079.html                                                     0.0009999275207519531
- 79. logs\letters_act4\letters_sorted_clean_080.html                                                     0.0010008811950683594
- 80. logs\letters_act4\letters_sorted_clean_081.html                                                     0.0
- 81. logs\letters_act4\letters_sorted_clean_082.html                                                     0.001996755599975586
- 82. logs\letters_act4\letters_sorted_clean_083.html                                                     0.0
- 83. logs\letters_act4\letters_sorted_clean_084.html                                                     0.0
- 84. logs\letters_act4\letters_sorted_clean_085.html                                                     0.0010006427764892578
- 85. logs\letters_act4\letters_sorted_clean_086.html                                                     0.0019953250885009766
- 86. logs\letters_act4\letters_sorted_clean_087.html                                                     0.0009996891021728516
- 87. logs\letters_act4\letters_sorted_clean_088.html                                                     0.003000497817993164
- 88. logs\letters_act4\letters_sorted_clean_089.html                                                     0.00099945068359375
- 89. logs\letters_act4\letters_sorted_clean_090.html                                                     0.0012798309326171875
- 90. logs\letters_act4\letters_sorted_clean_091.html                                                     0.0010221004486083984
- 91. logs\letters_act4\letters_sorted_clean_092.html                                                     0.0009989738464355469
- 92. logs\letters_act4\letters_sorted_clean_093.html                                                     0.0009996891021728516
- 93. logs\letters_act4\letters_sorted_clean_094.html                                                     0.0009794235229492188
- 94. logs\letters_act4\letters_sorted_clean_095.html                                                     0.0010197162628173828
- 95. logs\letters_act4\letters_sorted_clean_096.html                                                     0.0009992122650146484
- 96. logs\letters_act4\letters_sorted_clean_097.html                                                     0.000980377197265625
- 97. logs\letters_act4\letters_sorted_clean_098.html                                                     0.0010182857513427734
- 98. logs\letters_act4\letters_sorted_clean_099.html                                                     0.0010197162628173828
- 99. logs\letters_act4\letters_sorted_clean_100.html                                                     0.0009789466857910156
-100. logs\letters_act4\letters_sorted_clean_101.html                                                     0.003019094467163086
-101. logs\letters_act4\letters_sorted_clean_102.html                                                     0.0009815692901611328
-102. logs\letters_act4\letters_sorted_clean_103.html                                                     0.0010166168212890625
-103. logs\letters_act4\letters_sorted_clean_104.html                                                     0.0009801387786865234
-104. logs\letters_act4\letters_sorted_clean_105.html                                                     0.0009982585906982422
-105. logs\letters_act4\letters_sorted_clean_106.html                                                     0.0009996891021728516
-106. logs\letters_act4\letters_sorted_clean_107.html                                                     0.00099945068359375
-107. logs\letters_act4\letters_sorted_clean_108.html                                                     0.0009987354278564453
-108. logs\letters_act4\letters_sorted_clean_109.html                                                     0.0009996891021728516
-109. logs\letters_act4\letters_sorted_clean_110.html                                                     0.00099945068359375
-110. logs\letters_act4\letters_sorted_clean_111.html                                                     0.0010068416595458984
-111. logs\letters_act4\letters_sorted_clean_112.html                                                     0.0009922981262207031
-112. logs\letters_act4\letters_sorted_clean_113.html                                                     0.001001596450805664
-113. logs\letters_act4\letters_sorted_clean_114.html                                                     0.0010178089141845703
-114. logs\letters_act4\letters_sorted_clean_115.html                                                     0.001981019973754883
-115. logs\letters_act4\letters_sorted_clean_116.html                                                     0.001016855239868164
-116. logs\letters_act4\letters_sorted_clean_117.html                                                     0.0010001659393310547
-117. logs\letters_act4\letters_sorted_clean_118.html                                                     0.0040149688720703125
-118. logs\letters_act4\letters_sorted_clean_119.html                                                     0.0019986629486083984
-119. logs\letters_act4\letters_sorted_clean_120.html                                                     0.002001047134399414
-120. logs\letters_act4\letters_sorted_clean_121.html                                                     0.0009801387786865234
-121. logs\letters_act4\letters_sorted_clean_122.html                                                     0.001018524169921875
-122. logs\letters_act4\letters_sorted_clean_123.html                                                     0.0009975433349609375
-123. logs\letters_act4\letters_sorted_clean_124.html                                                     0.001981019973754883
-124. logs\letters_act4\letters_sorted_clean_125.html                                                     0.001997232437133789
-125. logs\letters_act4\letters_sorted_clean_126.html                                                     0.0019989013671875
-126. logs\letters_act4\letters_sorted_clean_127.html                                                     0.0010004043579101562
-127. logs\letters_act4\letters_sorted_clean_128.html                                                     0.000997781753540039
-128. logs\letters_act4\letters_sorted_clean_129.html                                                     0.0010194778442382812
-129. logs\letters_act4\letters_sorted_clean_130.html                                                     0.0009796619415283203
-130. logs\letters_act4\letters_sorted_clean_131.html                                                     0.0010190010070800781
-131. logs\letters_act4\letters_sorted_clean_132.html                                                     0.0009996891021728516
-132. logs\letters_act4\letters_sorted_clean_133.html                                                     0.0019791126251220703
-133. logs\letters_act4\letters_sorted_clean_134.html                                                     0.0009989738464355469
-134. logs\letters_act4\letters_sorted_clean_135.html                                                     0.0
-135. logs\letters_act4\letters_sorted_clean_136.html                                                     0.0009996891021728516
-136. logs\letters_act4\letters_sorted_clean_137.html                                                     0.00701594352722168
-137. logs\letters_act4\letters_sorted_clean_138.html                                                     0.0009999275207519531
-138. logs\letters_act4\letters_sorted_clean_139.html                                                     0.0009984970092773438
-139. logs\letters_act4\letters_sorted_clean_140.html                                                     0.0009813308715820312
-140. logs\letters_act4\letters_sorted_clean_141.html                                                     0.0029964447021484375
-141. logs\letters_act4\letters_sorted_clean_142.html                                                     0.0
-142. logs\letters_act4\letters_sorted_clean_143.html                                                     0.0009996891021728516
-143. logs\letters_act4\letters_sorted_clean_144.html                                                     0.0010023117065429688
-144. logs\letters_act4\letters_sorted_clean_145.html                                                     0.000997304916381836
-145. logs\letters_act4\letters_sorted_clean_146.html                                                     0.0049970149993896484
-146. logs\letters_act4\letters_sorted_clean_147.html                                                     0.0030002593994140625
-147. logs\letters_act4\letters_sorted_clean_148.html                                                     0.0
-148. logs\letters_act4\letters_sorted_clean_149.html                                                     0.0009989738464355469
-149. logs\letters_act4\letters_sorted_clean_150.html                                                     0.0029981136322021484
-150. logs\letters_act4\letters_sorted_clean_151.html                                                     0.0
-151. logs\letters_act4\letters_sorted_clean_152.html                                                     0.003997325897216797
-152. logs\letters_act4\letters_sorted_clean_153.html                                                     0.0
-153. logs\letters_act4\letters_sorted_clean_154.html                                                     0.0019965171813964844
-154. logs\letters_act4\letters_sorted_clean_155.html                                                     0.0020132064819335938
-155. logs\letters_act4\letters_sorted_clean_156.html                                                     0.0039861202239990234
-156. logs\letters_act4\letters_sorted_clean_157.html                                                     0.0009968280792236328
-157. logs\letters_act4\letters_sorted_clean_158.html                                                     0.00099945068359375
-158. logs\letters_act4\letters_sorted_clean_159.html                                                     0.0019989013671875
-159. logs\letters_act4\letters_sorted_clean_160.html                                                     0.0010008811950683594
-160. logs\letters_act4\letters_sorted_clean_161.html                                                     0.0010187625885009766
-161. logs\letters_act4\letters_sorted_clean_162.html                                                     0.0
-162. logs\letters_act4\letters_sorted_clean_163.html                                                     0.001001596450805664
-163. logs\letters_act4\letters_sorted_clean_164.html                                                     0.000997781753540039
-164. logs\letters_act4\letters_sorted_clean_165.html                                                     0.0010027885437011719
-165. logs\letters_act4\letters_sorted_clean_166.html                                                     0.0019991397857666016
-166. logs\letters_act4\letters_sorted_clean_167.html                                                     0.001001596450805664
-167. logs\letters_act4\letters_sorted_clean_168.html                                                     0.0009984970092773438
-168. logs\letters_act4\letters_sorted_clean_169.html                                                     0.0009992122650146484
-169. logs\letters_act4\letters_sorted_clean_170.html                                                     0.0009987354278564453
-170. logs\letters_act4\letters_sorted_clean_171.html                                                     0.0010182857513427734
-171. logs\letters_act4\letters_sorted_clean_172.html                                                     0.0009992122650146484
-172. logs\letters_act4\letters_sorted_clean_173.html                                                     0.0010008811950683594
-173. logs\letters_act4\letters_sorted_clean_174.html                                                     0.000997781753540039
-174. logs\letters_act4\letters_sorted_clean_175.html                                                     0.0010001659393310547
-175. logs\letters_act4\letters_sorted_clean_176.html                                                     0.0009789466857910156
-176. logs\letters_act4\letters_sorted_clean_177.html                                                     0.0010194778442382812
-177. logs\letters_act4\letters_sorted_clean_178.html                                                     0.0009992122650146484
-178. logs\letters_act4\letters_sorted_clean_179.html                                                     0.005976676940917969
-179. logs\letters_act4\letters_sorted_clean_180.html                                                     0.0020008087158203125
-180. logs\letters_act4\letters_sorted_clean_181.html                                                     0.003996133804321289
-181. logs\letters_act4\letters_sorted_clean_182.html                                                     0.0010004043579101562
-182. logs\letters_act4\letters_sorted_clean_183.html                                                     0.0009982585906982422
-183. logs\letters_act4\letters_sorted_clean_184.html                                                     0.0010192394256591797
-184. logs\letters_act4\letters_sorted_clean_185.html                                                     0.00099945068359375
-185. logs\letters_act4\letters_sorted_clean_186.html                                                     0.0009992122650146484
-186. logs\letters_act4\letters_sorted_clean_187.html                                                     0.0019795894622802734
-187. logs\letters_act4\letters_sorted_clean_188.html                                                     0.0019991397857666016
-188. logs\letters_act4\letters_sorted_clean_189.html                                                     0.0029976367950439453
-189. logs\letters_act4\letters_sorted_clean_190.html                                                     0.0010004043579101562
-190. logs\letters_act4\letters_sorted_clean_191.html                                                     0.0
-191. logs\letters_act4\letters_sorted_clean_192.html                                                     0.0009989738464355469
-192. logs\letters_act4\letters_sorted_clean_193.html                                                     0.0
-193. logs\letters_act4\letters_sorted_clean_194.html                                                     0.0
-194. logs\letters_act4\letters_sorted_clean_195.html                                                     0.0009984970092773438
-195. logs\letters_act4\letters_sorted_clean_196.html                                                     0.0009975433349609375
-196. logs\letters_act4\letters_sorted_clean_197.html                                                     0.0020008087158203125
-197. logs\letters_act4\letters_sorted_clean_198.html                                                     0.002016782760620117
-198. logs\letters_act4\letters_sorted_clean_199.html                                                     0.0019795894622802734
-199. logs\letters_act4\letters_sorted_clean_200.html                                                     0.0010199546813964844
-200. logs\letters_act4\letters_sorted_clean_201.html                                                     0.0009827613830566406
-201. logs\letters_act4\letters_sorted_clean_202.html                                                     0.0009961128234863281
-202. logs\letters_act4\letters_sorted_clean_203.html                                                     0.0009980201721191406
-203. logs\letters_act4\letters_sorted_clean_204.html                                                     0.0009992122650146484
-204. logs\letters_act4\letters_sorted_clean_205.html                                                     0.0010194778442382812
-205. logs\letters_act4\letters_sorted_clean_206.html                                                     0.0009996891021728516
-206. logs\letters_act4\letters_sorted_clean_207.html                                                     0.0019989013671875
-207. logs\letters_act4\letters_sorted_clean_208.html                                                     0.0009808540344238281
-208. logs\letters_act4\letters_sorted_clean_209.html                                                     0.0009975433349609375
-209. logs\letters_act4\letters_sorted_clean_210.html                                                     0.001001119613647461
-210. logs\letters_act4\letters_sorted_clean_211.html                                                     0.000997304916381836
-211. logs\letters_act4\letters_sorted_clean_212.html                                                     0.0010008811950683594
-212. logs\letters_act4\letters_sorted_clean_213.html                                                     0.0010194778442382812
-213. logs\letters_act4\letters_sorted_clean_214.html                                                     0.0
-214. logs\letters_act4\letters_sorted_clean_215.html                                                     0.0009996891021728516
-215. logs\letters_act4\letters_sorted_clean_216.html                                                     0.0
-216. logs\letters_act4\letters_sorted_clean_217.html                                                     0.0010023117065429688
-217. logs\letters_act4\letters_sorted_clean_218.html                                                     0.0010170936584472656
-218. logs\letters_act4\letters_sorted_clean_219.html                                                     0.0009992122650146484
-219. logs\letters_act4\letters_sorted_clean_220.html                                                     0.0009789466857910156
-220. logs\letters_act4\letters_sorted_clean_221.html                                                     0.00099945068359375
-221. logs\letters_act4\letters_sorted_clean_222.html                                                     0.0010197162628173828
-222. logs\letters_act4\letters_sorted_clean_223.html                                                     0.0019905567169189453
-223. logs\letters_act4\letters_sorted_clean_224.html                                                     0.0010085105895996094
-224. logs\letters_act4\letters_sorted_clean_225.html                                                     0.00098419189453125
-225. logs\letters_act4\letters_sorted_clean_226.html                                                     0.0019927024841308594
-226. logs\letters_act4\letters_sorted_clean_227.html                                                     0.0
-227. logs\letters_act4\letters_sorted_clean_228.html                                                     0.002020120620727539
-228. logs\letters_act4\letters_sorted_clean_229.html                                                     0.0009989738464355469
-229. logs\letters_act4\letters_sorted_clean_230.html                                                     0.0009996891021728516
-230. logs\letters_act4\letters_sorted_clean_231.html                                                     0.0009989738464355469
-231. logs\letters_act4\letters_sorted_clean_232.html                                                     0.0009999275207519531
-232. logs\letters_act4\letters_sorted_clean_233.html                                                     0.0019981861114501953
-233. logs\letters_act4\letters_sorted_clean_234.html                                                     0.00299835205078125
-234. logs\letters_act4\letters_sorted_clean_235.html                                                     0.0019989013671875
-235. logs\letters_act4\letters_sorted_clean_236.html                                                     0.001978635787963867
-236. logs\letters_act4\letters_sorted_clean_237.html                                                     0.0020003318786621094
-237. logs\letters_act4\letters_sorted_clean_238.html                                                     0.0029959678649902344
-238. logs\letters_act4\letters_sorted_clean_239.html                                                     0.0010199546813964844
-239. logs\letters_act4\letters_sorted_clean_240.html                                                     0.0487668514251709
-240. logs\letters_act4\letters_sorted_clean_241.html                                                     0.0010027885437011719
-241. logs\letters_act4\letters_sorted_clean_242.html                                                     0.002015352249145508
-242. logs\letters_act4\letters_sorted_clean_243.html                                                     0.003977537155151367
-243. logs\letters_act4\letters_sorted_clean_244.html                                                     0.01271510124206543
-244. logs\letters_act4\letters_sorted_clean_245.html                                                     0.0010197162628173828
-245. logs\letters_act4\letters_sorted_clean_246.html                                                     0.002978801727294922
-246. logs\letters_act4\letters_sorted_clean_247.html                                                     0.002017498016357422
-247. logs\letters_act4\letters_sorted_clean_248.html                                                     0.001978635787963867
-248. logs\letters_act4\letters_sorted_clean_249.html                                                     0.02028203010559082
-249. logs\letters_act4\letters_sorted_clean_250.html                                                     0.0020182132720947266
-250. logs\letters_act4\letters_sorted_clean_251.html                                                     0.0009996891021728516
-251. logs\letters_act4\letters_sorted_clean_252.html                                                     0.002997159957885742
-252. logs\letters_act4\letters_sorted_clean_253.html                                                     0.0010006427764892578
-253. logs\letters_act4\letters_sorted_clean_254.html                                                     0.001977682113647461
-254. logs\letters_act4\letters_sorted_clean_255.html                                                     0.0010194778442382812
-255. logs\letters_act4\letters_sorted_clean_256.html                                                     0.0019989013671875
-256. logs\letters_act4\letters_sorted_clean_257.html                                                     0.001981973648071289
-257. logs\letters_act4\letters_sorted_clean_258.html                                                     0.006290435791015625
-258. logs\letters_act4\letters_sorted_clean_259.html                                                     0.0019991397857666016
-259. logs\letters_act4\letters_sorted_clean_260.html                                                     0.003000974655151367
-260. logs\letters_act4\letters_sorted_clean_261.html                                                     0.0009989738464355469
-261. logs\letters_act4\letters_sorted_clean_262.html                                                     0.00099945068359375
-262. logs\letters_act4\letters_sorted_clean_263.html                                                     0.001999378204345703
-263. logs\letters_act4\letters_sorted_clean_264.html                                                     0.0030024051666259766
-264. logs\letters_act4\letters_sorted_clean_265.html                                                     0.0009927749633789062
-265. logs\letters_act4\letters_sorted_clean_266.html                                                     0.00299835205078125
-266. logs\letters_act4\letters_sorted_clean_267.html                                                     0.001998424530029297
-267. logs\letters_act4\letters_sorted_clean_268.html                                                     0.00099945068359375
-268. logs\letters_act4\letters_sorted_clean_269.html                                                     0.06614255905151367
-269. logs\letters_act4\letters_sorted_clean_270.html                                                     0.001997709274291992
-270. logs\letters_act4\letters_sorted_clean_271.html                                                     0.0009992122650146484
-271. logs\letters_act4\letters_sorted_clean_272.html                                                     0.0039980411529541016
-272. logs\letters_act4\letters_sorted_clean_273.html                                                     0.004000425338745117
-273. logs\letters_act4\letters_sorted_clean_274.html                                                     0.003995656967163086
-274. logs\letters_act4\letters_sorted_clean_275.html                                                     0.001997709274291992
-275. logs\letters_act4\letters_sorted_clean_276.html                                                     0.004996776580810547
-276. logs\letters_act4\letters_sorted_clean_277.html                                                     0.007998228073120117
-277. logs\letters_act4\letters_sorted_clean_278.html                                                     0.004995107650756836
-278. logs\letters_act4\letters_sorted_clean_279.html                                                     0.033774614334106445
-279. logs\letters_act4\letters_sorted_clean_280.html                                                     0.011451244354248047
-280. logs\letters_act4\letters_sorted_clean_281.html                                                     0.02466106414794922
-281. logs\letters_act4\letters_sorted_clean_282.html                                                     0.0049762725830078125
-282. logs\letters_act4\letters_sorted_clean_283.html                                                     0.007706880569458008
-283. logs\letters_act4\letters_sorted_clean_284.html                                                     0.007390022277832031
-284. logs\letters_act4\letters_sorted_clean_285.html                                                     0.006575345993041992
-285. logs\letters_act4\letters_sorted_clean_286.html                                                     0.006108760833740234
-286. logs\letters_act4\letters_sorted_clean_287.html                                                     0.002992391586303711
-287. logs\letters_act4\letters_sorted_clean_288.html                                                     0.0019807815551757812
-288. logs\letters_act4\letters_sorted_clean_289.html                                                     0.01506805419921875
-289. logs\letters_act4\letters_sorted_clean_290.html                                                     0.04913592338562012
-290. logs\letters_act4\letters_sorted_clean_291.html                                                     0.008994817733764648
-291. logs\letters_act4\letters_sorted_clean_292.html                                                     0.029714584350585938
-292. logs\letters_act4\letters_sorted_clean_293.html                                                     0.0010004043579101562
-293. logs\letters_act4\letters_sorted_clean_294.html                                                     0.0010187625885009766
-294. logs\letters_act4\letters_sorted_clean_295.html                                                     0.0019981861114501953
-295. logs\letters_act4\letters_sorted_clean_296.html                                                     0.0009815692901611328
-296. logs\letters_act4\letters_sorted_clean_297.html                                                     0.0009999275207519531
-297. logs\letters_act4\letters_sorted_clean_298.html                                                     0.004996061325073242
-298. logs\letters_act4\letters_sorted_clean_299.html                                                     0.0029976367950439453
-299. logs\letters_act4\letters_sorted_clean_300.html                                                     0.0010178089141845703
-300. logs\letters_act4\letters_sorted_clean_301.html                                                     0.0019991397857666016
-301. logs\letters_act4\letters_sorted_clean_302.html                                                     0.00099945068359375
-302. logs\letters_act4\letters_sorted_clean_303.html                                                     0.003996849060058594
-303. logs\letters_act4\letters_sorted_clean_304.html                                                     0.0049970149993896484
-304. logs\letters_act4\letters_sorted_clean_305.html                                                     0.001001119613647461
-305. logs\letters_act4\letters_sorted_clean_306.html                                                     0.0019788742065429688
-306. logs\letters_act4\letters_sorted_clean_307.html                                                     0.003996133804321289
-307. logs\letters_act4\letters_sorted_clean_308.html                                                     0.003018617630004883
-308. logs\letters_act4\letters_sorted_clean_309.html                                                     0.0039789676666259766
-309. logs\letters_act4\letters_sorted_clean_310.html                                                     0.0029969215393066406
-310. logs\letters_act4\letters_sorted_clean_311.html                                                     0.002001523971557617
-311. logs\letters_act4\letters_sorted_clean_312.html                                                     0.0019965171813964844
-312. logs\letters_act4\letters_sorted_clean_313.html                                                     0.0019989013671875
-313. logs\letters_act4\letters_sorted_clean_314.html                                                     0.0020012855529785156
-314. logs\letters_act4\letters_sorted_clean_315.html                                                     0.004994630813598633
-315. logs\letters_act4\letters_sorted_clean_316.html                                                     0.00299835205078125
-316. logs\letters_act4\letters_sorted_clean_317.html                                                     0.00299835205078125
-317. logs\letters_act4\letters_sorted_clean_318.html                                                     0.002001047134399414
-318. logs\letters_act4\letters_sorted_clean_319.html                                                     0.001996278762817383
-319. logs\letters_act4\letters_sorted_clean_320.html                                                     0.0010030269622802734
-320. logs\letters_act4\letters_sorted_clean_321.html                                                     0.001995086669921875
-321. logs\letters_act4\letters_sorted_clean_322.html                                                     0.002002716064453125
-322. logs\letters_act4\letters_sorted_clean_323.html                                                     0.003995180130004883
-323. logs\letters_act4\letters_sorted_clean_324.html                                                     0.00301361083984375
-324. logs\letters_act4\letters_sorted_clean_325.html                                                     0.00501704216003418
-325. logs\letters_act4\letters_sorted_clean_326.html                                                     0.0029811859130859375
-326. logs\letters_act4\letters_sorted_clean_327.html                                                     0.00099945068359375
-327. logs\letters_act4\letters_sorted_clean_328.html                                                     0.002996683120727539
-328. logs\letters_act4\letters_sorted_clean_329.html                                                     0.0020172595977783203
-329. logs\letters_act4\letters_sorted_clean_330.html                                                     0.0009810924530029297
-330. logs\letters_act4\letters_sorted_clean_331.html                                                     0.00299835205078125
-331. logs\letters_act4\letters_sorted_clean_332.html                                                     0.0010204315185546875
-332. logs\letters_act4\letters_sorted_clean_333.html                                                     0.004996061325073242
-333. logs\letters_act4\letters_sorted_clean_334.html                                                     0.001981496810913086
-334. logs\letters_act4\letters_sorted_clean_335.html                                                     0.0029973983764648438
-335. logs\letters_act4\letters_sorted_clean_336.html                                                     0.00501561164855957
-336. logs\letters_act4\letters_sorted_clean_337.html                                                     0.003979206085205078
-337. logs\letters_act4\letters_sorted_clean_338.html                                                     0.007014274597167969
-338. logs\letters_act4\letters_sorted_clean_339.html                                                     0.0059967041015625
-339. logs\letters_act4\letters_sorted_clean_340.html                                                     0.0059964656829833984
-340. logs\letters_act4\letters_sorted_clean_341.html                                                     0.006977558135986328
-341. logs\letters_act4\letters_sorted_clean_342.html                                                     0.006994485855102539
-342. logs\letters_act4\letters_sorted_clean_343.html                                                     0.0059964656829833984
-343. logs\letters_act4\letters_sorted_clean_344.html                                                     0.005995035171508789
-344. logs\letters_act4\letters_sorted_clean_345.html                                                     0.006996870040893555
-345. logs\letters_act4\letters_sorted_clean_346.html                                                     0.00699305534362793
-346. logs\letters_act4\letters_sorted_clean_347.html                                                     0.0059967041015625
-347. logs\letters_act4\letters_sorted_clean_348.html                                                     0.006998538970947266
-348. logs\letters_act4\letters_sorted_clean_349.html                                                     0.008993387222290039
-349. logs\letters_act4\letters_sorted_clean_350.html                                                     0.0069959163665771484
-350. logs\letters_act4\letters_sorted_clean_351.html                                                     0.007994890213012695
-351. logs\letters_act4\letters_sorted_clean_352.html                                                     0.0049970149993896484
-352. logs\letters_act4\letters_sorted_clean_353.html                                                     0.004998445510864258
-353. logs\letters_act4\letters_sorted_clean_354.html                                                     0.006015300750732422
-354. logs\letters_act4\letters_sorted_clean_355.html                                                     0.006975412368774414
-355. logs\letters_act4\letters_sorted_clean_356.html                                                     0.004018306732177734
-356. logs\letters_act4\letters_sorted_clean_357.html                                                     0.00299835205078125
-357. logs\letters_act4\letters_sorted_clean_358.html                                                     0.005997419357299805
-358. logs\letters_act4\letters_sorted_clean_359.html                                                     0.006996870040893555
-359. logs\letters_act4\letters_sorted_clean_360.html                                                     0.008996248245239258
-360. logs\letters_act4\letters_sorted_clean_361.html                                                     0.009997367858886719
-361. logs\letters_act4\letters_sorted_clean_362.html                                                     0.007992744445800781
-362. logs\letters_act4\letters_sorted_clean_363.html                                                     0.010995149612426758
-363. logs\letters_act4\letters_sorted_clean_364.html                                                     0.007995843887329102
-364. logs\letters_act4\letters_sorted_clean_365.html                                                     0.009992599487304688
-365. logs\letters_act4\letters_sorted_clean_366.html                                                     0.006016731262207031
-366. logs\letters_act4\letters_sorted_clean_367.html                                                     0.006977558135986328
-367. logs\letters_act4\letters_sorted_clean_368.html                                                     0.0059947967529296875
-368. logs\letters_act4\letters_sorted_clean_369.html                                                     0.006997585296630859
-369. logs\letters_act4\letters_sorted_clean_370.html                                                     0.00799417495727539
-370. logs\letters_act4\letters_sorted_clean_371.html                                                     0.0049970149993896484
-371. logs\letters_act4\letters_sorted_clean_372.html                                                     0.007016420364379883
-372. logs\letters_act4\letters_sorted_clean_373.html                                                     0.00697779655456543
-373. logs\letters_act4\letters_sorted_clean_374.html                                                     0.0059947967529296875
-374. logs\letters_act4\letters_sorted_clean_375.html                                                     0.0060155391693115234
-375. logs\letters_act4\letters_sorted_clean_376.html                                                     0.006976127624511719
-376. logs\letters_act4\letters_sorted_clean_377.html                                                     0.007996559143066406
-377. logs\letters_act4\letters_sorted_clean_378.html                                                     0.002998828887939453
-378. logs\letters_act4\letters_sorted_clean_379.html                                                     0.0019991397857666016
-379. logs\letters_act4\letters_sorted_clean_380.html                                                     0.0029990673065185547
-380. logs\letters_act4\letters_sorted_clean_381.html                                                     0.005014181137084961
-381. logs\letters_act4\letters_sorted_clean_382.html                                                     0.003017902374267578
-382. logs\letters_act4\letters_sorted_clean_383.html                                                     0.004980564117431641
-383. logs\letters_act4\letters_sorted_clean_384.html                                                     0.0019969940185546875
-384. logs\letters_act4\letters_sorted_clean_385.html                                                     0.004998445510864258
-385. logs\letters_act4\letters_sorted_clean_386.html                                                     0.0019981861114501953
-386. logs\letters_act4\letters_sorted_clean_387.html                                                     0.0010075569152832031
-387. logs\letters_act4\letters_sorted_clean_388.html                                                     0.0030100345611572266
-388. logs\letters_act4\letters_sorted_clean_389.html                                                     0.0029973983764648438
-389. logs\letters_act4\letters_sorted_clean_390.html                                                     0.0039768218994140625
-390. logs\letters_act4\letters_sorted_clean_391.html                                                     0.00299835205078125
-391. logs\letters_act4\letters_sorted_clean_392.html                                                     0.0029981136322021484
-392. logs\letters_act4\letters_sorted_clean_393.html                                                     0.003998279571533203
-393. logs\letters_act4\letters_sorted_clean_394.html                                                     0.001998424530029297
-394. logs\letters_act4\letters_sorted_clean_395.html                                                     0.0019986629486083984
-395. logs\letters_act4\letters_sorted_clean_396.html                                                     0.0019989013671875
-396. logs\letters_act4\letters_sorted_clean_397.html                                                     0.004017829895019531
-397. logs\letters_act4\letters_sorted_clean_398.html                                                     0.0010180473327636719
-398. logs\letters_act4\letters_sorted_clean_399.html                                                     0.0009818077087402344
-399. logs\letters_act4\letters_sorted_clean_400.html                                                     0.0010004043579101562
-400. logs\letters_act4\letters_sorted_clean_401.html                                                     0.0010073184967041016
-401. logs\letters_act4\letters_sorted_clean_402.html                                                     0.001008749008178711
-402. logs\letters_act4\letters_sorted_clean_403.html                                                     0.0009992122650146484
-403. logs\letters_act4\letters_sorted_clean_404.html                                                     0.0009808540344238281
-404. logs\letters_act4\letters_sorted_clean_405.html                                                     0.001998424530029297
-405. logs\letters_act4\letters_sorted_clean_406.html                                                     0.0
-406. logs\letters_act4\letters_sorted_clean_407.html                                                     0.0010182857513427734
-407. logs\letters_act4\letters_sorted_clean_408.html                                                     0.002979278564453125
-408. logs\letters_act4\letters_sorted_clean_409.html                                                     0.0009982585906982422
-409. logs\letters_act4\letters_sorted_clean_410.html                                                     0.0009999275207519531
-410. logs\letters_act4\letters_sorted_clean_411.html                                                     0.0009999275207519531
-411. logs\letters_act4\letters_sorted_clean_412.html                                                     0.0009987354278564453
-412. logs\letters_act4\letters_sorted_clean_413.html                                                     0.0009996891021728516
-413. logs\letters_act4\letters_sorted_clean_414.html                                                     0.001998424530029297
-414. logs\letters_act4\letters_sorted_clean_415.html                                                     0.0
-415. logs\letters_act4\letters_sorted_clean_416.html                                                     0.0009984970092773438
-416. logs\letters_act4\letters_sorted_clean_417.html                                                     0.00099945068359375
-417. logs\letters_act4\letters_sorted_clean_418.html                                                     0.00099945068359375
-418. logs\letters_act4\letters_sorted_clean_419.html                                                     0.00099945068359375
-419. logs\letters_act4\letters_sorted_clean_420.html                                                     0.002001523971557617
-420. logs\letters_act4\letters_sorted_clean_421.html                                                     0.001996278762817383
-421. logs\letters_act4\letters_sorted_clean_422.html                                                     0.0009992122650146484
-422. logs\letters_act4\letters_sorted_clean_423.html                                                     0.0009996891021728516
-423. logs\letters_act4\letters_sorted_clean_424.html                                                     0.00099945068359375
-424. logs\letters_act4\letters_sorted_clean_425.html                                                     0.0019981861114501953
-425. logs\letters_act4\letters_sorted_clean_426.html                                                     0.00099945068359375
-426. logs\letters_act4\letters_sorted_clean_427.html                                                     0.0019989013671875
-427. logs\letters_act4\letters_sorted_clean_428.html                                                     0.0009996891021728516
-428. logs\letters_act4\letters_sorted_clean_429.html                                                     0.00099945068359375
-429. logs\letters_act4\letters_sorted_clean_430.html                                                     0.0009992122650146484
-430. logs\letters_act4\letters_sorted_clean_431.html                                                     0.0009996891021728516
-431. logs\letters_act4\letters_sorted_clean_432.html                                                     0.0010209083557128906
-432. logs\letters_act4\letters_sorted_clean_433.html                                                     0.01497340202331543
-433. logs\letters_act4\letters_sorted_clean_434.html                                                     0.013011455535888672
-434. logs\letters_act4\letters_sorted_clean_435.html                                                     0.012992620468139648
-435. logs\letters_act4\letters_sorted_clean_436.html                                                     0.009976863861083984
-436. logs\letters_act4\letters_sorted_clean_437.html                                                     0.010991096496582031
-437. logs\letters_act4\letters_sorted_clean_438.html                                                     0.0009999275207519531
-438. logs\letters_act4\letters_sorted_clean_439.html                                                     0.001020193099975586
-439. logs\letters_act4\letters_sorted_clean_440.html                                                     0.0009982585906982422
-440. logs\letters_act4\letters_sorted_clean_441.html                                                     0.0009818077087402344
-441. logs\letters_act4\letters_sorted_clean_442.html                                                     0.0
-442. logs\letters_act4\letters_sorted_clean_443.html                                                     0.0010001659393310547
-443. logs\letters_act4\letters_sorted_clean_444.html                                                     0.0010581016540527344
-444. logs\letters_act4\letters_sorted_clean_445.html                                                     0.0020165443420410156
-445. logs\letters_act4\letters_sorted_clean_446.html                                                     0.0010056495666503906
-446. logs\letters_act4\letters_sorted_clean_447.html                                                     0.0009982585906982422
-447. logs\letters_act4\letters_sorted_clean_448.html                                                     0.0009791851043701172
-448. logs\letters_act4\letters_sorted_clean_449.html                                                     0.001001596450805664
-449. logs\letters_act4\letters_sorted_clean_450.html                                                     0.0010175704956054688
-450. logs\letters_act4\letters_sorted_clean_451.html                                                     0.0009806156158447266
-451. logs\letters_act4\letters_sorted_clean_452.html                                                     0.001001119613647461
-452. logs\letters_act4\letters_sorted_clean_453.html                                                     0.0009982585906982422
-453. logs\letters_act4\letters_sorted_clean_454.html                                                     0.0009996891021728516
-454. logs\letters_act4\letters_sorted_clean_455.html                                                     0.0
-455. logs\letters_act4\letters_sorted_clean_456.html                                                     0.000997304916381836
-456. logs\letters_act4\letters_sorted_clean_457.html                                                     0.0009992122650146484
-457. logs\letters_act4\letters_sorted_clean_458.html                                                     0.0009996891021728516
-458. logs\letters_act4\letters_sorted_clean_459.html                                                     0.002019643783569336
-459. logs\letters_act4\letters_sorted_clean_460.html                                                     0.000980377197265625
-460. logs\letters_act4\letters_sorted_clean_461.html                                                     0.0020029544830322266
-461. logs\letters_act4\letters_sorted_clean_462.html                                                     0.0030126571655273438
-462. logs\letters_act4\letters_sorted_clean_463.html                                                     0.001007080078125
-463. logs\letters_act4\letters_sorted_clean_464.html                                                     0.0009911060333251953
-464. logs\letters_act4\letters_sorted_clean_465.html                                                     0.0009992122650146484
-465. logs\letters_act4\letters_sorted_clean_466.html                                                     0.0009996891021728516
-466. logs\letters_act4\letters_sorted_clean_467.html                                                     0.00099945068359375
-467. logs\letters_act4\letters_sorted_clean_468.html                                                     0.0009989738464355469
-468. logs\letters_act4\letters_sorted_clean_469.html                                                     0.0009999275207519531
-469. logs\letters_act4\letters_sorted_clean_470.html                                                     0.0019989013671875
-470. logs\letters_act4\letters_sorted_clean_471.html                                                     0.0
-471. logs\letters_act4\letters_sorted_clean_472.html                                                     0.0
-472. logs\letters_act4\letters_sorted_clean_473.html                                                     0.0010004043579101562
-473. logs\letters_act4\letters_sorted_clean_474.html                                                     0.0009982585906982422
-474. logs\letters_act4\letters_sorted_clean_475.html                                                     0.0010023117065429688
-475. logs\letters_act4\letters_sorted_clean_476.html                                                     0.001994609832763672
-476. logs\letters_act4\letters_sorted_clean_477.html                                                     0.001001596450805664
-477. logs\letters_act4\letters_sorted_clean_478.html                                                     0.000997304916381836
-478. logs\letters_act4\letters_sorted_clean_479.html                                                     0.0010144710540771484
-479. logs\letters_act4\letters_sorted_clean_480.html                                                     0.0009837150573730469
-480. logs\letters_act4\letters_sorted_clean_481.html                                                     0.0
-481. logs\letters_act4\letters_sorted_clean_482.html                                                     0.0
-482. logs\letters_act4\letters_sorted_clean_483.html                                                     0.0010180473327636719
-483. logs\letters_act4\letters_sorted_clean_484.html                                                     0.00099945068359375
-484. logs\letters_act4\letters_sorted_clean_485.html                                                     0.0009796619415283203
-485. logs\letters_act4\letters_sorted_clean_486.html                                                     0.0010204315185546875
-486. logs\letters_act4\letters_sorted_clean_487.html                                                     0.0019769668579101562
-487. logs\letters_act4\letters_sorted_clean_488.html                                                     0.0
-488. logs\letters_act4\letters_sorted_clean_489.html                                                     0.0009992122650146484
-489. logs\letters_act4\letters_sorted_clean_490.html                                                     0.0009996891021728516
-490. logs\letters_act4\letters_sorted_clean_491.html                                                     0.0009992122650146484
-491. logs\letters_act4\letters_sorted_clean_492.html                                                     0.0019986629486083984
-492. logs\letters_act4\letters_sorted_clean_493.html                                                     0.0
-493. logs\letters_act4\letters_sorted_clean_494.html                                                     0.0009996891021728516
-494. logs\letters_act4\letters_sorted_clean_495.html                                                     0.0009999275207519531
-495. logs\letters_act4\letters_sorted_clean_496.html                                                     0.0012869834899902344
-496. logs\letters_act4\letters_sorted_clean_497.html                                                     0.0010025501251220703
-497. logs\letters_act4\letters_sorted_clean_498.html                                                     0.001997709274291992
-498. logs\letters_act4\letters_sorted_clean_499.html                                                     0.00099945068359375
-499. logs\letters_act4\letters_sorted_clean_500.html                                                     0.00099945068359375
-500. logs\letters_act4\letters_sorted_clean_501.html                                                     0.002001047134399414
-501. logs\letters_act4\letters_sorted_clean_502.html                                                     0.0009980201721191406
-502. logs\letters_act4\letters_sorted_clean_503.html                                                     0.00099945068359375
-503. logs\letters_act4\letters_sorted_clean_hard.html                                                    0.00099945068359375
-504. logs\letters_act4\letters_sorted_clean_medium.html                                                  0.0009996891021728516
-505. logs\letters_act4\letters_sorted_clean_simple.html                                                  0.0009992122650146484
+  1. logs\letters_act4\letters_sorted_clean_002.html                                                     0.009015798568725586
+  2. logs\letters_act4\letters_sorted_clean_003.html                                                     0.007975101470947266
+  3. logs\letters_act4\letters_sorted_clean_004.html                                                     0.005017518997192383
+  4. logs\letters_act4\letters_sorted_clean_005.html                                                     0.006982564926147461
+  5. logs\letters_act4\letters_sorted_clean_006.html                                                     0.0049970149993896484
+  6. logs\letters_act4\letters_sorted_clean_007.html                                                     0.013157367706298828
+  7. logs\letters_act4\letters_sorted_clean_008.html                                                     0.014583349227905273
+  8. logs\letters_act4\letters_sorted_clean_009.html                                                     0.007973194122314453
+  9. logs\letters_act4\letters_sorted_clean_010.html                                                     0.0060176849365234375
+ 10. logs\letters_act4\letters_sorted_clean_011.html                                                     0.011973857879638672
+ 11. logs\letters_act4\letters_sorted_clean_012.html                                                     0.011992216110229492
+ 12. logs\letters_act4\letters_sorted_clean_013.html                                                     0.00799560546875
+ 13. logs\letters_act4\letters_sorted_clean_014.html                                                     0.006996631622314453
+ 14. logs\letters_act4\letters_sorted_clean_015.html                                                     0.008994102478027344
+ 15. logs\letters_act4\letters_sorted_clean_016.html                                                     0.009995698928833008
+ 16. logs\letters_act4\letters_sorted_clean_017.html                                                     0.009992361068725586
+ 17. logs\letters_act4\letters_sorted_clean_018.html                                                     0.008996248245239258
+ 18. logs\letters_act4\letters_sorted_clean_019.html                                                     0.013990402221679688
+ 19. logs\letters_act4\letters_sorted_clean_020.html                                                     0.0099945068359375
+ 20. logs\letters_act4\letters_sorted_clean_021.html                                                     0.007995843887329102
+ 21. logs\letters_act4\letters_sorted_clean_022.html                                                     0.011992692947387695
+ 22. logs\letters_act4\letters_sorted_clean_023.html                                                     0.0069963932037353516
+ 23. logs\letters_act4\letters_sorted_clean_024.html                                                     0.007994651794433594
+ 24. logs\letters_act4\letters_sorted_clean_025.html                                                     0.008995532989501953
+ 25. logs\letters_act4\letters_sorted_clean_026.html                                                     0.017990589141845703
+ 26. logs\letters_act4\letters_sorted_clean_027.html                                                     0.010993242263793945
+ 27. logs\letters_act4\letters_sorted_clean_028.html                                                     0.0069959163665771484
+ 28. logs\letters_act4\letters_sorted_clean_029.html                                                     0.006999969482421875
+ 29. logs\letters_act4\letters_sorted_clean_030.html                                                     0.0069963932037353516
+ 30. logs\letters_act4\letters_sorted_clean_031.html                                                     0.005998849868774414
+ 31. logs\letters_act4\letters_sorted_clean_032.html                                                     0.005995750427246094
+ 32. logs\letters_act4\letters_sorted_clean_033.html                                                     0.005995512008666992
+ 33. logs\letters_act4\letters_sorted_clean_034.html                                                     0.006995677947998047
+ 34. logs\letters_act4\letters_sorted_clean_035.html                                                     0.00499725341796875
+ 35. logs\letters_act4\letters_sorted_clean_036.html                                                     0.004997730255126953
+ 36. logs\letters_act4\letters_sorted_clean_037.html                                                     0.010994195938110352
+ 37. logs\letters_act4\letters_sorted_clean_038.html                                                     0.005995512008666992
+ 38. logs\letters_act4\letters_sorted_clean_039.html                                                     0.0049970149993896484
+ 39. logs\letters_act4\letters_sorted_clean_040.html                                                     0.01856064796447754
+ 40. logs\letters_act4\letters_sorted_clean_041.html                                                     0.02594614028930664
+ 41. logs\letters_act4\letters_sorted_clean_042.html                                                     0.09260296821594238
+ 42. logs\letters_act4\letters_sorted_clean_043.html                                                     0.035202741622924805
+ 43. logs\letters_act4\letters_sorted_clean_044.html                                                     0.014989614486694336
+ 44. logs\letters_act4\letters_sorted_clean_045.html                                                     0.004999876022338867
+ 45. logs\letters_act4\letters_sorted_clean_046.html                                                     0.020487308502197266
+ 46. logs\letters_act4\letters_sorted_clean_047.html                                                     0.007400035858154297
+ 47. logs\letters_act4\letters_sorted_clean_048.html                                                     0.004996776580810547
+ 48. logs\letters_act4\letters_sorted_clean_049.html                                                     0.025687456130981445
+ 49. logs\letters_act4\letters_sorted_clean_050.html                                                     0.006474971771240234
+ 50. logs\letters_act4\letters_sorted_clean_051.html                                                     0.0059964656829833984
+ 51. logs\letters_act4\letters_sorted_clean_052.html                                                     0.008995294570922852
+ 52. logs\letters_act4\letters_sorted_clean_053.html                                                     0.004996061325073242
+ 53. logs\letters_act4\letters_sorted_clean_054.html                                                     0.017092227935791016
+ 54. logs\letters_act4\letters_sorted_clean_055.html                                                     0.0050160884857177734
+ 55. logs\letters_act4\letters_sorted_clean_056.html                                                     0.004978656768798828
+ 56. logs\letters_act4\letters_sorted_clean_057.html                                                     0.004996538162231445
+ 57. logs\letters_act4\letters_sorted_clean_058.html                                                     0.006994724273681641
+ 58. logs\letters_act4\letters_sorted_clean_059.html                                                     0.021065711975097656
+ 59. logs\letters_act4\letters_sorted_clean_060.html                                                     0.02399158477783203
+ 60. logs\letters_act4\letters_sorted_clean_061.html                                                     0.01998424530029297
+ 61. logs\letters_act4\letters_sorted_clean_062.html                                                     0.008999347686767578
+ 62. logs\letters_act4\letters_sorted_clean_063.html                                                     0.017984628677368164
+ 63. logs\letters_act4\letters_sorted_clean_064.html                                                     0.014992237091064453
+ 64. logs\letters_act4\letters_sorted_clean_065.html                                                     0.011992454528808594
+ 65. logs\letters_act4\letters_sorted_clean_066.html                                                     0.01898932456970215
+ 66. logs\letters_act4\letters_sorted_clean_067.html                                                     0.015990495681762695
+ 67. logs\letters_act4\letters_sorted_clean_068.html                                                     0.007996320724487305
+ 68. logs\letters_act4\letters_sorted_clean_069.html                                                     0.020398855209350586
+ 69. logs\letters_act4\letters_sorted_clean_070.html                                                     0.0059964656829833984
+ 70. logs\letters_act4\letters_sorted_clean_071.html                                                     0.005623340606689453
+ 71. logs\letters_act4\letters_sorted_clean_072.html                                                     0.004997730255126953
+ 72. logs\letters_act4\letters_sorted_clean_073.html                                                     0.01925969123840332
+ 73. logs\letters_act4\letters_sorted_clean_074.html                                                     0.0063478946685791016
+ 74. logs\letters_act4\letters_sorted_clean_075.html                                                     0.005746603012084961
+ 75. logs\letters_act4\letters_sorted_clean_076.html                                                     0.017255067825317383
+ 76. logs\letters_act4\letters_sorted_clean_077.html                                                     0.004996061325073242
+ 77. logs\letters_act4\letters_sorted_clean_078.html                                                     0.009828805923461914
+ 78. logs\letters_act4\letters_sorted_clean_079.html                                                     0.02583456039428711
+ 79. logs\letters_act4\letters_sorted_clean_080.html                                                     0.024297714233398438
+ 80. logs\letters_act4\letters_sorted_clean_081.html                                                     0.005317211151123047
+ 81. logs\letters_act4\letters_sorted_clean_082.html                                                     0.007569789886474609
+ 82. logs\letters_act4\letters_sorted_clean_083.html                                                     0.0053784847259521484
+ 83. logs\letters_act4\letters_sorted_clean_084.html                                                     0.008712053298950195
+ 84. logs\letters_act4\letters_sorted_clean_085.html                                                     0.005975961685180664
+ 85. logs\letters_act4\letters_sorted_clean_086.html                                                     0.0059735774993896484
+ 86. logs\letters_act4\letters_sorted_clean_087.html                                                     0.006013631820678711
+ 87. logs\letters_act4\letters_sorted_clean_088.html                                                     0.03403472900390625
+ 88. logs\letters_act4\letters_sorted_clean_089.html                                                     0.0321955680847168
+ 89. logs\letters_act4\letters_sorted_clean_090.html                                                     0.009205102920532227
+ 90. logs\letters_act4\letters_sorted_clean_091.html                                                     0.014014959335327148
+ 91. logs\letters_act4\letters_sorted_clean_092.html                                                     0.009970664978027344
+ 92. logs\letters_act4\letters_sorted_clean_093.html                                                     0.009994029998779297
+ 93. logs\letters_act4\letters_sorted_clean_094.html                                                     0.022034406661987305
+ 94. logs\letters_act4\letters_sorted_clean_095.html                                                     0.02498006820678711
+ 95. logs\letters_act4\letters_sorted_clean_096.html                                                     0.024280309677124023
+ 96. logs\letters_act4\letters_sorted_clean_097.html                                                     0.024916648864746094
+ 97. logs\letters_act4\letters_sorted_clean_098.html                                                     0.00599360466003418
+ 98. logs\letters_act4\letters_sorted_clean_099.html                                                     0.016141414642333984
+ 99. logs\letters_act4\letters_sorted_clean_100.html                                                     0.005602359771728516
+100. logs\letters_act4\letters_sorted_clean_101.html                                                     0.012847900390625
+101. logs\letters_act4\letters_sorted_clean_102.html                                                     0.027387142181396484
+102. logs\letters_act4\letters_sorted_clean_103.html                                                     0.00601649284362793
+103. logs\letters_act4\letters_sorted_clean_104.html                                                     0.04308152198791504
+104. logs\letters_act4\letters_sorted_clean_105.html                                                     0.007995843887329102
+105. logs\letters_act4\letters_sorted_clean_106.html                                                     0.010992765426635742
+106. logs\letters_act4\letters_sorted_clean_107.html                                                     0.006995201110839844
+107. logs\letters_act4\letters_sorted_clean_108.html                                                     0.013992547988891602
+108. logs\letters_act4\letters_sorted_clean_109.html                                                     0.01799178123474121
+109. logs\letters_act4\letters_sorted_clean_110.html                                                     0.009992599487304688
+110. logs\letters_act4\letters_sorted_clean_111.html                                                     0.007996559143066406
+111. logs\letters_act4\letters_sorted_clean_112.html                                                     0.02798175811767578
+112. logs\letters_act4\letters_sorted_clean_113.html                                                     0.0299835205078125
+113. logs\letters_act4\letters_sorted_clean_114.html                                                     0.007995128631591797
+114. logs\letters_act4\letters_sorted_clean_115.html                                                     0.007995128631591797
+115. logs\letters_act4\letters_sorted_clean_116.html                                                     0.01802992820739746
+116. logs\letters_act4\letters_sorted_clean_117.html                                                     0.007680416107177734
+117. logs\letters_act4\letters_sorted_clean_118.html                                                     0.016407251358032227
+118. logs\letters_act4\letters_sorted_clean_119.html                                                     0.029042482376098633
+119. logs\letters_act4\letters_sorted_clean_120.html                                                     0.0048351287841796875
+120. logs\letters_act4\letters_sorted_clean_121.html                                                     0.005997180938720703
+121. logs\letters_act4\letters_sorted_clean_122.html                                                     0.021469831466674805
+122. logs\letters_act4\letters_sorted_clean_123.html                                                     0.0059967041015625
+123. logs\letters_act4\letters_sorted_clean_124.html                                                     0.015515565872192383
+124. logs\letters_act4\letters_sorted_clean_125.html                                                     0.01703786849975586
+125. logs\letters_act4\letters_sorted_clean_126.html                                                     0.018166303634643555
+126. logs\letters_act4\letters_sorted_clean_127.html                                                     0.004978656768798828
+127. logs\letters_act4\letters_sorted_clean_128.html                                                     0.004995584487915039
+128. logs\letters_act4\letters_sorted_clean_129.html                                                     0.004996299743652344
+129. logs\letters_act4\letters_sorted_clean_130.html                                                     0.001999378204345703
+130. logs\letters_act4\letters_sorted_clean_131.html                                                     0.01522684097290039
+131. logs\letters_act4\letters_sorted_clean_132.html                                                     0.020364046096801758
+132. logs\letters_act4\letters_sorted_clean_133.html                                                     0.02938222885131836
+133. logs\letters_act4\letters_sorted_clean_134.html                                                     0.005994558334350586
+134. logs\letters_act4\letters_sorted_clean_135.html                                                     0.014181375503540039
+135. logs\letters_act4\letters_sorted_clean_136.html                                                     0.015099763870239258
+136. logs\letters_act4\letters_sorted_clean_137.html                                                     0.027872085571289062
+137. logs\letters_act4\letters_sorted_clean_138.html                                                     0.020038127899169922
+138. logs\letters_act4\letters_sorted_clean_139.html                                                     0.011993169784545898
+139. logs\letters_act4\letters_sorted_clean_140.html                                                     0.019887208938598633
+140. logs\letters_act4\letters_sorted_clean_141.html                                                     0.011353731155395508
+141. logs\letters_act4\letters_sorted_clean_142.html                                                     0.006997346878051758
+142. logs\letters_act4\letters_sorted_clean_143.html                                                     0.005000591278076172
+143. logs\letters_act4\letters_sorted_clean_144.html                                                     0.01810741424560547
+144. logs\letters_act4\letters_sorted_clean_145.html                                                     0.015589475631713867
+145. logs\letters_act4\letters_sorted_clean_146.html                                                     0.018840789794921875
+146. logs\letters_act4\letters_sorted_clean_147.html                                                     0.014202117919921875
+147. logs\letters_act4\letters_sorted_clean_148.html                                                     0.021344900131225586
+148. logs\letters_act4\letters_sorted_clean_149.html                                                     0.01498103141784668
+149. logs\letters_act4\letters_sorted_clean_150.html                                                     0.02911663055419922
+150. logs\letters_act4\letters_sorted_clean_151.html                                                     0.010013341903686523
+151. logs\letters_act4\letters_sorted_clean_152.html                                                     0.0454561710357666
+152. logs\letters_act4\letters_sorted_clean_153.html                                                     0.00699925422668457
+153. logs\letters_act4\letters_sorted_clean_154.html                                                     0.018022775650024414
+154. logs\letters_act4\letters_sorted_clean_155.html                                                     0.006995439529418945
+155. logs\letters_act4\letters_sorted_clean_156.html                                                     0.014991521835327148
+156. logs\letters_act4\letters_sorted_clean_157.html                                                     0.006998538970947266
+157. logs\letters_act4\letters_sorted_clean_158.html                                                     0.005993843078613281
+158. logs\letters_act4\letters_sorted_clean_159.html                                                     0.014991283416748047
+159. logs\letters_act4\letters_sorted_clean_160.html                                                     0.0159914493560791
+160. logs\letters_act4\letters_sorted_clean_161.html                                                     0.012993574142456055
+161. logs\letters_act4\letters_sorted_clean_162.html                                                     0.008993864059448242
+162. logs\letters_act4\letters_sorted_clean_163.html                                                     0.007994890213012695
+163. logs\letters_act4\letters_sorted_clean_164.html                                                     0.007996082305908203
+164. logs\letters_act4\letters_sorted_clean_165.html                                                     0.00799703598022461
+165. logs\letters_act4\letters_sorted_clean_166.html                                                     0.008992671966552734
+166. logs\letters_act4\letters_sorted_clean_167.html                                                     0.00699615478515625
+167. logs\letters_act4\letters_sorted_clean_168.html                                                     0.015990257263183594
+168. logs\letters_act4\letters_sorted_clean_169.html                                                     0.007996082305908203
+169. logs\letters_act4\letters_sorted_clean_170.html                                                     0.014003992080688477
+170. logs\letters_act4\letters_sorted_clean_171.html                                                     0.02400803565979004
+171. logs\letters_act4\letters_sorted_clean_172.html                                                     0.03757452964782715
+172. logs\letters_act4\letters_sorted_clean_173.html                                                     0.024397611618041992
+173. logs\letters_act4\letters_sorted_clean_174.html                                                     0.013499259948730469
+174. logs\letters_act4\letters_sorted_clean_175.html                                                     0.014036417007446289
+175. logs\letters_act4\letters_sorted_clean_176.html                                                     0.0049974918365478516
+176. logs\letters_act4\letters_sorted_clean_177.html                                                     0.011677742004394531
+177. logs\letters_act4\letters_sorted_clean_178.html                                                     0.006407260894775391
+178. logs\letters_act4\letters_sorted_clean_179.html                                                     0.021895170211791992
+179. logs\letters_act4\letters_sorted_clean_180.html                                                     0.014593124389648438
+180. logs\letters_act4\letters_sorted_clean_181.html                                                     0.06576299667358398
+181. logs\letters_act4\letters_sorted_clean_182.html                                                     0.03098297119140625
+182. logs\letters_act4\letters_sorted_clean_183.html                                                     0.011992216110229492
+183. logs\letters_act4\letters_sorted_clean_184.html                                                     0.007997989654541016
+184. logs\letters_act4\letters_sorted_clean_185.html                                                     0.021006345748901367
+185. logs\letters_act4\letters_sorted_clean_186.html                                                     0.0049953460693359375
+186. logs\letters_act4\letters_sorted_clean_187.html                                                     0.02123403549194336
+187. logs\letters_act4\letters_sorted_clean_188.html                                                     0.005014181137084961
+188. logs\letters_act4\letters_sorted_clean_189.html                                                     0.031809091567993164
+189. logs\letters_act4\letters_sorted_clean_190.html                                                     0.02306532859802246
+190. logs\letters_act4\letters_sorted_clean_191.html                                                     0.004996299743652344
+191. logs\letters_act4\letters_sorted_clean_192.html                                                     0.008012771606445312
+192. logs\letters_act4\letters_sorted_clean_193.html                                                     0.005236625671386719
+193. logs\letters_act4\letters_sorted_clean_194.html                                                     0.017623186111450195
+194. logs\letters_act4\letters_sorted_clean_195.html                                                     0.0069959163665771484
+195. logs\letters_act4\letters_sorted_clean_196.html                                                     0.005174160003662109
+196. logs\letters_act4\letters_sorted_clean_197.html                                                     0.02396392822265625
+197. logs\letters_act4\letters_sorted_clean_198.html                                                     0.0049953460693359375
+198. logs\letters_act4\letters_sorted_clean_199.html                                                     0.0060160160064697266
+199. logs\letters_act4\letters_sorted_clean_200.html                                                     0.00597691535949707
+200. logs\letters_act4\letters_sorted_clean_201.html                                                     0.004881620407104492
+201. logs\letters_act4\letters_sorted_clean_202.html                                                     0.02228999137878418
+202. logs\letters_act4\letters_sorted_clean_203.html                                                     0.02628350257873535
+203. logs\letters_act4\letters_sorted_clean_204.html                                                     0.019967317581176758
+204. logs\letters_act4\letters_sorted_clean_205.html                                                     0.00701451301574707
+205. logs\letters_act4\letters_sorted_clean_206.html                                                     0.0059986114501953125
+206. logs\letters_act4\letters_sorted_clean_207.html                                                     0.03262734413146973
+207. logs\letters_act4\letters_sorted_clean_208.html                                                     0.01636648178100586
+208. logs\letters_act4\letters_sorted_clean_209.html                                                     0.005590200424194336
+209. logs\letters_act4\letters_sorted_clean_210.html                                                     0.005018472671508789
+210. logs\letters_act4\letters_sorted_clean_211.html                                                     0.006517648696899414
+211. logs\letters_act4\letters_sorted_clean_212.html                                                     0.011742830276489258
+212. logs\letters_act4\letters_sorted_clean_213.html                                                     0.009012699127197266
+213. logs\letters_act4\letters_sorted_clean_214.html                                                     0.0069751739501953125
+214. logs\letters_act4\letters_sorted_clean_215.html                                                     0.013992071151733398
+215. logs\letters_act4\letters_sorted_clean_216.html                                                     0.00799560546875
+216. logs\letters_act4\letters_sorted_clean_217.html                                                     0.006996631622314453
+217. logs\letters_act4\letters_sorted_clean_218.html                                                     0.007995843887329102
+218. logs\letters_act4\letters_sorted_clean_219.html                                                     0.011993646621704102
+219. logs\letters_act4\letters_sorted_clean_220.html                                                     0.009993314743041992
+220. logs\letters_act4\letters_sorted_clean_221.html                                                     0.012994527816772461
+221. logs\letters_act4\letters_sorted_clean_222.html                                                     0.01798844337463379
+222. logs\letters_act4\letters_sorted_clean_223.html                                                     0.017988920211791992
+223. logs\letters_act4\letters_sorted_clean_224.html                                                     0.008993864059448242
+224. logs\letters_act4\letters_sorted_clean_225.html                                                     0.008994817733764648
+225. logs\letters_act4\letters_sorted_clean_226.html                                                     0.016991853713989258
+226. logs\letters_act4\letters_sorted_clean_227.html                                                     0.004996061325073242
+227. logs\letters_act4\letters_sorted_clean_228.html                                                     0.005147218704223633
+228. logs\letters_act4\letters_sorted_clean_229.html                                                     0.006703615188598633
+229. logs\letters_act4\letters_sorted_clean_230.html                                                     0.00569462776184082
+230. logs\letters_act4\letters_sorted_clean_231.html                                                     0.028943777084350586
+231. logs\letters_act4\letters_sorted_clean_232.html                                                     0.02139592170715332
+232. logs\letters_act4\letters_sorted_clean_233.html                                                     0.01844000816345215
+233. logs\letters_act4\letters_sorted_clean_234.html                                                     0.02044224739074707
+234. logs\letters_act4\letters_sorted_clean_235.html                                                     0.01825261116027832
+235. logs\letters_act4\letters_sorted_clean_236.html                                                     0.0074193477630615234
+236. logs\letters_act4\letters_sorted_clean_237.html                                                     0.017623424530029297
+237. logs\letters_act4\letters_sorted_clean_238.html                                                     0.005998849868774414
+238. logs\letters_act4\letters_sorted_clean_239.html                                                     0.015473365783691406
+239. logs\letters_act4\letters_sorted_clean_240.html                                                     0.017766475677490234
+240. logs\letters_act4\letters_sorted_clean_241.html                                                     0.012076377868652344
+241. logs\letters_act4\letters_sorted_clean_242.html                                                     0.014979839324951172
+242. logs\letters_act4\letters_sorted_clean_243.html                                                     0.032265663146972656
+243. logs\letters_act4\letters_sorted_clean_244.html                                                     0.017095327377319336
+244. logs\letters_act4\letters_sorted_clean_245.html                                                     0.014367103576660156
+245. logs\letters_act4\letters_sorted_clean_246.html                                                     0.015497922897338867
+246. logs\letters_act4\letters_sorted_clean_247.html                                                     0.019175052642822266
+247. logs\letters_act4\letters_sorted_clean_248.html                                                     0.010870933532714844
+248. logs\letters_act4\letters_sorted_clean_249.html                                                     0.022687196731567383
+249. logs\letters_act4\letters_sorted_clean_250.html                                                     0.019643306732177734
+250. logs\letters_act4\letters_sorted_clean_251.html                                                     0.008814334869384766
+251. logs\letters_act4\letters_sorted_clean_252.html                                                     0.015452861785888672
+252. logs\letters_act4\letters_sorted_clean_253.html                                                     0.006994724273681641
+253. logs\letters_act4\letters_sorted_clean_254.html                                                     0.04637503623962402
+254. logs\letters_act4\letters_sorted_clean_255.html                                                     0.0059888362884521484
+255. logs\letters_act4\letters_sorted_clean_256.html                                                     0.025027990341186523
+256. logs\letters_act4\letters_sorted_clean_257.html                                                     0.014064788818359375
+257. logs\letters_act4\letters_sorted_clean_258.html                                                     0.02701258659362793
+258. logs\letters_act4\letters_sorted_clean_259.html                                                     0.019527196884155273
+259. logs\letters_act4\letters_sorted_clean_260.html                                                     0.020130634307861328
+260. logs\letters_act4\letters_sorted_clean_261.html                                                     0.017006874084472656
+261. logs\letters_act4\letters_sorted_clean_262.html                                                     0.017971277236938477
+262. logs\letters_act4\letters_sorted_clean_263.html                                                     0.02102971076965332
+263. logs\letters_act4\letters_sorted_clean_264.html                                                     0.04505753517150879
+264. logs\letters_act4\letters_sorted_clean_265.html                                                     0.018702268600463867
+265. logs\letters_act4\letters_sorted_clean_266.html                                                     0.023334503173828125
+266. logs\letters_act4\letters_sorted_clean_267.html                                                     0.021842241287231445
+267. logs\letters_act4\letters_sorted_clean_268.html                                                     0.03687858581542969
+268. logs\letters_act4\letters_sorted_clean_269.html                                                     0.03490853309631348
+269. logs\letters_act4\letters_sorted_clean_270.html                                                     0.014468193054199219
+270. logs\letters_act4\letters_sorted_clean_271.html                                                     0.18572354316711426
+271. logs\letters_act4\letters_sorted_clean_272.html                                                     0.03676438331604004
+272. logs\letters_act4\letters_sorted_clean_273.html                                                     0.009066581726074219
+273. logs\letters_act4\letters_sorted_clean_274.html                                                     0.01977252960205078
+274. logs\letters_act4\letters_sorted_clean_275.html                                                     0.025244951248168945
+275. logs\letters_act4\letters_sorted_clean_276.html                                                     0.013978004455566406
+276. logs\letters_act4\letters_sorted_clean_277.html                                                     0.026843547821044922
+277. logs\letters_act4\letters_sorted_clean_278.html                                                     0.03189992904663086
+278. logs\letters_act4\letters_sorted_clean_279.html                                                     0.03538084030151367
+279. logs\letters_act4\letters_sorted_clean_280.html                                                     0.017838001251220703
+280. logs\letters_act4\letters_sorted_clean_281.html                                                     0.019805192947387695
+281. logs\letters_act4\letters_sorted_clean_282.html                                                     0.024988412857055664
+282. logs\letters_act4\letters_sorted_clean_283.html                                                     0.019240856170654297
+283. logs\letters_act4\letters_sorted_clean_284.html                                                     0.017846107482910156
+284. logs\letters_act4\letters_sorted_clean_285.html                                                     0.023116111755371094
+285. logs\letters_act4\letters_sorted_clean_286.html                                                     0.020859241485595703
+286. logs\letters_act4\letters_sorted_clean_287.html                                                     0.013215065002441406
+287. logs\letters_act4\letters_sorted_clean_288.html                                                     0.01596546173095703
+288. logs\letters_act4\letters_sorted_clean_289.html                                                     0.01684284210205078
+289. logs\letters_act4\letters_sorted_clean_290.html                                                     0.0075397491455078125
+290. logs\letters_act4\letters_sorted_clean_291.html                                                     0.014683961868286133
+291. logs\letters_act4\letters_sorted_clean_292.html                                                     0.008196115493774414
+292. logs\letters_act4\letters_sorted_clean_293.html                                                     0.014296531677246094
+293. logs\letters_act4\letters_sorted_clean_294.html                                                     0.006669044494628906
+294. logs\letters_act4\letters_sorted_clean_295.html                                                     0.021806716918945312
+295. logs\letters_act4\letters_sorted_clean_296.html                                                     0.017083406448364258
+296. logs\letters_act4\letters_sorted_clean_297.html                                                     0.023331642150878906
+297. logs\letters_act4\letters_sorted_clean_298.html                                                     0.014186620712280273
+298. logs\letters_act4\letters_sorted_clean_299.html                                                     0.019440889358520508
+299. logs\letters_act4\letters_sorted_clean_300.html                                                     0.018542051315307617
+300. logs\letters_act4\letters_sorted_clean_301.html                                                     0.008994817733764648
+301. logs\letters_act4\letters_sorted_clean_302.html                                                     0.007994890213012695
+302. logs\letters_act4\letters_sorted_clean_303.html                                                     0.020465850830078125
+303. logs\letters_act4\letters_sorted_clean_304.html                                                     0.014692544937133789
+304. logs\letters_act4\letters_sorted_clean_305.html                                                     0.01735401153564453
+305. logs\letters_act4\letters_sorted_clean_306.html                                                     0.0269010066986084
+306. logs\letters_act4\letters_sorted_clean_307.html                                                     0.033709049224853516
+307. logs\letters_act4\letters_sorted_clean_308.html                                                     0.042597055435180664
+308. logs\letters_act4\letters_sorted_clean_309.html                                                     0.0258636474609375
+309. logs\letters_act4\letters_sorted_clean_310.html                                                     0.024079322814941406
+310. logs\letters_act4\letters_sorted_clean_311.html                                                     0.019036293029785156
+311. logs\letters_act4\letters_sorted_clean_312.html                                                     0.019041776657104492
+312. logs\letters_act4\letters_sorted_clean_313.html                                                     0.02879500389099121
+313. logs\letters_act4\letters_sorted_clean_314.html                                                     0.018371105194091797
+314. logs\letters_act4\letters_sorted_clean_315.html                                                     0.03570246696472168
+315. logs\letters_act4\letters_sorted_clean_316.html                                                     0.01700901985168457
+316. logs\letters_act4\letters_sorted_clean_317.html                                                     0.015596866607666016
+317. logs\letters_act4\letters_sorted_clean_318.html                                                     0.05422472953796387
+318. logs\letters_act4\letters_sorted_clean_319.html                                                     0.02613377571105957
+319. logs\letters_act4\letters_sorted_clean_320.html                                                     0.02102208137512207
+320. logs\letters_act4\letters_sorted_clean_321.html                                                     0.02406930923461914
+321. logs\letters_act4\letters_sorted_clean_322.html                                                     0.017900705337524414
+322. logs\letters_act4\letters_sorted_clean_323.html                                                     0.027950763702392578
+323. logs\letters_act4\letters_sorted_clean_324.html                                                     0.02527475357055664
+324. logs\letters_act4\letters_sorted_clean_325.html                                                     0.029048919677734375
+325. logs\letters_act4\letters_sorted_clean_326.html                                                     0.029523372650146484
+326. logs\letters_act4\letters_sorted_clean_327.html                                                     0.010387659072875977
+327. logs\letters_act4\letters_sorted_clean_328.html                                                     0.023438215255737305
+328. logs\letters_act4\letters_sorted_clean_329.html                                                     0.028248310089111328
+329. logs\letters_act4\letters_sorted_clean_330.html                                                     0.01060342788696289
+330. logs\letters_act4\letters_sorted_clean_331.html                                                     0.020548105239868164
+331. logs\letters_act4\letters_sorted_clean_332.html                                                     0.02486896514892578
+332. logs\letters_act4\letters_sorted_clean_333.html                                                     0.039838314056396484
+333. logs\letters_act4\letters_sorted_clean_334.html                                                     0.019540071487426758
+334. logs\letters_act4\letters_sorted_clean_335.html                                                     0.02781367301940918
+335. logs\letters_act4\letters_sorted_clean_336.html                                                     0.04516959190368652
+336. logs\letters_act4\letters_sorted_clean_337.html                                                     0.06324172019958496
+337. logs\letters_act4\letters_sorted_clean_338.html                                                     0.03497767448425293
+338. logs\letters_act4\letters_sorted_clean_339.html                                                     0.027982711791992188
+339. logs\letters_act4\letters_sorted_clean_340.html                                                     0.04022836685180664
+340. logs\letters_act4\letters_sorted_clean_341.html                                                     0.024201154708862305
+341. logs\letters_act4\letters_sorted_clean_342.html                                                     0.020723581314086914
+342. logs\letters_act4\letters_sorted_clean_343.html                                                     0.009998559951782227
+343. logs\letters_act4\letters_sorted_clean_344.html                                                     0.01400899887084961
+344. logs\letters_act4\letters_sorted_clean_345.html                                                     0.022324800491333008
+345. logs\letters_act4\letters_sorted_clean_346.html                                                     0.05335688591003418
+346. logs\letters_act4\letters_sorted_clean_347.html                                                     0.026268720626831055
+347. logs\letters_act4\letters_sorted_clean_348.html                                                     0.022317886352539062
+348. logs\letters_act4\letters_sorted_clean_349.html                                                     0.030002593994140625
+349. logs\letters_act4\letters_sorted_clean_350.html                                                     0.032172203063964844
+350. logs\letters_act4\letters_sorted_clean_351.html                                                     0.01998758316040039
+351. logs\letters_act4\letters_sorted_clean_352.html                                                     0.028825759887695312
+352. logs\letters_act4\letters_sorted_clean_353.html                                                     0.027375459671020508
+353. logs\letters_act4\letters_sorted_clean_354.html                                                     0.020743370056152344
+354. logs\letters_act4\letters_sorted_clean_355.html                                                     0.017007827758789062
+355. logs\letters_act4\letters_sorted_clean_356.html                                                     0.01474905014038086
+356. logs\letters_act4\letters_sorted_clean_357.html                                                     0.015818357467651367
+357. logs\letters_act4\letters_sorted_clean_358.html                                                     0.02351665496826172
+358. logs\letters_act4\letters_sorted_clean_359.html                                                     0.013972043991088867
+359. logs\letters_act4\letters_sorted_clean_360.html                                                     0.01982879638671875
+360. logs\letters_act4\letters_sorted_clean_361.html                                                     0.01903057098388672
+361. logs\letters_act4\letters_sorted_clean_362.html                                                     0.015968799591064453
+362. logs\letters_act4\letters_sorted_clean_363.html                                                     0.01099395751953125
+363. logs\letters_act4\letters_sorted_clean_364.html                                                     0.015992164611816406
+364. logs\letters_act4\letters_sorted_clean_365.html                                                     0.02614116668701172
+365. logs\letters_act4\letters_sorted_clean_366.html                                                     0.0199892520904541
+366. logs\letters_act4\letters_sorted_clean_367.html                                                     0.00999593734741211
+367. logs\letters_act4\letters_sorted_clean_368.html                                                     0.027782917022705078
+368. logs\letters_act4\letters_sorted_clean_369.html                                                     0.0139923095703125
+369. logs\letters_act4\letters_sorted_clean_370.html                                                     0.031093358993530273
+370. logs\letters_act4\letters_sorted_clean_371.html                                                     0.0180509090423584
+371. logs\letters_act4\letters_sorted_clean_372.html                                                     0.02297186851501465
+372. logs\letters_act4\letters_sorted_clean_373.html                                                     0.04746246337890625
+373. logs\letters_act4\letters_sorted_clean_374.html                                                     0.02593994140625
+374. logs\letters_act4\letters_sorted_clean_375.html                                                     0.04592394828796387
+375. logs\letters_act4\letters_sorted_clean_376.html                                                     0.02799844741821289
+376. logs\letters_act4\letters_sorted_clean_377.html                                                     0.04095149040222168
+377. logs\letters_act4\letters_sorted_clean_378.html                                                     0.0258638858795166
+378. logs\letters_act4\letters_sorted_clean_379.html                                                     0.0646059513092041
+379. logs\letters_act4\letters_sorted_clean_380.html                                                     0.07170438766479492
+380. logs\letters_act4\letters_sorted_clean_381.html                                                     0.02002573013305664
+381. logs\letters_act4\letters_sorted_clean_382.html                                                     0.023243188858032227
+382. logs\letters_act4\letters_sorted_clean_383.html                                                     0.009994029998779297
+383. logs\letters_act4\letters_sorted_clean_384.html                                                     0.02064657211303711
+384. logs\letters_act4\letters_sorted_clean_385.html                                                     0.039121150970458984
+385. logs\letters_act4\letters_sorted_clean_386.html                                                     0.012991189956665039
+386. logs\letters_act4\letters_sorted_clean_387.html                                                     0.02817702293395996
+387. logs\letters_act4\letters_sorted_clean_388.html                                                     0.029347896575927734
+388. logs\letters_act4\letters_sorted_clean_389.html                                                     0.06608843803405762
+389. logs\letters_act4\letters_sorted_clean_390.html                                                     0.04530620574951172
+390. logs\letters_act4\letters_sorted_clean_391.html                                                     0.013260364532470703
+391. logs\letters_act4\letters_sorted_clean_392.html                                                     0.0139923095703125
+392. logs\letters_act4\letters_sorted_clean_393.html                                                     0.011991739273071289
+393. logs\letters_act4\letters_sorted_clean_394.html                                                     0.03645181655883789
+394. logs\letters_act4\letters_sorted_clean_395.html                                                     0.029152393341064453
+395. logs\letters_act4\letters_sorted_clean_396.html                                                     0.026418685913085938
+396. logs\letters_act4\letters_sorted_clean_397.html                                                     0.02316737174987793
+397. logs\letters_act4\letters_sorted_clean_398.html                                                     0.006510019302368164
+398. logs\letters_act4\letters_sorted_clean_399.html                                                     0.01946234703063965
+399. logs\letters_act4\letters_sorted_clean_400.html                                                     0.025225400924682617
+400. logs\letters_act4\letters_sorted_clean_401.html                                                     0.0059964656829833984
+401. logs\letters_act4\letters_sorted_clean_402.html                                                     0.02028822898864746
+402. logs\letters_act4\letters_sorted_clean_403.html                                                     0.005736827850341797
+403. logs\letters_act4\letters_sorted_clean_404.html                                                     0.004977226257324219
+404. logs\letters_act4\letters_sorted_clean_405.html                                                     0.02293872833251953
+405. logs\letters_act4\letters_sorted_clean_406.html                                                     0.024750232696533203
+406. logs\letters_act4\letters_sorted_clean_407.html                                                     0.025202035903930664
+407. logs\letters_act4\letters_sorted_clean_408.html                                                     0.03149580955505371
+408. logs\letters_act4\letters_sorted_clean_409.html                                                     0.022090673446655273
+409. logs\letters_act4\letters_sorted_clean_410.html                                                     0.0059812068939208984
+410. logs\letters_act4\letters_sorted_clean_411.html                                                     0.01461172103881836
+411. logs\letters_act4\letters_sorted_clean_412.html                                                     0.006013154983520508
+412. logs\letters_act4\letters_sorted_clean_413.html                                                     0.01659083366394043
+413. logs\letters_act4\letters_sorted_clean_414.html                                                     0.01517629623413086
+414. logs\letters_act4\letters_sorted_clean_415.html                                                     0.006405830383300781
+415. logs\letters_act4\letters_sorted_clean_416.html                                                     0.007719993591308594
+416. logs\letters_act4\letters_sorted_clean_417.html                                                     0.004853963851928711
+417. logs\letters_act4\letters_sorted_clean_418.html                                                     0.0059967041015625
+418. logs\letters_act4\letters_sorted_clean_419.html                                                     0.00638127326965332
+419. logs\letters_act4\letters_sorted_clean_420.html                                                     0.002482175827026367
+420. logs\letters_act4\letters_sorted_clean_421.html                                                     0.0059969425201416016
+421. logs\letters_act4\letters_sorted_clean_422.html                                                     0.005995273590087891
+422. logs\letters_act4\letters_sorted_clean_423.html                                                     0.006012916564941406
+423. logs\letters_act4\letters_sorted_clean_424.html                                                     0.014035701751708984
+424. logs\letters_act4\letters_sorted_clean_425.html                                                     0.005997896194458008
+425. logs\letters_act4\letters_sorted_clean_426.html                                                     0.012992620468139648
+426. logs\letters_act4\letters_sorted_clean_427.html                                                     0.014261245727539062
+427. logs\letters_act4\letters_sorted_clean_428.html                                                     0.006018161773681641
+428. logs\letters_act4\letters_sorted_clean_429.html                                                     0.008746147155761719
+429. logs\letters_act4\letters_sorted_clean_430.html                                                     0.00899505615234375
+430. logs\letters_act4\letters_sorted_clean_431.html                                                     0.007996797561645508
+431. logs\letters_act4\letters_sorted_clean_432.html                                                     0.007996797561645508
+432. logs\letters_act4\letters_sorted_clean_433.html                                                     0.039974212646484375
+433. logs\letters_act4\letters_sorted_clean_434.html                                                     0.02398848533630371
+434. logs\letters_act4\letters_sorted_clean_435.html                                                     0.03515958786010742
+435. logs\letters_act4\letters_sorted_clean_436.html                                                     0.028001785278320312
+436. logs\letters_act4\letters_sorted_clean_437.html                                                     0.042038679122924805
+437. logs\letters_act4\letters_sorted_clean_438.html                                                     0.005995988845825195
+438. logs\letters_act4\letters_sorted_clean_439.html                                                     0.004978656768798828
+439. logs\letters_act4\letters_sorted_clean_440.html                                                     0.005001068115234375
+440. logs\letters_act4\letters_sorted_clean_441.html                                                     0.00699162483215332
+441. logs\letters_act4\letters_sorted_clean_442.html                                                     0.004999399185180664
+442. logs\letters_act4\letters_sorted_clean_443.html                                                     0.019626855850219727
+443. logs\letters_act4\letters_sorted_clean_444.html                                                     0.004996061325073242
+444. logs\letters_act4\letters_sorted_clean_445.html                                                     0.014779329299926758
+445. logs\letters_act4\letters_sorted_clean_446.html                                                     0.03781580924987793
+446. logs\letters_act4\letters_sorted_clean_447.html                                                     0.006994485855102539
+447. logs\letters_act4\letters_sorted_clean_448.html                                                     0.005999326705932617
+448. logs\letters_act4\letters_sorted_clean_449.html                                                     0.017464876174926758
+449. logs\letters_act4\letters_sorted_clean_450.html                                                     0.005105495452880859
+450. logs\letters_act4\letters_sorted_clean_451.html                                                     0.03464317321777344
+451. logs\letters_act4\letters_sorted_clean_452.html                                                     0.023627758026123047
+452. logs\letters_act4\letters_sorted_clean_453.html                                                     0.009249448776245117
+453. logs\letters_act4\letters_sorted_clean_454.html                                                     0.12695837020874023
+454. logs\letters_act4\letters_sorted_clean_455.html                                                     0.008994579315185547
+455. logs\letters_act4\letters_sorted_clean_456.html                                                     0.026395559310913086
+456. logs\letters_act4\letters_sorted_clean_457.html                                                     0.01199793815612793
+457. logs\letters_act4\letters_sorted_clean_458.html                                                     0.03576493263244629
+458. logs\letters_act4\letters_sorted_clean_459.html                                                     0.04480123519897461
+459. logs\letters_act4\letters_sorted_clean_460.html                                                     0.06804180145263672
+460. logs\letters_act4\letters_sorted_clean_461.html                                                     0.021906375885009766
+461. logs\letters_act4\letters_sorted_clean_462.html                                                     0.03413891792297363
+462. logs\letters_act4\letters_sorted_clean_463.html                                                     0.011761188507080078
+463. logs\letters_act4\letters_sorted_clean_464.html                                                     0.011701107025146484
+464. logs\letters_act4\letters_sorted_clean_465.html                                                     0.019520282745361328
+465. logs\letters_act4\letters_sorted_clean_466.html                                                     0.011303424835205078
+466. logs\letters_act4\letters_sorted_clean_467.html                                                     0.010015010833740234
+467. logs\letters_act4\letters_sorted_clean_468.html                                                     0.007973194122314453
+468. logs\letters_act4\letters_sorted_clean_469.html                                                     0.005932331085205078
+469. logs\letters_act4\letters_sorted_clean_470.html                                                     0.004998683929443359
+470. logs\letters_act4\letters_sorted_clean_471.html                                                     0.0054628849029541016
+471. logs\letters_act4\letters_sorted_clean_472.html                                                     0.023721933364868164
+472. logs\letters_act4\letters_sorted_clean_473.html                                                     0.0060002803802490234
+473. logs\letters_act4\letters_sorted_clean_474.html                                                     0.025011777877807617
+474. logs\letters_act4\letters_sorted_clean_475.html                                                     0.08731412887573242
+475. logs\letters_act4\letters_sorted_clean_476.html                                                     0.01502370834350586
+476. logs\letters_act4\letters_sorted_clean_477.html                                                     0.019028425216674805
+477. logs\letters_act4\letters_sorted_clean_478.html                                                     0.007712125778198242
+478. logs\letters_act4\letters_sorted_clean_479.html                                                     0.005995273590087891
+479. logs\letters_act4\letters_sorted_clean_480.html                                                     0.007997512817382812
+480. logs\letters_act4\letters_sorted_clean_481.html                                                     0.005285024642944336
+481. logs\letters_act4\letters_sorted_clean_482.html                                                     0.022749662399291992
+482. logs\letters_act4\letters_sorted_clean_483.html                                                     0.005621433258056641
+483. logs\letters_act4\letters_sorted_clean_484.html                                                     0.005995273590087891
+484. logs\letters_act4\letters_sorted_clean_485.html                                                     0.004999637603759766
+485. logs\letters_act4\letters_sorted_clean_486.html                                                     0.005994558334350586
+486. logs\letters_act4\letters_sorted_clean_487.html                                                     0.006135463714599609
+487. logs\letters_act4\letters_sorted_clean_488.html                                                     0.004019737243652344
+488. logs\letters_act4\letters_sorted_clean_489.html                                                     0.004996299743652344
+489. logs\letters_act4\letters_sorted_clean_490.html                                                     0.005475759506225586
+490. logs\letters_act4\letters_sorted_clean_491.html                                                     0.00499725341796875
+491. logs\letters_act4\letters_sorted_clean_492.html                                                     0.00699615478515625
+492. logs\letters_act4\letters_sorted_clean_493.html                                                     0.00499725341796875
+493. logs\letters_act4\letters_sorted_clean_494.html                                                     0.018808603286743164
+494. logs\letters_act4\letters_sorted_clean_495.html                                                     0.005121707916259766
+495. logs\letters_act4\letters_sorted_clean_496.html                                                     0.004976749420166016
+496. logs\letters_act4\letters_sorted_clean_497.html                                                     0.004998445510864258
+497. logs\letters_act4\letters_sorted_clean_498.html                                                     0.02331829071044922
+498. logs\letters_act4\letters_sorted_clean_499.html                                                     0.005016803741455078
+499. logs\letters_act4\letters_sorted_clean_500.html                                                     0.006274700164794922
+500. logs\letters_act4\letters_sorted_clean_501.html                                                     0.006139278411865234
+501. logs\letters_act4\letters_sorted_clean_502.html                                                     0.005995988845825195
+502. logs\letters_act4\letters_sorted_clean_503.html                                                     0.0055789947509765625
+503. logs\letters_act4\letters_sorted_clean_hard.html                                                    0.011140823364257812
+504. logs\letters_act4\letters_sorted_clean_medium.html                                                  0.0049953460693359375
+505. logs\letters_act4\letters_sorted_clean_simple.html                                                  0.010602235794067383
 
-Tiempo total de ejecucion (encontrar ocurrencias): 1.8667471408843994
+Tiempo total de ejecucion (encontrar ocurrencias): 8.986786842346191
 
-Tiempo que tomo generar el diccionario y posting file: 14.684328317642212
+Tiempo que tomo generar el diccionario y posting file: 10.267327308654785
 
-Tiempo final del programa: 91.88086748123169 segundos.
+Tiempo final del programa: 19.32055139541626 segundos.
