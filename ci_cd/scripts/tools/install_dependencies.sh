@@ -8,3 +8,4 @@ if ! [ -x "$(command -v pytest)" ]; then
 fi
 
 python -m pip install PyPDF2
+python -m pip install beautifulsoup4
