@@ -4,6 +4,7 @@ import sys
 import time
 import argparse
 from pathlib import Path
+import src.utils.helper as helper
 
 def open_file(file: str) -> float:
     """ Function to open/close files and check execution time.
@@ -109,7 +110,7 @@ def execute_open_file(filepaths: list, output_file: str) -> None:
             None.
     """
     start_time = time.time()
-    print(' Ejecutando: ABRIR ARCHIVOS '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ABRIR ARCHIVOS ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: Abrir y cerrar archivos.\n')
@@ -136,7 +137,7 @@ def execute_remove_tags(filepaths: list, output_file: str, logs_path: str) -> No
             None.
     """
     start_time = time.time()
-    print(' Ejecutando: REMOVER ETIQUETAS HTML '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: REMOVER ETIQUETAS HTML ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: remover etiquetas HTML.\n')
@@ -164,7 +165,7 @@ def execute_sort_words(filepaths: list, output_file: str, logs_path: str, clean_
             None.
     """
     start_time = time.time()
-    print(' Ejecutando: ORDENAR PALABRAS EN ARCHIVO '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ORDENAR PALABRAS EN ARCHIVO ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: ordenar palabras de un archivo.\n')
@@ -330,8 +331,8 @@ def present_working_exec_mode(parser: argparse.Namespace, tests_to_execute: list
     """
     tests_names = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
                     '3. Ordenar palabras de un archivo.']
-    print(' VERIFICADOR DE ARCHIVOS '.center(100, '*'))
-    print(' Modo de ejecucion '.center(100, '*'))
+    helper.format_msg_str(' VERIFICADOR DE ARCHIVOS ')
+    helper.format_msg_str(' Modo de ejecucion ')
     print(f'> Directorio/archivo a utilizar: {parser.root}')
     print(f'> Extension de archivos a utilizar: {parser.file_type}')
     print('> Tests a ejecutar:')

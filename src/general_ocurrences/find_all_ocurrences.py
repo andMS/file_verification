@@ -17,7 +17,7 @@ def execute_find_all_ocurrences(filepaths: list, output_file: str, output_dir: s
             None.
     """
     general = []
-    print(' Ejecutando: ACT 6. ENCONTRAR TODAS LAS OCURRENCIAS '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 6. ENCONTRAR TODAS LAS OCURRENCIAS ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             print('Encontrar ocurrencias por orden alfabetico')

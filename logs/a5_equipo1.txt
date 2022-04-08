@@ -1,4 +1,4 @@
---> Prueba: encontrar numero de ocurrencias en un archivo (orden alfabetico)
+--> Encontrar numero de ocurrencias en un archivo (alfabetico):
 
 a: 8
 about: 1
@@ -43,9 +43,9 @@ designed: 2
 dime: 1
 disclaimeri: 1
 dr: 1
+e: 1
 each: 2
 edge: 3
-elephants: 1
 english: 1
 faces: 1
 facing: 1
@@ -79,8 +79,7 @@ in: 8
 information: 1
 interesting: 1
 is: 10
-it: 3
-itsentences: 1
+it: 4
 jgauchgmailcom: 1
 joined: 1
 just: 1
@@ -88,11 +87,11 @@ koanhead: 1
 larry: 1
 last: 1
 left: 2
+lephants: 1
 licensing: 1
 like: 1
 links: 1
 live: 1
-lt: 1
 made: 1
 march: 2
 maybe: 1
@@ -150,7 +149,8 @@ run: 1
 runs: 1
 see: 1
 send: 1
-sgauchuarkedu: 1
+sentences: 1
+sgauch: 1
 shipping: 2
 simple: 1
 small: 1
@@ -168,6 +168,7 @@ these: 1
 this: 5
 to: 7
 tricky: 1
+uarkedu: 1
 until: 1
 upall: 1
 very: 1
@@ -186,9 +187,9 @@ x: 1
 you: 4
 your: 2
 
-Tiempo total de ejecucion: 0.020493507385253906
+Tiempo total de ejecucion: 0.0253298282623291
 
---> Prueba: encontrar numero de ocurrencias en un archivo (orden de repeticion)
+--> Encontrar numero de ocurrencias en un archivo (repeticion)
 
 the: 20
 is: 10
@@ -205,6 +206,7 @@ my: 4
 you: 4
 text: 4
 has: 4
+it: 4
 some: 4
 and: 3
 edge: 3
@@ -213,7 +215,6 @@ i: 3
 if: 3
 page: 3
 are: 3
-it: 3
 test: 3
 any: 2
 be: 2
@@ -339,16 +340,15 @@ cout: 1
 csce: 1
 department: 1
 dime: 1
-elephants: 1
+e: 1
 gold: 1
 grams: 1
 h: 1
 httpwwwcsceuarkedusgauch: 1
-itsentences: 1
 jgauchgmailcom: 1
 joined: 1
+lephants: 1
 live: 1
-lt: 1
 maybe: 1
 nickel: 1
 number: 1
@@ -357,11 +357,13 @@ people: 1
 punctuation: 1
 quarter: 1
 ring: 1
-sgauchuarkedu: 1
+sentences: 1
+sgauch: 1
 small: 1
 then: 1
 there: 1
 tricky: 1
+uarkedu: 1
 were: 1
 x: 1
 contents: 1
@@ -376,6 +378,6 @@ simple: 1
 that: 1
 very: 1
 
-Tiempo total de ejecucion: 0.04785585403442383
+Tiempo total de ejecucion: 0.004998445510864258
 
-Tiempo final del programa: 0.1253035068511963 segundos.
+Tiempo final del programa: 91.87986755371094 segundos.

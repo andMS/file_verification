@@ -39,7 +39,7 @@ def execute_open_file(filepaths: list, output_file: str) -> None:
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: ACT 1. ABRIR ARCHIVOS '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 1. ABRIR ARCHIVOS ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: Abrir y cerrar archivos.\n')

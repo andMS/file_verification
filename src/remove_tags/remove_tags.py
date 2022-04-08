@@ -4,6 +4,7 @@ import sys
 import time
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 from src.utils import helper
+from bs4 import BeautifulSoup
 
 def remove_html_tags(file: str, output_file: str) -> float:
     """ Function to remove HTML tags of a file.
@@ -18,18 +19,26 @@ def remove_html_tags(file: str, output_file: str) -> float:
     clean_lines = []
     if os.path.exists(file):
         try:
-            with open(file, 'r', encoding='utf-8', errors='ignore') as html_file:
-                lines = html_file.readlines()
-                for line in lines:
-                    clean_txt = re.sub(clean_re, '', line).strip()
-                    if clean_txt != '':
-                        clean_lines.append(clean_txt)
+             with open(file, 'r', encoding='utf-8', errors='ignore') as html_file:
+                soup = BeautifulSoup(html_file, 'html.parser')
+                for script in soup(['script', 'style']):
+                    script.extract()
+                clean_lines = soup.get_text(separator=' ')
+                lines = (line.strip() for line in clean_lines.splitlines())
+                chunks = (phrase.strip() for line in lines for phrase in line.split(' '))
+                clean_lines = '\n'.join(chunk for chunk in chunks if chunk)
+                # lines = html_file.readlines()
+                # for line in lines:
+                #     clean_txt = re.sub(clean_re, '', line).strip()
+                #     if clean_txt != '':
+                #         clean_lines.append(clean_txt)
         except OSError:
             print(f'No se pudo abrir el archivo: {file}')
             final_time = 'NA'
         try:
             with open(output_file, 'w', encoding='utf-8') as output_obj:
-                output_obj.write('\n'.join(str(element) for element in clean_lines))
+                # output_obj.write('\n'.join(str(element) for element in clean_lines))
+                output_obj.write(clean_lines)
         except OSError:
             print(f'No se pudo escribir el archivo nuevo: {output_file}')
             final_time = 'NA'
@@ -54,7 +63,7 @@ def execute_remove_tags(filepaths: list, output_file: str, logs_path: str) -> No
     """
     start_time = time.time()
     counter = 0
-    print(' Ejecutando: ACT 2. REMOVER ETIQUETAS HTML '.center(100, '*'))
+    helper.format_msg_str(' Ejecutando: ACT 2. REMOVER ETIQUETAS HTML ')
     try:
         with open(output_file, 'w', encoding='utf-8') as output_obj:
             output_obj.write('Prueba: remover etiquetas HTML.\n')
