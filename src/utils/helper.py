@@ -6,7 +6,8 @@ import PyPDF2
 TESTS_NAMES = [ '1. Abrir archivos.', '2. Remover etiquetas HTML.',
                 '3. Ordenar palabras de un archivo.', '4. Ordenar por orden alfabetico en minusculas.',
                 '5. Contabilizar ocurrencias.', '6. Contar palabras en todos los archivos.',
-                '7. Archivo Posting', '8. Hash Table', '9. Stop List', '10. Weight Tokens']
+                '7. Archivo Posting', '8. Hash Table', '9. Stop List', '10. Weight Tokens',
+                '11. Generar archivo documents', '12. Busqueda en diccionario', '13. Busqueda optimizada']
 
 MINIMAL_OCURRENCES = 5
 

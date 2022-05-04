@@ -15,6 +15,7 @@ import src.generate_dict_posting_file.dict_posting_file_creation as pf
 import src.hash_table.hash_table_creation as hash_table
 import src.stop_list.remove_elements as stop_list
 import src.weight_tokens.weight_tokens as weight_t
+import src.documents_id.document_id as doc_file
 
 TOKENIZED_FILES = ['simple.html', 'medium.html', 'hard.html','049.html']
 
@@ -102,6 +103,9 @@ def start_tests(tests, input_dir, output_dir):
         posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
         dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
+        
+        # Eleventh
+        doc_id_dict = doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
     else:
         output_logs = execute_individual_activities(tests, output_dir, input_dir)
 
@@ -201,6 +205,11 @@ def execute_individual_activities(tests, output_dir, input_dir):
     if '10' in tests:
         final_logs.append(output_logs[9])
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
+    
+    if '11' in tests:
+        final_logs.append(output_logs[10])
+        doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
+
     return final_logs
 
 
