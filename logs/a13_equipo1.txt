@@ -1,0 +1,25 @@
+--> BUSQUEDA DE TOKENS <--
+
+1. Token: gauch
+***** Token encontrado en los siguientes documentos: *****
+-> hard.html. Peso: 4.0
+-> simple.html. Peso: 2.7777
+Tiempo de busqueda: 0.5784497261047363
+
+2. Token: arkansas
+***** Token encontrado en los siguientes documentos: *****
+-> 400.html. Peso: 0.5988
+-> 413.html. Peso: 0.5952
+-> 399.html. Peso: 0.5917
+-> 411.html. Peso: 0.5917
+-> 430.html. Peso: 0.5780
+-> 402.html. Peso: 0.5714
+-> 404.html. Peso: 0.5714
+-> 406.html. Peso: 0.5714
+-> 422.html. Peso: 0.5714
+-> 424.html. Peso: 0.5714
+Tiempo de busqueda: 0.4855186939239502
+
+Tiempo final de busqueda de tokens: 29.435715436935425
+
+Tiempo final del programa: 29.45413327217102 segundos.

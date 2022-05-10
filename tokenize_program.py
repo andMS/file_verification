@@ -15,6 +15,9 @@ import src.generate_dict_posting_file.dict_posting_file_creation as pf
 import src.hash_table.hash_table_creation as hash_table
 import src.stop_list.remove_elements as stop_list
 import src.weight_tokens.weight_tokens as weight_t
+import src.documents_id.document_id as doc_file
+import src.search_token.token_retrieval as tr
+import src.search_token.token_search as ts
 
 TOKENIZED_FILES = ['simple.html', 'medium.html', 'hard.html','049.html']
 
@@ -89,6 +92,8 @@ def start_tests(tests, input_dir, output_dir):
         pf.execute_create_dict_posting_file(file_paths, output_logs[6], tokenized_gen, output_dir)
 
         # Eighth
+        hash_table_dict = os.path.join(output_dir, 'dictionary_hash_table.txt')
+        posting_hash_table = os.path.join(output_dir, 'posting_hash_table.txt')
         hash_table.create_dictionary_hash_table(file_paths, output_logs[7], output_dir, tokenized_gen)
         del hash_table.HASH_TABLE
 
@@ -102,6 +107,24 @@ def start_tests(tests, input_dir, output_dir):
         posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
         dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
+
+        # Eleventh
+        document_id = os.path.join(output_dir, 'documents_id.txt')
+        posting_path = os.path.join(output_dir, 'posting_weight_tokens.txt')
+        id_dict = doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
+        doc_file.modify_posting_file(output_dir, posting_path, id_dict)
+
+        # Twelveth
+        posting_act_12 = os.path.join(output_dir, 'posting_act12.txt')
+        dict_act12 = os.path.join(output_dir, 'dictionary_act12.txt')
+        tr.generate_files_non_stop_list(output_dir, hash_table_dict, document_id, posting_hash_table, output_logs[11])
+        docs_dict = tr.generate_document_id_dict(document_id)
+        posting_lines, dictionary_id = tr.generate_file_dicts(posting_act_12, dict_act12)
+        tr.token_menu(output_logs[11], docs_dict, posting_lines, dictionary_id)
+
+        # Thirteenth
+        ts.optimized_search(output_logs[12], output_dir)
+
     else:
         output_logs = execute_individual_activities(tests, output_dir, input_dir)
 
@@ -130,7 +153,7 @@ def execute_individual_activities(tests, output_dir, input_dir):
     if '2' in tests or not os.path.exists(clean_html_logs):
         final_logs.append(output_logs[1])
         if not os.path.exists(clean_html_logs) and '2' not in tests:
-            print(  '\nWARNING: Los archivos sin etiquetas HTML no se encontraron.' +
+            print(  '\nAVISO: Los archivos sin etiquetas HTML no se encontraron.' +
                     ' Se tienen que remover las etiquetas HTML primero\n')
         helper.validate_logs_path(clean_html_logs)
         rt.execute_remove_tags(input_dir, output_logs[1], clean_html_logs)
@@ -149,7 +172,7 @@ def execute_individual_activities(tests, output_dir, input_dir):
     letters_logs = os.path.join(output_dir, 'letters_act4')
     if '4' in tests or (not os.path.exists(letters_logs) and total_sum >= act_4_sum):
         if not os.path.exists(letters_logs) and '4' not in tests:
-            print(  '\nWARNING: Los archivos con las palabras ordenadas en minusculas no se encontraron.' +
+            print(  '\nAVISO: Los archivos con las palabras ordenadas en minusculas no se encontraron.' +
                     ' Se tienen que ordenar las palabras primero.\n')
         final_logs.append(output_logs[3])
         helper.validate_logs_path(letters_logs)
@@ -169,7 +192,7 @@ def execute_individual_activities(tests, output_dir, input_dir):
     required_tokenized = check_tokenized_dependencies(tests)
     if '6' in tests or (not os.path.exists(tokenized_gen) and required_tokenized):
         if not os.path.exists(tokenized_gen) and '6' not in tests:
-            print(  '\nWARNING: Los archivos tokenizados no se encontraron.' +
+            print(  '\nAVISO: Los archivos tokenizados no se encontraron.' +
                     ' Se tienen que tokenizar primero\n')
         final_logs.append(output_logs[5])
         helper.validate_logs_path(tokenized_gen)
@@ -181,26 +204,84 @@ def execute_individual_activities(tests, output_dir, input_dir):
         pf.execute_create_dict_posting_file(file_paths, output_logs[6], tokenized_gen, output_dir)
 
     # Eighth - Create dictionary and posting file with hash table implementation
-    if '8' in tests:
+    hash_table_dict = os.path.join(output_dir, 'dictionary_hash_table.txt')
+    posting_hash_table = os.path.join(output_dir, 'posting_hash_table.txt')
+    if '8' in tests or (('12' in tests or '13' in tests) and \
+        (not os.path.exists(hash_table_dict) or not os.path.exists(posting_hash_table))):
+        if (not os.path.exists(hash_table_dict) or not os.path.exists(posting_hash_table)) and \
+            '8' not in tests:
+            print(  '\nAVISO: Los archivos dictionary y posting hash table no se encontraron.'+
+                    ' Se tienen que generar primero.\n')
         final_logs.append(output_logs[7])
         hash_table.create_dictionary_hash_table(file_paths, output_logs[7], output_dir, tokenized_gen)
         del hash_table.HASH_TABLE
+        print(f'Archivos generados: \n-->{hash_table_dict}\n-->{posting_hash_table}\n-->{output_logs[7]}\n')
 
     # Nineth - Remove elements from stop list
     posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
     dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
-    if '9' in tests or ('10' in tests and \
+    if '9' in tests or (('10' in tests or '11' in tests) and \
         (not os.path.exists(posting_file_path) or not os.path.exists(dictionary_file_path))):
+        if (not os.path.exists(posting_file_path) or not os.path.exists(dictionary_file_path) and \
+            '9' not in tests):
+            print(  '\nAVISO: Los archivos dictionary y posting stop list no se encontraron.'+
+                    ' Se tienen que generar primero.\n')
         final_logs.append(output_logs[8])
         stop_list_path = str(Path(input_dir[0]).parent).replace('Files','')
         stop_list_path = os.path.join(stop_list_path, 'Actividad9_stoplist.txt')
         stop_list.execute_stop_list(stop_list_path, file_paths, output_logs[8], output_dir, tokenized_gen)
         del stop_list.HASH_TABLE
+        print(f'Archivos generados: \n-->{posting_file_path}\n-->{dictionary_file_path}\n-->{output_logs[8]}\n')
 
-    # Tenth
-    if '10' in tests:
+    # Tenth - create file with weight tokens
+    posting_path = os.path.join(output_dir, 'posting_weight_tokens.txt')
+    dictionary_defined_size = os.path.join(output_dir, 'dictionary_defined_size.txt')
+    if '10' in tests or (('11' in tests) and \
+        not os.path.exists(posting_path)):
+        if not os.path.exists(posting_path) and '10' not in tests:
+            print(  '\nAVISO: El archivo de weight tokens no se encontro.'+
+                    ' Se tienen que generar primero.\n')
         final_logs.append(output_logs[9])
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
+        print(f'Archivos generados: \n-->{posting_path}\n-->{dictionary_defined_size}\n-->{output_logs[9]}\n')
+
+    # Eleventh - Create document file
+    document_id = os.path.join(output_dir, 'documents_id.txt')
+    posting_doc_id = os.path.join(output_dir, 'posting_doc_id.txt')
+    if '11' in tests or (('12' in tests or '13' in tests) and not os.path.exists(document_id)):
+        if not os.path.exists(document_id) and '11' not in tests:
+            print(  '\nAVISO: El archivo de ID de documentos no se encontro.'+
+                    ' Se tienen que generar primero.\n')
+        final_logs.append(output_logs[10])
+        id_dict = doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
+        if '11' in tests:
+            doc_file.modify_posting_file(output_dir, posting_path, id_dict)
+        print(f'Archivos generados: \n-->{document_id}\n-->{posting_doc_id}\n-->{output_logs[10]}\n')
+
+    posting_act_12 = os.path.join(output_dir, 'posting_act12.txt')
+    dict_act12 = os.path.join(output_dir, 'dictionary_act12.txt')
+
+    # Twelveth - Create posting, dict and doc file w/o stop list and search tokens
+    if '12' in tests or ('13' in tests and \
+            (not os.path.exists(posting_act_12) or not os.path.exists(dict_act12))):
+        if '12' not in tests and \
+            (not os.path.exists(posting_act_12) or not os.path.exists(dict_act12)):
+            print(  '\nAVISO: los archivos necesarios no se encontraron.'+
+                    ' Se tienen que generar primero.\n')
+        final_logs.append(output_logs[11])
+        tr.generate_files_non_stop_list(output_dir, hash_table_dict, document_id, posting_hash_table, output_logs[11])
+        docs_dict = tr.generate_document_id_dict(document_id)
+        if '12' in tests:
+            posting_lines, dictionary_id = tr.generate_file_dicts(posting_act_12, dict_act12)
+            tr.token_menu(output_logs[11], docs_dict, posting_lines, dictionary_id)
+        print(f'Archivos generados: \n-->{posting_act_12}\n-->{dict_act12}\n-->{output_logs[11]}\n')
+
+    # Thirteenth - Optimized token searching
+    if '13' in tests:
+        final_logs.append(output_logs[12])
+        ts.optimized_search(output_logs[12], output_dir)
+        print(f'Archivos generados: \n-->{output_logs[12]}\n')
+
     return final_logs
 
 
@@ -213,6 +294,12 @@ def check_tokenized_dependencies(tests):
     if '9' in tests:
         required = True
     if '10' in tests:
+        required = True
+    if '11' in tests:
+        required = True
+    if '12' in tests:
+        required = True
+    if '13' in tests:
         required = True
     return required
 
