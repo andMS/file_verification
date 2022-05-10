@@ -22,6 +22,9 @@ def token_search_menu(output_file, output_dir):
     searches = 1
     print('Introduce el token que deseas buscar: ')
     token = input()
+    with open(output_file, 'a') as output_obj:
+        for _ in range(0,10):
+            output_obj.write('.\n')
     token_retrieval(token, searches, output_file, output_dir)
     while True:
         print('Deseas buscar otro token? (y/n)')
@@ -46,10 +49,10 @@ def token_retrieval(token, counter, output_file, output_dir):
     documents_id = os.path.join(output_dir, 'documents_id.txt')
     docs_dict = tr.generate_document_id_dict(documents_id)
     posting_lines, dictionary = tr.generate_file_dicts(posting_path, dict_path)
-    with open(output_file, 'a', encoding='utf-8') as output_obj:
+    with open(output_file, 'a') as output_obj:
         file_limit = 0
         print(f'{counter}. Token: {token}')
-        output_obj.write(f'\n{counter}. Token: {token}\n')
+        output_obj.write(f'{counter}. Token: {token}\n')
         try:
             positions = dictionary[token]
             msg_str = '***** Token encontrado en los siguientes documentos: *****\n'

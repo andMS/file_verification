@@ -1,10 +1,10 @@
 --> BUSQUEDA DE TOKENS <--
 
- encontrado en los siguientes documentos: *****
+1. Token: gauch
+***** Token encontrado en los siguientes documentos: *****
 -> hard.html
 -> simple.html
-Tiempo de busqueda: 0.3437230587005615
-
+Tiempo de busqueda: 0.3537430763244629
 
 2. Token: arkansas
 ***** Token encontrado en los siguientes documentos: *****
@@ -18,6 +18,10 @@ Tiempo de busqueda: 0.3437230587005615
 -> 402.html
 -> 403.html
 -> 404.html
-Tiempo de busqueda: 0.34366416931152344
+Tiempo de busqueda: 0.3749969005584717
 
-Tiempo final de busqueda de tokens: 7.524266242980957
+3. Token: spiderman
+-> Token no encontrado en los archivos.
+Tiempo de busqueda: 0.3592953681945801
+
+Tiempo final de busqueda de tokens: 8.616575241088867
