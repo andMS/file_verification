@@ -11,6 +11,7 @@ def generate_documents_id_file(log_file, logs_dir, filepaths):
     documents_id = {}
     document_id_name = os.path.join(logs_dir, 'documents_id.txt')
     with open(log_file, 'w', encoding='utf-8') as log_obj:
+        print('--> Generando archivo documents\n')
         log_obj.write('--> Generando archivo documents\n')
         with open(document_id_name, 'w', encoding='utf-8') as document_obj:
             counter = 0
@@ -22,11 +23,14 @@ def generate_documents_id_file(log_file, logs_dir, filepaths):
                 file_time = time.time() - file_time
                 log_obj.write(f'{counter : >03}. {os.path.relpath(file) : <100}{file_time}\n')
         log_obj.write(f'Tiempo de ejecucion: {time.time() - general_time}\n')
+        print(f'Tiempo de ejecucion: {time.time() - general_time}\n')
 
     return documents_id
 
 
 def modify_posting_file(output_dir, posting_path, id_dict):
+    start_time = time.time()
+    print('--> Generando nuevo archivo posting:\n')
     new_posting_path = os.path.join(output_dir, 'posting_doc_id.txt')
     with open(new_posting_path, 'w', encoding='utf-8') as output_obj:
         with open(posting_path, 'r', encoding='utf-8') as posting_obj:
@@ -37,3 +41,4 @@ def modify_posting_file(output_dir, posting_path, id_dict):
                     if str(content[0]).strip() in key:
                         content.append(id_dict[key])
                 output_obj.write(f'{content[2] :>3} | {content[1]}')
+    print(f'Tiempo de ejecucion: {time.time() - start_time}\n')

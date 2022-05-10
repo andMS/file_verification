@@ -26,10 +26,24 @@ def generate_files_non_stop_list(logs_dir, dict_file, document_id, posting_path,
         msg_str = f'\nTiempo final de ejecucion (obtener weight tokens): {(time.time() - token_time)}\n'
         logs_obj.write(msg_str)
         print(msg_str)
+
+        # log_temp = os.path.join(logs_dir, 'diccionario_weight.txt')
+        # with open(log_temp, 'w') as temp:
+        #     for key, values in weight_tokens.items():
+        #         temp.write(f'{key}\n')
+        #         temp.write(f'{values}\n')
+
+        with open(dict_file,'r') as ex:
+            with open(posting_path, 'r') as ex2:
+                dict_lines = ex.readlines()
+                posting_lines = ex2.readlines()
+                posting_content, times, _ = wt.get_token_files(dict_lines, posting_lines, weight_tokens)
         print('--> Generando posting file con weight tokens (sin stop list)\n')
         start_time = time.time()
         id_dicts = generate_document_id_dict(document_id)
-        generate_posting_non_stoplist(posting_path, logs_dir, id_dicts)
+        logs_obj.write(f'\n---> {os.path.relpath(posting_path) : <100}{times[0]}\n')
+        logs_obj.write(f'---> {os.path.relpath(dict_file) : <100}{times[1]}\n')
+        generate_posting_non_stoplist(logs_dir, id_dicts, posting_content)
         print('\n--> Generando nuevo diccionario\n')
         with open(dict_file, 'r', encoding='utf-8') as dict_obj:
             newname = os.path.join(logs_dir, 'dictionary_act12.txt')
@@ -46,10 +60,12 @@ def generate_files_non_stop_list(logs_dir, dict_file, document_id, posting_path,
 def generate_file_dicts(posting_path, dictionary_path):
     # Generate posting_dict
     posting_lines = []
+    posting_weights = []
     with open(posting_path, 'r', encoding='utf-8') as posting_obj:
         lines = posting_obj.readlines()
         for line in lines:
             posting_lines.append(line.split('|')[0].strip())
+            posting_weights.append(line.split('|')[1].strip())
     # Generate dictionary dict
     dictionary_id = {}
     with open(dictionary_path, 'r', encoding='utf-8') as dictionary_obj:
@@ -58,7 +74,7 @@ def generate_file_dicts(posting_path, dictionary_path):
             elements = line.split()
             dictionary_id[elements[0]] = [elements[1], elements[2]]
 
-    return posting_lines, dictionary_id
+    return posting_lines, dictionary_id, posting_weights
 
 
 def generate_document_id_dict(document_path):
@@ -72,17 +88,15 @@ def generate_document_id_dict(document_path):
     return document_id
 
 
-def generate_posting_non_stoplist(posting_path, output_dir, ids_dict):
+def generate_posting_non_stoplist(output_dir, ids_dict, posting_content):
     newpath = os.path.join(output_dir, 'posting_act12.txt')
     with open(newpath, 'w', encoding='utf-8') as output_obj:
-        with open(posting_path, 'r', encoding='utf-8') as posting_obj:
-            lines = posting_obj.readlines()
-            for line in lines:
-                content = line.split('|')
-                name = content[0].strip().replace('tokenized_all_', '')
-                for key, value in ids_dict.items():
-                    if name == value:
-                        output_obj.write(f'{key:>3} | {content[1]}')
+        for element in posting_content:
+            id = element[0].replace('tokenized_all_', '')
+            weight = element[2]
+            for key, value in ids_dict.items():
+                if id == value:
+                    output_obj.write(f'{key:>3} | {weight}\n')
 
 
 def token_menu(output_logs, docs_dict, posting_lines, dictionary_id):

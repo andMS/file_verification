@@ -2,26 +2,24 @@
 
 1. Token: gauch
 ***** Token encontrado en los siguientes documentos: *****
--> hard.html
--> simple.html
-Tiempo de busqueda: 0.3537430763244629
+-> hard.html. Peso: 4.0
+-> simple.html. Peso: 2.7777
+Tiempo de busqueda: 0.5784497261047363
 
 2. Token: arkansas
 ***** Token encontrado en los siguientes documentos: *****
--> 002.html
--> 027.html
--> 075.html
--> 398.html
--> 399.html
--> 400.html
--> 401.html
--> 402.html
--> 403.html
--> 404.html
-Tiempo de busqueda: 0.3749969005584717
+-> 400.html. Peso: 0.5988
+-> 413.html. Peso: 0.5952
+-> 399.html. Peso: 0.5917
+-> 411.html. Peso: 0.5917
+-> 430.html. Peso: 0.5780
+-> 402.html. Peso: 0.5714
+-> 404.html. Peso: 0.5714
+-> 406.html. Peso: 0.5714
+-> 422.html. Peso: 0.5714
+-> 424.html. Peso: 0.5714
+Tiempo de busqueda: 0.4855186939239502
 
-3. Token: spiderman
--> Token no encontrado en los archivos.
-Tiempo de busqueda: 0.3592953681945801
+Tiempo final de busqueda de tokens: 29.435715436935425
 
-Tiempo final de busqueda de tokens: 8.616575241088867
+Tiempo final del programa: 29.45413327217102 segundos.

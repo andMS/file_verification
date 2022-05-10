@@ -504,6 +504,6 @@
 503. resources\Files\hard.html                                                                           0.0
 504. resources\Files\medium.html                                                                         0.0
 505. resources\Files\simple.html                                                                         0.0
-Tiempo de ejecucion: 0.01564335823059082
+Tiempo de ejecucion: 0.01564812660217285
 
-Tiempo final del programa: 31.357228994369507 segundos.
+Tiempo final del programa: 33.25434923171997 segundos.

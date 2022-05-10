@@ -187,7 +187,7 @@ x: 1
 you: 4
 your: 2
 
-Tiempo total de ejecucion: 0.0253298282623291
+Tiempo total de ejecucion: 0.13692235946655273
 
 --> Encontrar numero de ocurrencias en un archivo (repeticion)
 
@@ -378,6 +378,4 @@ simple: 1
 that: 1
 very: 1
 
-Tiempo total de ejecucion: 0.004998445510864258
-
-Tiempo final del programa: 91.87986755371094 segundos.
+Tiempo total de ejecucion: 0.008994102478027344
