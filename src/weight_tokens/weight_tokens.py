@@ -129,7 +129,7 @@ def get_token_files(dict_lines, posting_lines, weight_tokens):
     for line in posting_lines:
         line = line.replace('\n', '')
         elements = line.split('|')
-        posting_files.append([elements[0],elements[1]])
+        posting_files.append([elements[0].strip(),elements[1].strip()])
     posting_time = time.time() - start_time
 
     # Getting keys and indexes

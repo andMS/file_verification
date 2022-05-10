@@ -26,3 +26,14 @@ def generate_documents_id_file(log_file, logs_dir, filepaths):
     return documents_id
 
 
+def modify_posting_file(output_dir, posting_path, id_dict):
+    new_posting_path = os.path.join(output_dir, 'posting_doc_id.txt')
+    with open(new_posting_path, 'w', encoding='utf-8') as output_obj:
+        with open(posting_path, 'r', encoding='utf-8') as posting_obj:
+            lines = posting_obj.readlines()
+            for line in lines:
+                content = line.split('|')
+                for key in id_dict.keys():
+                    if str(content[0]).strip() in key:
+                        content.append(id_dict[key])
+                output_obj.write(f'{content[2] :>3} | {content[1]}')

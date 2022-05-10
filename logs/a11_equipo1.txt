@@ -181,7 +181,7 @@
 180. resources\Files\181.html                                                                            0.0
 181. resources\Files\182.html                                                                            0.0
 182. resources\Files\183.html                                                                            0.0
-183. resources\Files\184.html                                                                            0.0009992122650146484
+183. resources\Files\184.html                                                                            0.0
 184. resources\Files\185.html                                                                            0.0
 185. resources\Files\186.html                                                                            0.0
 186. resources\Files\187.html                                                                            0.0
@@ -205,7 +205,7 @@
 204. resources\Files\205.html                                                                            0.0
 205. resources\Files\206.html                                                                            0.0
 206. resources\Files\207.html                                                                            0.0
-207. resources\Files\208.html                                                                            0.0010008811950683594
+207. resources\Files\208.html                                                                            0.0
 208. resources\Files\209.html                                                                            0.0
 209. resources\Files\210.html                                                                            0.0
 210. resources\Files\211.html                                                                            0.0
@@ -256,7 +256,7 @@
 255. resources\Files\256.html                                                                            0.0
 256. resources\Files\257.html                                                                            0.0
 257. resources\Files\258.html                                                                            0.0
-258. resources\Files\259.html                                                                            0.0009992122650146484
+258. resources\Files\259.html                                                                            0.0
 259. resources\Files\260.html                                                                            0.0
 260. resources\Files\261.html                                                                            0.0
 261. resources\Files\262.html                                                                            0.0
@@ -504,6 +504,6 @@
 503. resources\Files\hard.html                                                                           0.0
 504. resources\Files\medium.html                                                                         0.0
 505. resources\Files\simple.html                                                                         0.0
-Tiempo de ejecucion: 0.035979270935058594
+Tiempo de ejecucion: 0.01564335823059082
 
-Tiempo final del programa: 0.05395054817199707 segundos.
+Tiempo final del programa: 31.357228994369507 segundos.
