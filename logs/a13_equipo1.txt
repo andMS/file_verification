@@ -1,0 +1,23 @@
+--> BUSQUEDA DE TOKENS <--
+
+ encontrado en los siguientes documentos: *****
+-> hard.html
+-> simple.html
+Tiempo de busqueda: 0.3437230587005615
+
+
+2. Token: arkansas
+***** Token encontrado en los siguientes documentos: *****
+-> 002.html
+-> 027.html
+-> 075.html
+-> 398.html
+-> 399.html
+-> 400.html
+-> 401.html
+-> 402.html
+-> 403.html
+-> 404.html
+Tiempo de busqueda: 0.34366416931152344
+
+Tiempo final de busqueda de tokens: 7.524266242980957

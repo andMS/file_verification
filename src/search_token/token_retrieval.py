@@ -116,9 +116,8 @@ def search_token(docs_dict, posting_lines, dictionary_id, token):
     try:
         positions = dictionary_id[token]
         print('Token encontrado en los siguientes documentos:\n')
-        print(positions)
         for x in range(int(positions[1]), (int(positions[0]) + int(positions[1]))):
             print(f'-> {docs_dict[posting_lines[x]]}')
     except KeyError:
         print('Token no se encuentra en los archivos.\n')
-    print(f'Tiempo en encontrar token: {time.time() - start_time}\n')
+    print(f'Tiempo de busqueda: {time.time() - start_time}\n')

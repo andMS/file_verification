@@ -17,6 +17,7 @@ import src.stop_list.remove_elements as stop_list
 import src.weight_tokens.weight_tokens as weight_t
 import src.documents_id.document_id as doc_file
 import src.search_token.token_retrieval as tr
+import src.search_token.token_search as ts
 
 TOKENIZED_FILES = ['simple.html', 'medium.html', 'hard.html','049.html']
 
@@ -104,7 +105,7 @@ def start_tests(tests, input_dir, output_dir):
         posting_file_path = os.path.join(output_dir, 'posting_stop_list.txt')
         dictionary_file_path = os.path.join(output_dir, 'dictionary_stop_list.txt')
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
-        
+
         # Eleventh
         doc_id_dict = doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
     else:
@@ -186,7 +187,10 @@ def execute_individual_activities(tests, output_dir, input_dir):
         pf.execute_create_dict_posting_file(file_paths, output_logs[6], tokenized_gen, output_dir)
 
     # Eighth - Create dictionary and posting file with hash table implementation
-    if '8' in tests:
+    hash_table_dict = os.path.join(output_dir, 'dictionary_hash_table.txt')
+    posting_hash_table = os.path.join(output_dir, 'posting_hash_table.txt')
+    if '8' in tests or (('12' in tests or '13' in tests) and \
+        (not os.path.exists(hash_table_dict) or not os.path.exists(posting_hash_table))):
         final_logs.append(output_logs[7])
         hash_table.create_dictionary_hash_table(file_paths, output_logs[7], output_dir, tokenized_gen)
         del hash_table.HASH_TABLE
@@ -202,30 +206,37 @@ def execute_individual_activities(tests, output_dir, input_dir):
         stop_list.execute_stop_list(stop_list_path, file_paths, output_logs[8], output_dir, tokenized_gen)
         del stop_list.HASH_TABLE
 
-    # Tenth
+    # Tenth - create file with weight tokens
     posting_path = os.path.join(output_dir, 'posting_weight_tokens.txt')
     if '10' in tests or ('11' in tests and \
         not os.path.exists(posting_path)):
         final_logs.append(output_logs[9])
         weight_t.execute_weight_tokens(posting_file_path, dictionary_file_path, output_logs[9], output_dir)
-    
+
+    # Eleventh - Create document file
     if '11' in tests:
         final_logs.append(output_logs[10])
         id_dict = doc_file.generate_documents_id_file(output_logs[10], output_dir, input_dir)
         doc_file.modify_posting_file(output_dir, posting_path, id_dict)
 
-    hash_table_dict = os.path.join(output_dir, 'dictionary_hash_table.txt')
-    posting_hash_table = os.path.join(output_dir, 'posting_hash_table.txt')
     posting_act_12 = os.path.join(output_dir, 'posting_act12.txt')
     dict_act12 = os.path.join(output_dir, 'dictionary_act12.txt')
     document_id = os.path.join(output_dir, 'documents_id.txt')
+
+    # Twelveth - Create posting, dict and doc file w/o stop list and search tokens
     if '12' in tests:
         final_logs.append(output_logs[11])
-        tr.generate_files_non_stop_list(output_dir, hash_table_dict, document_id, posting_hash_table, output_logs[11])
+        if '12' in tests or ('13' in tests and \
+            (not os.path.exists(posting_act_12) or not os.path.exists(dict_act12))):
+            tr.generate_files_non_stop_list(output_dir, hash_table_dict, document_id, posting_hash_table, output_logs[11])
         docs_dict = tr.generate_document_id_dict(document_id)
         posting_lines, dictionary_id = tr.generate_file_dicts(posting_act_12, dict_act12)
         tr.token_menu(output_logs[11], docs_dict, posting_lines, dictionary_id)
-    
+
+    # Thirteenth - Optimized token searching
+    if '13' in tests:
+        ts.optimized_search(output_logs[12], output_dir)
+
     return final_logs
 
 
